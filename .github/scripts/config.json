@@ -1,6 +1,6 @@
 {
   "repo": "New-Grad-Software-Engineer-Jobs",
-  "owner": "ponder-surveys",
+  "owner": "dreamworkhq",
   "title": "New Grad Software Engineer Jobs",
   "tagline": "Entry-level software engineering, data, and security roles in the United States. No senior titles, no internships. Built for people applying to their first full-time role.",
   "description": "New grad software engineer jobs in the US, updated daily. Entry-level SWE, data, and security roles with salaries, pulled from 400,000+ crawled listings.",
@@ -53,15 +53,15 @@
   "showAiColumn": false,
   "siblings": [
     {
-      "repo": "ponder-surveys/Tech-Internships-2026",
+      "repo": "dreamworkhq/Tech-Internships-2026",
       "label": "Tech Internships 2026: SWE, data, product, and design internships"
     },
     {
-      "repo": "ponder-surveys/Remote-Tech-Jobs",
+      "repo": "dreamworkhq/Remote-Tech-Jobs",
       "label": "Remote Tech Jobs: fully remote engineering roles"
     },
     {
-      "repo": "ponder-surveys/AI-ML-Jobs",
+      "repo": "dreamworkhq/AI-ML-Jobs",
       "label": "AI and ML Jobs: AI-first roles, classified daily"
     }
   ],
@@ -72,7 +72,7 @@
     },
     {
       "q": "What counts as a new grad job here?",
-      "a": "Roles classified as junior in engineering, data, or security. Senior, staff, and management titles are filtered out, and so are internships, which have <a href=\"https://github.com/ponder-surveys/Tech-Internships-2026\">their own list</a>. Most roles fit 2025 to 2027 graduates in CS and related fields."
+      "a": "Roles classified as junior in engineering, data, or security. Senior, staff, and management titles are filtered out, and so are internships, which have <a href=\"https://github.com/dreamworkhq/Tech-Internships-2026\">their own list</a>. Most roles fit 2025 to 2027 graduates in CS and related fields."
     },
     {
       "q": "Where does the salary data come from?",
