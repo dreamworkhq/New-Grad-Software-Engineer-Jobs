@@ -1,6 +1,27 @@
-# New Grad Software Engineer Jobs
+<a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-new-grad-swe"><img src="./static/img/banner.svg" alt="Dreamwork. 400,000+ live jobs, crawled daily. Matched to your resume. Applied for you." width="100%"></a>
 
-Entry-level software engineering, data, and security roles in the United States. No senior titles, no internships. Built for people applying to their first full-time role.
+<h1 align="center">New Grad Software Engineer Jobs</h1>
+
+<p align="center">Entry-level software engineering, data, and security roles in the United States. No senior titles, no internships. Built for people applying to their first full-time role.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/open_roles-112-7C3AED?labelColor=131318&style=flat-square" alt="112 open roles">
+  <img src="https://img.shields.io/github/last-commit/dreamworkhq/New-Grad-Software-Engineer-Jobs?label=updated&color=3B82F6&labelColor=131318&style=flat-square" alt="last updated">
+</p>
+
+<p align="center">
+  <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-new-grad-swe"><img src="./static/img/btn-matches.svg" width="200" alt="See your matches on Dreamwork"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=link_row&utm_campaign=gh-new-grad-swe">dreamworkhq.com</a>
+  ·
+  <a href="https://www.dreamworkhq.com/research?utm_source=github&utm_medium=link_row&utm_campaign=gh-new-grad-swe">Hiring research</a>
+  ·
+  <a href="https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=link_row&utm_campaign=gh-new-grad-swe">AI Labor Index</a>
+  ·
+  <a href="../../issues">Report a listing</a>
+</p>
 
 Star this repo and new roles land in your GitHub feed every day. Listings come from [Dreamwork](https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-new-grad-swe), which crawls 400,000+ jobs directly from company career pages.
 
