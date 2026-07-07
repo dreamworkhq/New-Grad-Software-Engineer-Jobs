@@ -1,0 +1,48 @@
+{
+  "repo": "New-Grad-Software-Engineer-Jobs",
+  "owner": "ponder-surveys",
+  "title": "New Grad Software Engineer Jobs — updated daily",
+  "emoji": "🎓",
+  "tagline": "Entry-level software engineering, data, and security roles across the United States for new grads — pulled every day from Dreamwork's live crawl of 400,000+ company career pages, with parsed salaries.",
+  "description": "🎓 New grad software engineer jobs in the US, updated daily — entry-level SWE, data, and security roles with salaries, from 400K+ crawled listings.",
+  "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-new-grad-swe",
+  "topics": ["new-grad", "newgrad", "jobs", "job-search", "software-engineering", "entry-level", "jobboard", "careers", "tech-jobs", "swe", "computer-science", "university", "hiring", "new-grad-2026", "engineering-jobs"],
+  "utmCampaign": "gh-new-grad-swe",
+  "keywords": "entry-level (new grad) software engineering, data, and security roles in the United States",
+  "sources": [
+    { "seniority": "JUNIOR", "function": "Engineering", "country": "US" },
+    { "seniority": "JUNIOR", "function": "Data Science", "country": "US" },
+    { "seniority": "JUNIOR", "function": "Security", "country": "US" }
+  ],
+  "usOnly": true,
+  "titleInclude": "software|developer|\\bswe\\b|front[- ]?end|back[- ]?end|full[- ]?stack|mobile|\\bios\\b|android|platform|infrastructure|devops|site reliability|\\bsre\\b|data engineer|data scientist|data analyst|machine learning|ml engineer|ai engineer|security engineer|security analyst|cloud|\\bqa\\b|test engineer|embedded|firmware|systems engineer|solutions engineer|web develop",
+  "titleExclude": "senior|staff|principal|\\blead\\b|manager|director|\\bvp\\b|head of|intern\\b|internship|co-?op\\b|ph\\.?d",
+  "maxRows": 100,
+  "jsonRows": 250,
+  "minRows": 25,
+  "maxPagesPerSource": 40,
+  "showAiColumn": false,
+  "siblings": [
+    { "repo": "ponder-surveys/Tech-Internships-2026", "label": "Tech Internships 2026 — SWE, data, product & design internships" },
+    { "repo": "ponder-surveys/Remote-Tech-Jobs", "label": "Remote Tech Jobs — work-from-anywhere engineering roles" },
+    { "repo": "ponder-surveys/AI-ML-Jobs", "label": "AI & ML Jobs — AI-first roles, classified daily" }
+  ],
+  "faq": [
+    {
+      "q": "How often is this list updated?",
+      "a": "Every day. A GitHub Action pulls the freshest entry-level software engineering jobs from Dreamwork's public API, which crawls 400,000+ live listings directly from company career pages (Greenhouse, Lever, Ashby, Workday, and more). Use <kbd>Ctrl</kbd>+<kbd>F</kbd> to search for backend, frontend, full-stack, mobile, embedded, DevOps, or cybersecurity roles."
+    },
+    {
+      "q": "What counts as a \"new grad\" job here?",
+      "a": "Roles classified as junior/entry-level in engineering, data science, or security — no senior, staff, or management titles, and no internships (those live in our [Tech Internships list](https://github.com/ponder-surveys/Tech-Internships-2026)). Most are a great fit for 2025–2027 graduates in CS and related fields."
+    },
+    {
+      "q": "Where does the salary data come from?",
+      "a": "Salaries are parsed from the job descriptions themselves (many US postings disclose ranges due to pay-transparency laws). If a posting doesn't disclose pay, the column is blank."
+    },
+    {
+      "q": "Can a tool just apply to these for me?",
+      "a": "That's literally what <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-new-grad-swe\">Dreamwork</a> does — it matches your résumé against every listing here, tailors your application, and can apply autonomously while you sleep. The free tier shows all your matches."
+    }
+  ]
+}
