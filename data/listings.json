@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T16:49:42.907Z",
+  "generatedAt": "2026-07-07T17:04:20.048Z",
   "source": "https://www.dreamworkhq.com",
   "list": "New-Grad-Software-Engineer-Jobs",
   "count": 1500,
@@ -5003,20 +5003,6 @@
       "url": "https://www.dreamworkhq.com/job/976840bd-a257-4f44-9ff4-2742943de346?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "5d06fc94-abeb-4d4e-89b9-7fa5a616c068",
-      "title": "Associate Electrical Systems Engineer ",
-      "company": "Greenpointtechnologies",
-      "companyDomain": "greenpointtechnologies.com",
-      "location": "Denton, Texas, United States",
-      "remoteType": null,
-      "salaryMin": 80000,
-      "salaryMax": 105000,
-      "aiRoleKind": null,
-      "postedAt": "2026-05-27T19:20:28.000Z",
-      "firstIndexedAt": "2026-05-29T06:32:24.157Z",
-      "url": "https://www.dreamworkhq.com/job/5d06fc94-abeb-4d4e-89b9-7fa5a616c068?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "f891f542-4de3-4f42-896b-68760b17bbee",
       "title": "Associate Electrical Systems Engineer ",
       "company": "Greenpointtechnologies",
@@ -5029,6 +5015,20 @@
       "postedAt": "2026-05-27T19:20:28.000Z",
       "firstIndexedAt": "2026-05-29T06:32:24.157Z",
       "url": "https://www.dreamworkhq.com/job/f891f542-4de3-4f42-896b-68760b17bbee?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "5d06fc94-abeb-4d4e-89b9-7fa5a616c068",
+      "title": "Associate Electrical Systems Engineer ",
+      "company": "Greenpointtechnologies",
+      "companyDomain": "greenpointtechnologies.com",
+      "location": "Denton, Texas, United States",
+      "remoteType": null,
+      "salaryMin": 80000,
+      "salaryMax": 105000,
+      "aiRoleKind": null,
+      "postedAt": "2026-05-27T19:20:28.000Z",
+      "firstIndexedAt": "2026-05-29T06:32:24.157Z",
+      "url": "https://www.dreamworkhq.com/job/5d06fc94-abeb-4d4e-89b9-7fa5a616c068?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "89171f06-fc92-4c3b-8619-7ea5f15dd2f8",
@@ -5241,6 +5241,20 @@
       "url": "https://www.dreamworkhq.com/job/4049285c-47bb-4e26-b225-37539dd78afc?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "a4267719-a4b2-41b7-9fa6-747ff24728c0",
+      "title": "Software Engineer 0",
+      "company": "Wyetechllc",
+      "companyDomain": "wyetech.com",
+      "location": "Annapolis Junction, Maryland",
+      "remoteType": "onsite",
+      "salaryMin": 70845,
+      "salaryMax": 171662,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-10-23T16:08:57.419Z",
+      "firstIndexedAt": "2026-05-28T13:45:27.962Z",
+      "url": "https://www.dreamworkhq.com/job/a4267719-a4b2-41b7-9fa6-747ff24728c0?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "16a12974-24a2-40fe-aaa0-0d383359ad43",
       "title": "Software Engineer 1 (API)",
       "company": "Wyetechllc",
@@ -5253,20 +5267,6 @@
       "postedAt": "2026-05-05T17:20:12.593Z",
       "firstIndexedAt": "2026-05-28T13:45:27.962Z",
       "url": "https://www.dreamworkhq.com/job/16a12974-24a2-40fe-aaa0-0d383359ad43?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "4b69f834-dfba-48e3-979f-ae60e00e9005",
-      "title": "Software Engineer 1",
-      "company": "Wyetechllc",
-      "companyDomain": "wyetech.com",
-      "location": "Linthicum Heights, Maryland",
-      "remoteType": "onsite",
-      "salaryMin": 109117,
-      "salaryMax": 223330,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-02-05T17:17:08.811Z",
-      "firstIndexedAt": "2026-05-28T13:45:27.962Z",
-      "url": "https://www.dreamworkhq.com/job/4b69f834-dfba-48e3-979f-ae60e00e9005?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "7f05600b-dd69-423f-bc94-6f1b266f88ba",
@@ -5283,20 +5283,6 @@
       "url": "https://www.dreamworkhq.com/job/7f05600b-dd69-423f-bc94-6f1b266f88ba?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "a4267719-a4b2-41b7-9fa6-747ff24728c0",
-      "title": "Software Engineer 0",
-      "company": "Wyetechllc",
-      "companyDomain": "wyetech.com",
-      "location": "Annapolis Junction, Maryland",
-      "remoteType": "onsite",
-      "salaryMin": 70845,
-      "salaryMax": 171662,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-10-23T16:08:57.419Z",
-      "firstIndexedAt": "2026-05-28T13:45:27.962Z",
-      "url": "https://www.dreamworkhq.com/job/a4267719-a4b2-41b7-9fa6-747ff24728c0?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "789f99b0-b6b0-40ea-aecc-1ff18900ab39",
       "title": "Software Engineer 1 (Potential Telework)",
       "company": "Wyetechllc",
@@ -5309,6 +5295,20 @@
       "postedAt": "2026-04-22T17:45:00.267Z",
       "firstIndexedAt": "2026-05-28T13:45:27.962Z",
       "url": "https://www.dreamworkhq.com/job/789f99b0-b6b0-40ea-aecc-1ff18900ab39?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "20cbbed8-ed2f-4c10-bf8a-8508729c8eb7",
+      "title": "Software Engineer 1",
+      "company": "Wyetechllc",
+      "companyDomain": "wyetech.com",
+      "location": "Maryland",
+      "remoteType": "onsite",
+      "salaryMin": 109117,
+      "salaryMax": 223330,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-02-02T15:05:51.276Z",
+      "firstIndexedAt": "2026-05-28T13:45:27.962Z",
+      "url": "https://www.dreamworkhq.com/job/20cbbed8-ed2f-4c10-bf8a-8508729c8eb7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "f5a199f3-e130-49a5-b697-df99f0f274f6",
@@ -5325,18 +5325,18 @@
       "url": "https://www.dreamworkhq.com/job/f5a199f3-e130-49a5-b697-df99f0f274f6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "20cbbed8-ed2f-4c10-bf8a-8508729c8eb7",
+      "id": "4b69f834-dfba-48e3-979f-ae60e00e9005",
       "title": "Software Engineer 1",
       "company": "Wyetechllc",
       "companyDomain": "wyetech.com",
-      "location": "Maryland",
+      "location": "Linthicum Heights, Maryland",
       "remoteType": "onsite",
       "salaryMin": 109117,
       "salaryMax": 223330,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-02-02T15:05:51.276Z",
+      "postedAt": "2026-02-05T17:17:08.811Z",
       "firstIndexedAt": "2026-05-28T13:45:27.962Z",
-      "url": "https://www.dreamworkhq.com/job/20cbbed8-ed2f-4c10-bf8a-8508729c8eb7?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/4b69f834-dfba-48e3-979f-ae60e00e9005?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "634cb0ab-ea31-46db-8a6d-c4baa8513b48",
@@ -5731,6 +5731,20 @@
       "url": "https://www.dreamworkhq.com/job/940a5848-094c-46da-b13f-8599bb2d1e19?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "3bb496ad-e807-4cce-86dc-ac8edcd6f212",
+      "title": "Test Engineer (Level 1 - Early Career)",
+      "company": "Stokespacetechnologies",
+      "companyDomain": "stokespagetechnologies.com",
+      "location": "Moses Lake, Washington",
+      "remoteType": "onsite",
+      "salaryMin": 95550,
+      "salaryMax": 120645,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-11-13T22:34:39.000Z",
+      "firstIndexedAt": "2026-05-28T12:46:01.601Z",
+      "url": "https://www.dreamworkhq.com/job/3bb496ad-e807-4cce-86dc-ac8edcd6f212?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "fb81db35-b8cd-4919-b05c-7aa8c43f1945",
       "title": "Junior DevOps Engineer",
       "company": "Sprocketsecurity",
@@ -5743,20 +5757,6 @@
       "postedAt": "2026-01-23T12:42:22.000Z",
       "firstIndexedAt": "2026-05-28T12:45:15.882Z",
       "url": "https://www.dreamworkhq.com/job/fb81db35-b8cd-4919-b05c-7aa8c43f1945?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "1bae0a62-5a0d-47cc-bad6-b6aa2047cbf8",
-      "title": "Structural Engineer, Water Infrastructure",
-      "company": "Simpsongumpertzheger",
-      "companyDomain": "sgh.com",
-      "location": "Waltham, Massachusetts, United States",
-      "remoteType": "onsite",
-      "salaryMin": 79560,
-      "salaryMax": 85280,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-04-07T13:32:50.000Z",
-      "firstIndexedAt": "2026-05-28T12:42:58.894Z",
-      "url": "https://www.dreamworkhq.com/job/1bae0a62-5a0d-47cc-bad6-b6aa2047cbf8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "f1164779-0e61-49e4-ba08-48c7c06de88d",
@@ -5787,6 +5787,20 @@
       "url": "https://www.dreamworkhq.com/job/d3a255a5-5bdf-4e07-b47c-c26f3a864e5d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "1bae0a62-5a0d-47cc-bad6-b6aa2047cbf8",
+      "title": "Structural Engineer, Water Infrastructure",
+      "company": "Simpsongumpertzheger",
+      "companyDomain": "sgh.com",
+      "location": "Waltham, Massachusetts, United States",
+      "remoteType": "onsite",
+      "salaryMin": 79560,
+      "salaryMax": 85280,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-04-07T13:32:50.000Z",
+      "firstIndexedAt": "2026-05-28T12:42:58.894Z",
+      "url": "https://www.dreamworkhq.com/job/1bae0a62-5a0d-47cc-bad6-b6aa2047cbf8?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "6ec52939-a6ba-4e4c-b2dd-e92c6d4f733a",
       "title": "Platform Administrator (Salesforce Service Cloud & CCaaS)",
       "company": "Sharkninjaoperatingllc",
@@ -5815,20 +5829,6 @@
       "url": "https://www.dreamworkhq.com/job/66e8cbf8-ff33-4b7c-b806-96b7bf19fab2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "c4106ecd-55b5-40f4-97fb-2fa9f1ad51bb",
-      "title": "Associate Data Scientist",
-      "company": "Quantifind",
-      "companyDomain": "quantifind.com",
-      "location": "Palo Alto, CA",
-      "remoteType": "hybrid",
-      "salaryMin": 100000,
-      "salaryMax": 130000,
-      "aiRoleKind": null,
-      "postedAt": "2026-02-09T20:27:14.000Z",
-      "firstIndexedAt": "2026-05-28T12:34:38.643Z",
-      "url": "https://www.dreamworkhq.com/job/c4106ecd-55b5-40f4-97fb-2fa9f1ad51bb?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "b3c2d632-e661-4f53-b2ef-d2a9a3632010",
       "title": "Associate Data Scientist",
       "company": "Quantifind",
@@ -5841,6 +5841,20 @@
       "postedAt": "2026-02-04T00:07:31.000Z",
       "firstIndexedAt": "2026-05-28T12:34:38.643Z",
       "url": "https://www.dreamworkhq.com/job/b3c2d632-e661-4f53-b2ef-d2a9a3632010?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "c4106ecd-55b5-40f4-97fb-2fa9f1ad51bb",
+      "title": "Associate Data Scientist",
+      "company": "Quantifind",
+      "companyDomain": "quantifind.com",
+      "location": "Palo Alto, CA",
+      "remoteType": "hybrid",
+      "salaryMin": 100000,
+      "salaryMax": 130000,
+      "aiRoleKind": null,
+      "postedAt": "2026-02-09T20:27:14.000Z",
+      "firstIndexedAt": "2026-05-28T12:34:38.643Z",
+      "url": "https://www.dreamworkhq.com/job/c4106ecd-55b5-40f4-97fb-2fa9f1ad51bb?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "b22b78de-9fae-4de8-b09e-b6c9a6451ad8",
@@ -5913,6 +5927,20 @@
       "url": "https://www.dreamworkhq.com/job/f10cdabc-3058-4f39-869e-df8e164b977f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "db61b53f-def5-4986-b639-34fc77240971",
+      "title": "Software QA Specialist",
+      "company": "Openeye",
+      "companyDomain": "openeye.net",
+      "location": "Liberty Lake, Washington",
+      "remoteType": "hybrid",
+      "salaryMin": 39520,
+      "salaryMax": 49920,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-02-26T22:43:42.000Z",
+      "firstIndexedAt": "2026-05-28T12:29:21.356Z",
+      "url": "https://www.dreamworkhq.com/job/db61b53f-def5-4986-b639-34fc77240971?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "bedaa443-884b-4149-821c-d2f1d5e4fbe8",
       "title": "Associate Market Solutions Engineer",
       "company": "Nyiso",
@@ -5941,34 +5969,6 @@
       "url": "https://www.dreamworkhq.com/job/81c288c7-631b-40d9-85a3-fc41c931d5f0?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "68652c63-d92f-4278-849f-47a86679aeb2",
-      "title": "Production Support/SRE Analyst",
-      "company": "Mthreerecruitingportal",
-      "companyDomain": "mthree.com",
-      "location": "USA",
-      "remoteType": "onsite",
-      "salaryMin": 48000,
-      "salaryMax": 63000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2025-11-06T15:38:59.000Z",
-      "firstIndexedAt": "2026-05-28T12:20:32.140Z",
-      "url": "https://www.dreamworkhq.com/job/68652c63-d92f-4278-849f-47a86679aeb2?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "dc5eb8b3-902d-42fc-8228-ecf5b6840de0",
-      "title": "Production Support/SRE Analyst",
-      "company": "Mthreerecruitingportal",
-      "companyDomain": "mthree.com",
-      "location": "Houston, TX",
-      "remoteType": null,
-      "salaryMin": 58125,
-      "salaryMax": 58125,
-      "aiRoleKind": null,
-      "postedAt": "2025-11-12T21:21:25.000Z",
-      "firstIndexedAt": "2026-05-28T12:20:32.140Z",
-      "url": "https://www.dreamworkhq.com/job/dc5eb8b3-902d-42fc-8228-ecf5b6840de0?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "4018d900-63ab-42e5-a42f-979a5eab510b",
       "title": "Junior Software Engineer",
       "company": "Mthreerecruitingportal",
@@ -5981,20 +5981,6 @@
       "postedAt": "2024-07-08T13:57:14.000Z",
       "firstIndexedAt": "2026-05-28T12:20:32.140Z",
       "url": "https://www.dreamworkhq.com/job/4018d900-63ab-42e5-a42f-979a5eab510b?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "e65b8dc3-4779-4006-ba9a-e98e701f5f16",
-      "title": "Site Reliability Engineer / Production Support Analyst",
-      "company": "Mthreerecruitingportal",
-      "companyDomain": "mthree.com",
-      "location": "USA",
-      "remoteType": "onsite",
-      "salaryMin": 48000,
-      "salaryMax": 63000,
-      "aiRoleKind": null,
-      "postedAt": "2024-06-11T18:04:03.000Z",
-      "firstIndexedAt": "2026-05-28T12:20:32.140Z",
-      "url": "https://www.dreamworkhq.com/job/e65b8dc3-4779-4006-ba9a-e98e701f5f16?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "bdf970ee-c59c-4372-9561-84128eaf7049",
@@ -6011,18 +5997,32 @@
       "url": "https://www.dreamworkhq.com/job/bdf970ee-c59c-4372-9561-84128eaf7049?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "8dc40335-d56f-4a2b-ae9f-62c65b792e6c",
-      "title": "Daft - US - Software Engineer Interest Form",
+      "id": "9e5cd3cb-3266-43d2-b905-d7d73b3f89c0",
+      "title": "Production Support/SRE Analyst",
       "company": "Mthreerecruitingportal",
       "companyDomain": "mthree.com",
       "location": "USA",
-      "remoteType": null,
-      "salaryMin": 65000,
-      "salaryMax": 120000,
+      "remoteType": "onsite",
+      "salaryMin": 45000,
+      "salaryMax": 63000,
       "aiRoleKind": null,
-      "postedAt": "2024-08-29T15:04:57.000Z",
+      "postedAt": "2024-07-01T15:40:41.000Z",
       "firstIndexedAt": "2026-05-28T12:20:32.140Z",
-      "url": "https://www.dreamworkhq.com/job/8dc40335-d56f-4a2b-ae9f-62c65b792e6c?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/9e5cd3cb-3266-43d2-b905-d7d73b3f89c0?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "dc5eb8b3-902d-42fc-8228-ecf5b6840de0",
+      "title": "Production Support/SRE Analyst",
+      "company": "Mthreerecruitingportal",
+      "companyDomain": "mthree.com",
+      "location": "Houston, TX",
+      "remoteType": null,
+      "salaryMin": 58125,
+      "salaryMax": 58125,
+      "aiRoleKind": null,
+      "postedAt": "2025-11-12T21:21:25.000Z",
+      "firstIndexedAt": "2026-05-28T12:20:32.140Z",
+      "url": "https://www.dreamworkhq.com/job/dc5eb8b3-902d-42fc-8228-ecf5b6840de0?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "4a3ec823-568c-45f6-ba7b-879301985954",
@@ -6095,20 +6095,6 @@
       "url": "https://www.dreamworkhq.com/job/18db33ed-e281-4a2c-831e-ed5bfb75aa39?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "a1bf462b-8bf2-4856-ad9f-9de85defb668",
-      "title": "Control Systems Developer I - Brainerd, MN",
-      "company": "Interstates",
-      "companyDomain": "interstates.com",
-      "location": "Brainerd, MN",
-      "remoteType": "onsite",
-      "salaryMin": 65000,
-      "salaryMax": 90000,
-      "aiRoleKind": null,
-      "postedAt": "2025-07-24T22:12:37.000Z",
-      "firstIndexedAt": "2026-05-28T12:10:34.246Z",
-      "url": "https://www.dreamworkhq.com/job/a1bf462b-8bf2-4856-ad9f-9de85defb668?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "ad8c2896-cfcd-47f9-9375-5fde4d26d066",
       "title": "Control Systems Developer I - Tulsa, OK",
       "company": "Interstates",
@@ -6121,6 +6107,20 @@
       "postedAt": "2025-09-08T17:32:36.000Z",
       "firstIndexedAt": "2026-05-28T12:10:34.246Z",
       "url": "https://www.dreamworkhq.com/job/ad8c2896-cfcd-47f9-9375-5fde4d26d066?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "a1bf462b-8bf2-4856-ad9f-9de85defb668",
+      "title": "Control Systems Developer I - Brainerd, MN",
+      "company": "Interstates",
+      "companyDomain": "interstates.com",
+      "location": "Brainerd, MN",
+      "remoteType": "onsite",
+      "salaryMin": 65000,
+      "salaryMax": 90000,
+      "aiRoleKind": null,
+      "postedAt": "2025-07-24T22:12:37.000Z",
+      "firstIndexedAt": "2026-05-28T12:10:34.246Z",
+      "url": "https://www.dreamworkhq.com/job/a1bf462b-8bf2-4856-ad9f-9de85defb668?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "28b0eed8-3230-44ef-bd19-92907e370835",
@@ -6221,20 +6221,6 @@
       "url": "https://www.dreamworkhq.com/job/4cfe0257-c8d2-4b3e-a0ca-eaebfb050cf4?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "128eb5b5-32fd-4794-b0d0-a43782c216d3",
-      "title": "Junior Software Engineer ",
-      "company": "Freedomconsulting",
-      "companyDomain": "freedomtech.com",
-      "location": "Annapolis Junction, MD ",
-      "remoteType": null,
-      "salaryMin": 135000,
-      "salaryMax": 155000,
-      "aiRoleKind": null,
-      "postedAt": "2026-04-01T16:46:49.000Z",
-      "firstIndexedAt": "2026-05-28T12:01:35.082Z",
-      "url": "https://www.dreamworkhq.com/job/128eb5b5-32fd-4794-b0d0-a43782c216d3?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "7f5e8d1b-a222-4135-9d55-9ecb65c20b0c",
       "title": "Junior Systems Engineer",
       "company": "Freedomconsulting",
@@ -6247,6 +6233,20 @@
       "postedAt": "2026-03-03T13:09:25.000Z",
       "firstIndexedAt": "2026-05-28T12:01:35.082Z",
       "url": "https://www.dreamworkhq.com/job/7f5e8d1b-a222-4135-9d55-9ecb65c20b0c?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "ca0a910b-3692-4e14-870c-fdb2eb465774",
+      "title": "Junior Software Engineer",
+      "company": "Freedomconsulting",
+      "companyDomain": "freedomtech.com",
+      "location": "Annapolis Junction, MD",
+      "remoteType": "onsite",
+      "salaryMin": 75000,
+      "salaryMax": 105000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-02-11T15:21:17.000Z",
+      "firstIndexedAt": "2026-05-28T12:01:35.082Z",
+      "url": "https://www.dreamworkhq.com/job/ca0a910b-3692-4e14-870c-fdb2eb465774?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "bd481a0a-ffb1-4a61-9a07-b702f5e322f2",
@@ -6529,20 +6529,6 @@
       "url": "https://www.dreamworkhq.com/job/ef422865-272b-4bdd-b10d-5f1464dbcd14?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "6799b262-7847-4e20-8518-8cfd8f8d10b1",
-      "title": "Mobile Application Developer",
-      "company": "Momenti Inc",
-      "companyDomain": "momenti.tv",
-      "location": "200 Varick St #802, New York, NY 10014",
-      "remoteType": "hybrid",
-      "salaryMin": 80000,
-      "salaryMax": 130000,
-      "aiRoleKind": null,
-      "postedAt": "2023-05-08T20:45:18.229Z",
-      "firstIndexedAt": "2026-05-28T10:33:25.269Z",
-      "url": "https://www.dreamworkhq.com/job/6799b262-7847-4e20-8518-8cfd8f8d10b1?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "b9cff758-b744-411a-8fdd-7d44b341901d",
       "title": "Mobile Application Developer (Irvine)",
       "company": "Momenti Inc",
@@ -6555,6 +6541,20 @@
       "postedAt": "2023-05-08T21:39:36.672Z",
       "firstIndexedAt": "2026-05-28T10:33:25.269Z",
       "url": "https://www.dreamworkhq.com/job/b9cff758-b744-411a-8fdd-7d44b341901d?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "6799b262-7847-4e20-8518-8cfd8f8d10b1",
+      "title": "Mobile Application Developer",
+      "company": "Momenti Inc",
+      "companyDomain": "momenti.tv",
+      "location": "200 Varick St #802, New York, NY 10014",
+      "remoteType": "hybrid",
+      "salaryMin": 80000,
+      "salaryMax": 130000,
+      "aiRoleKind": null,
+      "postedAt": "2023-05-08T20:45:18.229Z",
+      "firstIndexedAt": "2026-05-28T10:33:25.269Z",
+      "url": "https://www.dreamworkhq.com/job/6799b262-7847-4e20-8518-8cfd8f8d10b1?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "8b3a8e16-0c91-480a-b311-202a5a02df57",
@@ -6627,18 +6627,18 @@
       "url": "https://www.dreamworkhq.com/job/e0675d4d-51f1-4d29-8616-59cd6728dead?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "1c420b29-6e46-4835-9b89-6fe9132fc4a4",
-      "title": "Systems Engineers - LEVEL 01 - FULLY CLEARED with POLYGRAPH REQUIRED",
+      "id": "3970e21b-0f5f-4bc6-b2ed-d58b4bfac909",
+      "title": "Software Engineers - LEVEL 0 - FULLY CLEARED with POLYGRAPH REQUIRED",
       "company": "Cti Md",
       "companyDomain": "cti-md.com",
       "location": "Fort Meade, MD",
       "remoteType": null,
       "salaryMin": 100000,
-      "salaryMax": 150000,
+      "salaryMax": 285000,
       "aiRoleKind": null,
-      "postedAt": "2026-03-04T23:32:28.105Z",
+      "postedAt": "2026-03-04T23:40:09.039Z",
       "firstIndexedAt": "2026-05-28T10:22:31.357Z",
-      "url": "https://www.dreamworkhq.com/job/1c420b29-6e46-4835-9b89-6fe9132fc4a4?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/3970e21b-0f5f-4bc6-b2ed-d58b4bfac909?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "e100a677-11e0-4496-bc7e-9f557bde127a",
@@ -6655,18 +6655,18 @@
       "url": "https://www.dreamworkhq.com/job/e100a677-11e0-4496-bc7e-9f557bde127a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "3970e21b-0f5f-4bc6-b2ed-d58b4bfac909",
-      "title": "Software Engineers - LEVEL 0 - FULLY CLEARED with POLYGRAPH REQUIRED",
+      "id": "1c420b29-6e46-4835-9b89-6fe9132fc4a4",
+      "title": "Systems Engineers - LEVEL 01 - FULLY CLEARED with POLYGRAPH REQUIRED",
       "company": "Cti Md",
       "companyDomain": "cti-md.com",
       "location": "Fort Meade, MD",
       "remoteType": null,
       "salaryMin": 100000,
-      "salaryMax": 285000,
+      "salaryMax": 150000,
       "aiRoleKind": null,
-      "postedAt": "2026-03-04T23:40:09.039Z",
+      "postedAt": "2026-03-04T23:32:28.105Z",
       "firstIndexedAt": "2026-05-28T10:22:31.357Z",
-      "url": "https://www.dreamworkhq.com/job/3970e21b-0f5f-4bc6-b2ed-d58b4bfac909?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/1c420b29-6e46-4835-9b89-6fe9132fc4a4?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "d9b3913f-f26d-4a57-8b32-8f8e97d4f853",
@@ -7005,20 +7005,6 @@
       "url": "https://www.dreamworkhq.com/job/72fdea25-b551-4f0b-87b6-c45f75227e69?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "a81117ad-690d-46cb-9be4-1f308cdf3240",
-      "title": "Junior Software Engineer  (SWE0)",
-      "company": "NW",
-      "companyDomain": "nightwing.com",
-      "location": "Annapolis Junction, MD",
-      "remoteType": null,
-      "salaryMin": 55000,
-      "salaryMax": 106000,
-      "aiRoleKind": null,
-      "postedAt": "2026-06-18T06:05:56.408Z",
-      "firstIndexedAt": "2026-05-28T04:58:58.980Z",
-      "url": "https://www.dreamworkhq.com/job/a81117ad-690d-46cb-9be4-1f308cdf3240?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "7762e743-5a13-4e04-82f1-32729b2c7b09",
       "title": "Computer Vision & Machine Learning, Junior",
       "company": "Allen Control Systems",
@@ -7061,20 +7047,6 @@
       "url": "https://www.dreamworkhq.com/job/3f598c7b-f976-4483-a549-6c92ede8a157?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "1ae1f791-ff02-4369-9aef-ce7d080e278f",
-      "title": "Embedded Engineer",
-      "company": "Whoop",
-      "companyDomain": "whoop.com",
-      "location": "Boston, MA",
-      "remoteType": null,
-      "salaryMin": 105000,
-      "salaryMax": 145000,
-      "aiRoleKind": null,
-      "postedAt": "2026-06-02T18:19:42.017Z",
-      "firstIndexedAt": "2026-05-27T16:51:26.838Z",
-      "url": "https://www.dreamworkhq.com/job/1ae1f791-ff02-4369-9aef-ce7d080e278f?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "6fd864e6-a2ca-46aa-80f5-142e84e9dbce",
       "title": "Software Engineer I (Frontend, Growth)",
       "company": "Whoop",
@@ -7089,8 +7061,8 @@
       "url": "https://www.dreamworkhq.com/job/6fd864e6-a2ca-46aa-80f5-142e84e9dbce?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "1fa35084-42c1-4a23-8436-3ccac337bf8e",
-      "title": "iOS Engineer",
+      "id": "1ae1f791-ff02-4369-9aef-ce7d080e278f",
+      "title": "Embedded Engineer",
       "company": "Whoop",
       "companyDomain": "whoop.com",
       "location": "Boston, MA",
@@ -7098,9 +7070,9 @@
       "salaryMin": 105000,
       "salaryMax": 145000,
       "aiRoleKind": null,
-      "postedAt": "2026-05-28T20:13:03.269Z",
-      "firstIndexedAt": "2026-05-27T16:51:20.857Z",
-      "url": "https://www.dreamworkhq.com/job/1fa35084-42c1-4a23-8436-3ccac337bf8e?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "postedAt": "2026-06-02T18:19:42.017Z",
+      "firstIndexedAt": "2026-05-27T16:51:26.838Z",
+      "url": "https://www.dreamworkhq.com/job/1ae1f791-ff02-4369-9aef-ce7d080e278f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "eba07065-4556-4ca5-8bf8-9aa5c1a205f3",
@@ -7129,6 +7101,20 @@
       "postedAt": "2026-06-29T14:08:47.416Z",
       "firstIndexedAt": "2026-05-27T16:51:20.857Z",
       "url": "https://www.dreamworkhq.com/job/46ccf8f1-6d8f-42b1-8243-053709964247?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "1fa35084-42c1-4a23-8436-3ccac337bf8e",
+      "title": "iOS Engineer",
+      "company": "Whoop",
+      "companyDomain": "whoop.com",
+      "location": "Boston, MA",
+      "remoteType": null,
+      "salaryMin": 105000,
+      "salaryMax": 145000,
+      "aiRoleKind": null,
+      "postedAt": "2026-05-28T20:13:03.269Z",
+      "firstIndexedAt": "2026-05-27T16:51:20.857Z",
+      "url": "https://www.dreamworkhq.com/job/1fa35084-42c1-4a23-8436-3ccac337bf8e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "2513b298-316a-4981-a096-368bb78cb876",
@@ -7271,20 +7257,6 @@
       "url": "https://www.dreamworkhq.com/job/ad479560-3d59-45a6-8722-0efd5c50aa42?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "f014652a-3603-4f20-a0b7-de790c9f16d7",
-      "title": "ETL Developer",
-      "company": "Comtech LLC2",
-      "companyDomain": "comtech.com",
-      "location": "Lanham, MD, United States",
-      "remoteType": null,
-      "salaryMin": 75000,
-      "salaryMax": 95000,
-      "aiRoleKind": null,
-      "postedAt": "2017-01-18T18:08:19.000Z",
-      "firstIndexedAt": "2026-05-27T09:49:14.485Z",
-      "url": "https://www.dreamworkhq.com/job/f014652a-3603-4f20-a0b7-de790c9f16d7?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "bedb1f8c-d5fa-4fed-8640-fde2a77f42a5",
       "title": "Java Developer",
       "company": "Comtech LLC2",
@@ -7299,18 +7271,18 @@
       "url": "https://www.dreamworkhq.com/job/bedb1f8c-d5fa-4fed-8640-fde2a77f42a5?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "d3267a78-81d1-4394-9b75-a559522c1a79",
-      "title": "Systems Engineer I",
-      "company": "TSC",
-      "companyDomain": "tsc.com",
-      "location": "Silver Spring, MD",
-      "remoteType": "hybrid",
-      "salaryMin": 83000,
-      "salaryMax": 108000,
+      "id": "f014652a-3603-4f20-a0b7-de790c9f16d7",
+      "title": "ETL Developer",
+      "company": "Comtech LLC2",
+      "companyDomain": "comtech.com",
+      "location": "Lanham, MD, United States",
+      "remoteType": null,
+      "salaryMin": 75000,
+      "salaryMax": 95000,
       "aiRoleKind": null,
-      "postedAt": "2026-05-14T06:22:32.324Z",
-      "firstIndexedAt": "2026-05-27T07:41:07.648Z",
-      "url": "https://www.dreamworkhq.com/job/d3267a78-81d1-4394-9b75-a559522c1a79?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "postedAt": "2017-01-18T18:08:19.000Z",
+      "firstIndexedAt": "2026-05-27T09:49:14.485Z",
+      "url": "https://www.dreamworkhq.com/job/f014652a-3603-4f20-a0b7-de790c9f16d7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "7ce2f8e5-abe6-4abc-8f91-f58cfba0ded5",
@@ -7325,6 +7297,20 @@
       "postedAt": "2026-05-14T06:22:32.339Z",
       "firstIndexedAt": "2026-05-27T07:41:07.648Z",
       "url": "https://www.dreamworkhq.com/job/7ce2f8e5-abe6-4abc-8f91-f58cfba0ded5?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "d3267a78-81d1-4394-9b75-a559522c1a79",
+      "title": "Systems Engineer I",
+      "company": "TSC",
+      "companyDomain": "tsc.com",
+      "location": "Silver Spring, MD",
+      "remoteType": "hybrid",
+      "salaryMin": 83000,
+      "salaryMax": 108000,
+      "aiRoleKind": null,
+      "postedAt": "2026-05-14T06:22:32.324Z",
+      "firstIndexedAt": "2026-05-27T07:41:07.648Z",
+      "url": "https://www.dreamworkhq.com/job/d3267a78-81d1-4394-9b75-a559522c1a79?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "4ed73ece-3373-4dc5-a220-0fa4d9b2a732",
@@ -7551,18 +7537,18 @@
       "url": "https://www.dreamworkhq.com/job/e52442a6-c28d-4d69-ba18-1847db2ea44f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "fbd7bd39-ee67-43f1-a91e-9c3d1e258af3",
-      "title": "Software Engineer – General (new grad / early career)",
+      "id": "3a2db4a3-a2de-4d78-9f67-fbc7246d3a9f",
+      "title": "Electronics Test Engineer (Early Career)",
       "company": "Northwoodspace",
       "companyDomain": "northwoodspace.io",
       "location": "Torrance, CA",
       "remoteType": null,
-      "salaryMin": 120000,
-      "salaryMax": 140000,
+      "salaryMin": 100000,
+      "salaryMax": 145000,
       "aiRoleKind": null,
-      "postedAt": "2026-04-24T20:41:38.131Z",
+      "postedAt": "2026-01-08T19:19:41.512Z",
       "firstIndexedAt": "2026-05-27T01:52:56.277Z",
-      "url": "https://www.dreamworkhq.com/job/fbd7bd39-ee67-43f1-a91e-9c3d1e258af3?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/3a2db4a3-a2de-4d78-9f67-fbc7246d3a9f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "ce782941-310e-44c7-8cf3-66e783176883",
@@ -7579,18 +7565,18 @@
       "url": "https://www.dreamworkhq.com/job/ce782941-310e-44c7-8cf3-66e783176883?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "3a2db4a3-a2de-4d78-9f67-fbc7246d3a9f",
-      "title": "Electronics Test Engineer (Early Career)",
+      "id": "fbd7bd39-ee67-43f1-a91e-9c3d1e258af3",
+      "title": "Software Engineer – General (new grad / early career)",
       "company": "Northwoodspace",
       "companyDomain": "northwoodspace.io",
       "location": "Torrance, CA",
       "remoteType": null,
-      "salaryMin": 100000,
-      "salaryMax": 145000,
+      "salaryMin": 120000,
+      "salaryMax": 140000,
       "aiRoleKind": null,
-      "postedAt": "2026-01-08T19:19:41.512Z",
+      "postedAt": "2026-04-24T20:41:38.131Z",
       "firstIndexedAt": "2026-05-27T01:52:56.277Z",
-      "url": "https://www.dreamworkhq.com/job/3a2db4a3-a2de-4d78-9f67-fbc7246d3a9f?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/fbd7bd39-ee67-43f1-a91e-9c3d1e258af3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "eb2777d8-d877-46ff-a95a-d1b047fb44fa",
@@ -7691,6 +7677,20 @@
       "url": "https://www.dreamworkhq.com/job/a6959155-c71b-4924-84bf-e117c10a1d9e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "ace8f23c-64f7-4b67-95b0-7f046276e6b2",
+      "title": "Systems Software Engineer, Test & Automation Infrastructure",
+      "company": "Coherent Corp. US",
+      "companyDomain": "ii-vi.com",
+      "location": "Fremont, CA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 115000,
+      "salaryMax": 145000,
+      "aiRoleKind": null,
+      "postedAt": "2026-05-19T15:09:59.000Z",
+      "firstIndexedAt": "2026-05-26T10:01:58.001Z",
+      "url": "https://www.dreamworkhq.com/job/ace8f23c-64f7-4b67-95b0-7f046276e6b2?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "11509ba8-499e-4a58-bc3c-3e3308557a8b",
       "title": "Embedded Firmware Test Engineer",
       "company": "Vertiv",
@@ -7789,20 +7789,6 @@
       "url": "https://www.dreamworkhq.com/job/57865674-0a31-4e11-895d-3a7d97e5b236?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "694fa1ba-6a5f-4287-bac8-421c688048d4",
-      "title": "Junior Python Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Raleigh, NC, United States",
-      "remoteType": null,
-      "salaryMin": 75000,
-      "salaryMax": 95000,
-      "aiRoleKind": null,
-      "postedAt": "2015-11-20T22:09:55.000Z",
-      "firstIndexedAt": "2026-05-26T06:15:13.719Z",
-      "url": "https://www.dreamworkhq.com/job/694fa1ba-6a5f-4287-bac8-421c688048d4?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "c1c93573-5cef-42b7-8f6a-7b2a88857998",
       "title": "Junior Java Developer",
       "company": "Jobsbridge1",
@@ -7815,6 +7801,20 @@
       "postedAt": "2015-11-23T16:46:37.000Z",
       "firstIndexedAt": "2026-05-26T06:15:13.719Z",
       "url": "https://www.dreamworkhq.com/job/c1c93573-5cef-42b7-8f6a-7b2a88857998?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "694fa1ba-6a5f-4287-bac8-421c688048d4",
+      "title": "Junior Python Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Raleigh, NC, United States",
+      "remoteType": null,
+      "salaryMin": 75000,
+      "salaryMax": 95000,
+      "aiRoleKind": null,
+      "postedAt": "2015-11-20T22:09:55.000Z",
+      "firstIndexedAt": "2026-05-26T06:15:13.719Z",
+      "url": "https://www.dreamworkhq.com/job/694fa1ba-6a5f-4287-bac8-421c688048d4?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "89e3eff8-0725-4be3-bd32-692b814d9df7",
@@ -7845,60 +7845,18 @@
       "url": "https://www.dreamworkhq.com/job/847d8802-414e-4757-ab8b-2272ea4bfa38?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "640da6da-fb8c-452b-82f2-7f89c84dcfed",
-      "title": "Java Webservices Developer",
+      "id": "7d91d3d3-271a-4b76-b75e-e2fc3d751aaf",
+      "title": "Jr. C# .NET Developer",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
-      "location": "Jersey City, NJ, United States",
+      "location": "Los Angeles, CA, United States",
       "remoteType": "onsite",
-      "salaryMin": 75000,
-      "salaryMax": 100000,
-      "aiRoleKind": null,
-      "postedAt": "2016-01-20T14:33:58.000Z",
-      "firstIndexedAt": "2026-05-26T06:15:12.599Z",
-      "url": "https://www.dreamworkhq.com/job/640da6da-fb8c-452b-82f2-7f89c84dcfed?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "a356202a-13ee-4564-9105-028f3bb1a330",
-      "title": "Mobile Tester",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Atlanta, GA, United States",
-      "remoteType": null,
-      "salaryMin": 60000,
-      "salaryMax": 75000,
-      "aiRoleKind": null,
-      "postedAt": "2016-01-06T18:09:54.000Z",
-      "firstIndexedAt": "2026-05-26T06:15:12.599Z",
-      "url": "https://www.dreamworkhq.com/job/a356202a-13ee-4564-9105-028f3bb1a330?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "216129cd-6332-4ec7-b245-925e3b1b83e6",
-      "title": "Java Backend Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Redmond, WA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 90000,
-      "salaryMax": 115000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-01-21T16:51:15.000Z",
-      "firstIndexedAt": "2026-05-26T06:15:12.599Z",
-      "url": "https://www.dreamworkhq.com/job/216129cd-6332-4ec7-b245-925e3b1b83e6?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "241d000b-aed4-408e-be47-e0b256a65e29",
-      "title": "Mobile Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Houston, TX, United States",
-      "remoteType": "hybrid",
       "salaryMin": 70000,
-      "salaryMax": 90000,
+      "salaryMax": 95000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2016-01-20T14:33:21.000Z",
+      "postedAt": "2016-01-20T14:35:55.000Z",
       "firstIndexedAt": "2026-05-26T06:15:12.599Z",
-      "url": "https://www.dreamworkhq.com/job/241d000b-aed4-408e-be47-e0b256a65e29?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/7d91d3d3-271a-4b76-b75e-e2fc3d751aaf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "5c0e5b2d-d123-44b7-85a1-94d89187be7e",
@@ -7915,18 +7873,18 @@
       "url": "https://www.dreamworkhq.com/job/5c0e5b2d-d123-44b7-85a1-94d89187be7e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "7d91d3d3-271a-4b76-b75e-e2fc3d751aaf",
-      "title": "Jr. C# .NET Developer",
+      "id": "a356202a-13ee-4564-9105-028f3bb1a330",
+      "title": "Mobile Tester",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
-      "location": "Los Angeles, CA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 70000,
-      "salaryMax": 95000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-01-20T14:35:55.000Z",
+      "location": "Atlanta, GA, United States",
+      "remoteType": null,
+      "salaryMin": 60000,
+      "salaryMax": 75000,
+      "aiRoleKind": null,
+      "postedAt": "2016-01-06T18:09:54.000Z",
       "firstIndexedAt": "2026-05-26T06:15:12.599Z",
-      "url": "https://www.dreamworkhq.com/job/7d91d3d3-271a-4b76-b75e-e2fc3d751aaf?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/a356202a-13ee-4564-9105-028f3bb1a330?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "cecf5849-3760-47ab-ae98-1bb32cd8aa65",
@@ -7941,6 +7899,48 @@
       "postedAt": "2016-01-06T18:04:33.000Z",
       "firstIndexedAt": "2026-05-26T06:15:12.599Z",
       "url": "https://www.dreamworkhq.com/job/cecf5849-3760-47ab-ae98-1bb32cd8aa65?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "216129cd-6332-4ec7-b245-925e3b1b83e6",
+      "title": "Java Backend Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Redmond, WA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 90000,
+      "salaryMax": 115000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-01-21T16:51:15.000Z",
+      "firstIndexedAt": "2026-05-26T06:15:12.599Z",
+      "url": "https://www.dreamworkhq.com/job/216129cd-6332-4ec7-b245-925e3b1b83e6?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "640da6da-fb8c-452b-82f2-7f89c84dcfed",
+      "title": "Java Webservices Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Jersey City, NJ, United States",
+      "remoteType": "onsite",
+      "salaryMin": 75000,
+      "salaryMax": 100000,
+      "aiRoleKind": null,
+      "postedAt": "2016-01-20T14:33:58.000Z",
+      "firstIndexedAt": "2026-05-26T06:15:12.599Z",
+      "url": "https://www.dreamworkhq.com/job/640da6da-fb8c-452b-82f2-7f89c84dcfed?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "241d000b-aed4-408e-be47-e0b256a65e29",
+      "title": "Mobile Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Houston, TX, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 70000,
+      "salaryMax": 90000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-01-20T14:33:21.000Z",
+      "firstIndexedAt": "2026-05-26T06:15:12.599Z",
+      "url": "https://www.dreamworkhq.com/job/241d000b-aed4-408e-be47-e0b256a65e29?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "70930f87-263c-4b8b-9bf0-12269bf5c4c2",
@@ -8209,18 +8209,32 @@
       "url": "https://www.dreamworkhq.com/job/286a292c-0499-4fef-8d6b-cca0d33ad196?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "49db1f58-0cb0-404a-8b6b-f8f6a3b7810c",
-      "title": "Junior .NET Developer - OPT Accepted",
+      "id": "31bd1ed6-e2af-42eb-81b3-e0c844c873e9",
+      "title": "Junior Dot Net Developer",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
-      "location": "Herndon, VA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 70000,
-      "salaryMax": 95000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-01-25T14:11:31.000Z",
+      "location": "Sterling, VA, United States",
+      "remoteType": null,
+      "salaryMin": 65000,
+      "salaryMax": 90000,
+      "aiRoleKind": null,
+      "postedAt": "2016-01-21T16:58:31.000Z",
       "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/49db1f58-0cb0-404a-8b6b-f8f6a3b7810c?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/31bd1ed6-e2af-42eb-81b3-e0c844c873e9?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "36dbc664-a36c-451e-9ab0-6c038d867149",
+      "title": "Jr.Mobile and Back End Developers ( OPT Welcome )",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Austin, TX, United States",
+      "remoteType": null,
+      "salaryMin": 80000,
+      "salaryMax": 105000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-02-16T15:29:50.000Z",
+      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
+      "url": "https://www.dreamworkhq.com/job/36dbc664-a36c-451e-9ab0-6c038d867149?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "70f4df46-fbd7-49c2-992b-1a2199218f8e",
@@ -8235,62 +8249,6 @@
       "postedAt": "2016-02-19T15:31:42.000Z",
       "firstIndexedAt": "2026-05-26T01:33:26.310Z",
       "url": "https://www.dreamworkhq.com/job/70f4df46-fbd7-49c2-992b-1a2199218f8e?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "b38e5971-e18f-4cab-9c94-d59a4752a135",
-      "title": "Junior Java Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Atlanta, GA, United States",
-      "remoteType": null,
-      "salaryMin": 70000,
-      "salaryMax": 100000,
-      "aiRoleKind": null,
-      "postedAt": "2016-02-19T15:27:04.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/b38e5971-e18f-4cab-9c94-d59a4752a135?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "0ba3e674-f967-44c4-9a69-283b16331210",
-      "title": "Java/.NET/UI - Junior Developers (OPT's Welcome, Training Available)",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Los Angeles, CA, United States",
-      "remoteType": null,
-      "salaryMin": 75000,
-      "salaryMax": 105000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-01-25T14:16:14.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/0ba3e674-f967-44c4-9a69-283b16331210?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "fe5f06f4-6bbd-4c5b-8b56-a0dae9adc8b1",
-      "title": "Junior Java Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "New York, NY, United States",
-      "remoteType": null,
-      "salaryMin": 95000,
-      "salaryMax": 120000,
-      "aiRoleKind": null,
-      "postedAt": "2016-01-21T16:59:46.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/fe5f06f4-6bbd-4c5b-8b56-a0dae9adc8b1?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "56401cbb-e781-4458-b00b-4ec91c82a0fa",
-      "title": "Junior Front End Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "New York, NY, United States",
-      "remoteType": null,
-      "salaryMin": 90000,
-      "salaryMax": 120000,
-      "aiRoleKind": null,
-      "postedAt": "2016-02-19T15:26:10.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/56401cbb-e781-4458-b00b-4ec91c82a0fa?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "b884bb55-13b9-401a-ae57-e961de604195",
@@ -8321,88 +8279,18 @@
       "url": "https://www.dreamworkhq.com/job/d465b0e3-1e6d-42b8-9fa0-53b1c3428bbb?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "31bd1ed6-e2af-42eb-81b3-e0c844c873e9",
-      "title": "Junior Dot Net Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Sterling, VA, United States",
-      "remoteType": null,
-      "salaryMin": 65000,
-      "salaryMax": 90000,
-      "aiRoleKind": null,
-      "postedAt": "2016-01-21T16:58:31.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/31bd1ed6-e2af-42eb-81b3-e0c844c873e9?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "102e959c-2e38-46d8-a8d3-ce321b29bb83",
-      "title": "Jr. Front End Engineer-OPT Accepted",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Braintree, MA, United States",
-      "remoteType": null,
-      "salaryMin": 80000,
-      "salaryMax": 105000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-01-25T14:13:51.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/102e959c-2e38-46d8-a8d3-ce321b29bb83?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "6596a49e-a44a-4f00-8749-b0238bcd30ec",
-      "title": "Jr. Android Developers",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Miami, FL, United States",
-      "remoteType": null,
-      "salaryMin": 75000,
-      "salaryMax": 95000,
-      "aiRoleKind": null,
-      "postedAt": "2016-02-19T15:27:56.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/6596a49e-a44a-4f00-8749-b0238bcd30ec?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "c1890bfc-b4eb-40e6-a9d6-b99fd2c7330c",
-      "title": "Jr.Java Back End Developer ( OPT Welcome )",
+      "id": "56401cbb-e781-4458-b00b-4ec91c82a0fa",
+      "title": "Junior Front End Developer",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
       "location": "New York, NY, United States",
       "remoteType": null,
-      "salaryMin": 80000,
-      "salaryMax": 115000,
+      "salaryMin": 90000,
+      "salaryMax": 120000,
       "aiRoleKind": null,
-      "postedAt": "2016-02-16T15:29:10.000Z",
+      "postedAt": "2016-02-19T15:26:10.000Z",
       "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/c1890bfc-b4eb-40e6-a9d6-b99fd2c7330c?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "36dbc664-a36c-451e-9ab0-6c038d867149",
-      "title": "Jr.Mobile and Back End Developers ( OPT Welcome )",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Austin, TX, United States",
-      "remoteType": null,
-      "salaryMin": 80000,
-      "salaryMax": 105000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-02-16T15:29:50.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/36dbc664-a36c-451e-9ab0-6c038d867149?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "afdb8275-e170-4356-b109-4bbbd0748a19",
-      "title": "Entry Level Mobile Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "San Francisco, CA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 100000,
-      "salaryMax": 135000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-01-21T16:56:14.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/afdb8275-e170-4356-b109-4bbbd0748a19?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/56401cbb-e781-4458-b00b-4ec91c82a0fa?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "5c89a4a2-163d-46ee-bc96-50f04c49676d",
@@ -8419,46 +8307,88 @@
       "url": "https://www.dreamworkhq.com/job/5c89a4a2-163d-46ee-bc96-50f04c49676d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "0f48808c-2c54-43cd-aae6-c231b8c4593c",
-      "title": "Junior Front End Developer",
+      "id": "102e959c-2e38-46d8-a8d3-ce321b29bb83",
+      "title": "Jr. Front End Engineer-OPT Accepted",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
-      "location": "Orlando, FL, United States",
+      "location": "Braintree, MA, United States",
       "remoteType": null,
-      "salaryMin": 60000,
-      "salaryMax": 80000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-01-21T16:53:33.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/0f48808c-2c54-43cd-aae6-c231b8c4593c?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "a253346c-51d2-4637-8aaf-866b14d1021f",
-      "title": "Jr. Front End UX/UI Software Engineer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "San Diego, CA, United States",
-      "remoteType": null,
-      "salaryMin": 80000,
-      "salaryMax": 100000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-01-21T16:57:15.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
-      "url": "https://www.dreamworkhq.com/job/a253346c-51d2-4637-8aaf-866b14d1021f?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "facf26ed-3e40-4647-af27-5966bdb1b5a8",
-      "title": "Hadoop Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Irvine, CA, United States",
-      "remoteType": "onsite",
       "salaryMin": 80000,
       "salaryMax": 105000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2016-02-25T09:14:40.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:21.413Z",
-      "url": "https://www.dreamworkhq.com/job/facf26ed-3e40-4647-af27-5966bdb1b5a8?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "postedAt": "2016-01-25T14:13:51.000Z",
+      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
+      "url": "https://www.dreamworkhq.com/job/102e959c-2e38-46d8-a8d3-ce321b29bb83?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "fe5f06f4-6bbd-4c5b-8b56-a0dae9adc8b1",
+      "title": "Junior Java Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "New York, NY, United States",
+      "remoteType": null,
+      "salaryMin": 95000,
+      "salaryMax": 120000,
+      "aiRoleKind": null,
+      "postedAt": "2016-01-21T16:59:46.000Z",
+      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
+      "url": "https://www.dreamworkhq.com/job/fe5f06f4-6bbd-4c5b-8b56-a0dae9adc8b1?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "49db1f58-0cb0-404a-8b6b-f8f6a3b7810c",
+      "title": "Junior .NET Developer - OPT Accepted",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Herndon, VA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 70000,
+      "salaryMax": 95000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-01-25T14:11:31.000Z",
+      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
+      "url": "https://www.dreamworkhq.com/job/49db1f58-0cb0-404a-8b6b-f8f6a3b7810c?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "0ba3e674-f967-44c4-9a69-283b16331210",
+      "title": "Java/.NET/UI - Junior Developers (OPT's Welcome, Training Available)",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Los Angeles, CA, United States",
+      "remoteType": null,
+      "salaryMin": 75000,
+      "salaryMax": 105000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-01-25T14:16:14.000Z",
+      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
+      "url": "https://www.dreamworkhq.com/job/0ba3e674-f967-44c4-9a69-283b16331210?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "b38e5971-e18f-4cab-9c94-d59a4752a135",
+      "title": "Junior Java Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Atlanta, GA, United States",
+      "remoteType": null,
+      "salaryMin": 70000,
+      "salaryMax": 100000,
+      "aiRoleKind": null,
+      "postedAt": "2016-02-19T15:27:04.000Z",
+      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
+      "url": "https://www.dreamworkhq.com/job/b38e5971-e18f-4cab-9c94-d59a4752a135?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "c851585e-a3b4-4ccc-b448-341132d397b4",
+      "title": "Entry Level Mobile Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "San Francisco, CA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 100000,
+      "salaryMax": 130000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-01-21T16:55:19.000Z",
+      "firstIndexedAt": "2026-05-26T01:33:26.310Z",
+      "url": "https://www.dreamworkhq.com/job/c851585e-a3b4-4ccc-b448-341132d397b4?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "4ffd312e-3b40-4913-a985-6bcc8b0d5c18",
@@ -8475,32 +8405,18 @@
       "url": "https://www.dreamworkhq.com/job/4ffd312e-3b40-4913-a985-6bcc8b0d5c18?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "08be8e4f-a01a-4762-a6d5-5e7ef3037b24",
-      "title": "Jr. Front-End Software Engineer",
+      "id": "015b62ba-d4b6-4f2f-bb8f-681d1e59d981",
+      "title": "Back End Engineer",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
-      "location": "Atlanta, GA, United States",
+      "location": "Orlando, FL, United States",
       "remoteType": null,
       "salaryMin": 70000,
       "salaryMax": 100000,
       "aiRoleKind": null,
-      "postedAt": "2016-02-25T14:59:54.000Z",
+      "postedAt": "2016-02-25T09:10:43.000Z",
       "firstIndexedAt": "2026-05-26T01:33:21.413Z",
-      "url": "https://www.dreamworkhq.com/job/08be8e4f-a01a-4762-a6d5-5e7ef3037b24?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "9677675f-d437-4ef2-9944-87f3e4e430b6",
-      "title": "Core Java Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "New York, NY, United States",
-      "remoteType": "onsite",
-      "salaryMin": 80000,
-      "salaryMax": 110000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-02-24T08:50:23.000Z",
-      "firstIndexedAt": "2026-05-26T01:33:21.413Z",
-      "url": "https://www.dreamworkhq.com/job/9677675f-d437-4ef2-9944-87f3e4e430b6?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/015b62ba-d4b6-4f2f-bb8f-681d1e59d981?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "727804c8-797a-457e-bc48-a6d30b3f6094",
@@ -8531,18 +8447,18 @@
       "url": "https://www.dreamworkhq.com/job/dee8ac9d-9e70-451d-b11b-dacdfbf7ea6a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "744a09dc-cce0-4ef9-bd80-83ee7194aed7",
-      "title": "Back End Engineer",
+      "id": "5cbcd1ca-a024-4016-af7f-748e56e18963",
+      "title": "Hadoop Developer",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
-      "location": "Orlando, FL, United States",
-      "remoteType": null,
-      "salaryMin": 75000,
-      "salaryMax": 90000,
-      "aiRoleKind": null,
-      "postedAt": "2016-02-25T09:50:19.000Z",
+      "location": "Irvine, CA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 80000,
+      "salaryMax": 105000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-02-25T09:53:51.000Z",
       "firstIndexedAt": "2026-05-26T01:33:21.413Z",
-      "url": "https://www.dreamworkhq.com/job/744a09dc-cce0-4ef9-bd80-83ee7194aed7?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/5cbcd1ca-a024-4016-af7f-748e56e18963?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "19760859-c088-434e-ba22-a513612db428",
@@ -8571,6 +8487,34 @@
       "postedAt": "2016-02-24T17:48:09.000Z",
       "firstIndexedAt": "2026-05-26T01:33:21.413Z",
       "url": "https://www.dreamworkhq.com/job/b3a478c3-d3d6-41bb-81ff-f1ea88325a7e?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "9677675f-d437-4ef2-9944-87f3e4e430b6",
+      "title": "Core Java Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "New York, NY, United States",
+      "remoteType": "onsite",
+      "salaryMin": 80000,
+      "salaryMax": 110000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-02-24T08:50:23.000Z",
+      "firstIndexedAt": "2026-05-26T01:33:21.413Z",
+      "url": "https://www.dreamworkhq.com/job/9677675f-d437-4ef2-9944-87f3e4e430b6?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "08be8e4f-a01a-4762-a6d5-5e7ef3037b24",
+      "title": "Jr. Front-End Software Engineer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Atlanta, GA, United States",
+      "remoteType": null,
+      "salaryMin": 70000,
+      "salaryMax": 100000,
+      "aiRoleKind": null,
+      "postedAt": "2016-02-25T14:59:54.000Z",
+      "firstIndexedAt": "2026-05-26T01:33:21.413Z",
+      "url": "https://www.dreamworkhq.com/job/08be8e4f-a01a-4762-a6d5-5e7ef3037b24?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "29bd9459-ede7-472b-8dc1-f9662a91e70d",
@@ -8629,88 +8573,32 @@
       "url": "https://www.dreamworkhq.com/job/33b11e55-33fc-4d4c-807d-bb8d5ea5259b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "aaa338e4-7a85-4e01-99a5-100441ff9cb3",
-      "title": "Junior DevOps",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "San Francisco, CA, United States",
-      "remoteType": null,
-      "salaryMin": 105000,
-      "salaryMax": 150000,
-      "aiRoleKind": null,
-      "postedAt": "2016-06-21T14:08:01.000Z",
-      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/aaa338e4-7a85-4e01-99a5-100441ff9cb3?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "91154a4f-5216-47b8-b442-bab9399b8723",
-      "title": "Entry level DevOps Engineer",
+      "id": "3e38965f-4c02-43c3-8874-f9a0af57fd12",
+      "title": "Jr.Java Fullstack Developer",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
       "location": "Sacramento, CA, United States",
       "remoteType": null,
-      "salaryMin": 80000,
-      "salaryMax": 105000,
+      "salaryMin": 75000,
+      "salaryMax": 100000,
       "aiRoleKind": null,
-      "postedAt": "2016-06-22T14:00:38.000Z",
+      "postedAt": "2016-06-21T14:06:11.000Z",
       "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/91154a4f-5216-47b8-b442-bab9399b8723?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/3e38965f-4c02-43c3-8874-f9a0af57fd12?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "f843777e-f983-4c70-9788-2e9867d6d70b",
-      "title": "Junior Java Software Engineer",
+      "id": "23ed033b-3c0a-41d4-8aca-c7bd44108565",
+      "title": "Mobile Software Engineer/JR Level",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
-      "location": "Fresno, CA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 70000,
-      "salaryMax": 90000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-06-22T14:01:31.000Z",
-      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/f843777e-f983-4c70-9788-2e9867d6d70b?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "662fc9e2-c9c6-4ad3-98b5-d5effde06987",
-      "title": "Junior Node JS Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "San Jose, CA, United States",
+      "location": "Santa Clara, CA, United States",
       "remoteType": null,
       "salaryMin": 95000,
-      "salaryMax": 125000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-06-27T13:50:30.000Z",
-      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/662fc9e2-c9c6-4ad3-98b5-d5effde06987?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "7c7273e9-7a6b-4671-8299-879c1f486ccd",
-      "title": "Web Developer (Entry-level)",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "San Diego, CA, United States",
-      "remoteType": null,
-      "salaryMin": 70000,
-      "salaryMax": 90000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-06-23T15:32:34.000Z",
-      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/7c7273e9-7a6b-4671-8299-879c1f486ccd?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "0b68f8de-33e9-4a59-bcba-ecf6348507d7",
-      "title": "Jr.AngularJS-JavaScript Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Santa Ana, CA, United States",
-      "remoteType": null,
-      "salaryMin": 75000,
-      "salaryMax": 95000,
+      "salaryMax": 130000,
       "aiRoleKind": null,
-      "postedAt": "2016-06-24T13:47:54.000Z",
+      "postedAt": "2016-06-20T14:03:00.000Z",
       "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/0b68f8de-33e9-4a59-bcba-ecf6348507d7?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/23ed033b-3c0a-41d4-8aca-c7bd44108565?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "5ef31668-38aa-4716-81b0-aa36c74d43cf",
@@ -8727,32 +8615,130 @@
       "url": "https://www.dreamworkhq.com/job/5ef31668-38aa-4716-81b0-aa36c74d43cf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "3f753cd0-5d8e-4790-85f7-2fcc368eab91",
+      "id": "99375e2c-85dc-4174-84d6-6bc5867ea34c",
       "title": "Jr./Entry level Java Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "San Diego, CA, United States",
-      "remoteType": null,
-      "salaryMin": 65000,
-      "salaryMax": 95000,
-      "aiRoleKind": null,
-      "postedAt": "2016-06-20T14:03:46.000Z",
-      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/3f753cd0-5d8e-4790-85f7-2fcc368eab91?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "107402e1-7064-4c25-80fe-38dbe2510f43",
-      "title": "Junior Mobile Architect",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
       "location": "San Jose, CA, United States",
       "remoteType": null,
-      "salaryMin": 145000,
-      "salaryMax": 195000,
+      "salaryMin": 100000,
+      "salaryMax": 135000,
       "aiRoleKind": null,
-      "postedAt": "2016-06-22T14:04:12.000Z",
+      "postedAt": "2016-06-24T13:51:18.000Z",
       "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/107402e1-7064-4c25-80fe-38dbe2510f43?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/99375e2c-85dc-4174-84d6-6bc5867ea34c?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "ed29c626-5dd1-4e43-8fcf-d75679cecd5c",
+      "title": "Mobile Software Engineer/JR Level",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "San Francisco, CA, United States",
+      "remoteType": null,
+      "salaryMin": 110000,
+      "salaryMax": 145000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-06-24T13:49:45.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
+      "url": "https://www.dreamworkhq.com/job/ed29c626-5dd1-4e43-8fcf-d75679cecd5c?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "662fc9e2-c9c6-4ad3-98b5-d5effde06987",
+      "title": "Junior Node JS Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "San Jose, CA, United States",
+      "remoteType": null,
+      "salaryMin": 95000,
+      "salaryMax": 125000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-06-27T13:50:30.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
+      "url": "https://www.dreamworkhq.com/job/662fc9e2-c9c6-4ad3-98b5-d5effde06987?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "8a11a674-449a-4b9b-8d76-0d4b51c20ad4",
+      "title": "UI/UX Front End Developer Junior level",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "San Diego, CA, United States",
+      "remoteType": null,
+      "salaryMin": 75000,
+      "salaryMax": 105000,
+      "aiRoleKind": null,
+      "postedAt": "2016-06-22T14:05:09.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
+      "url": "https://www.dreamworkhq.com/job/8a11a674-449a-4b9b-8d76-0d4b51c20ad4?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "0b68f8de-33e9-4a59-bcba-ecf6348507d7",
+      "title": "Jr.AngularJS-JavaScript Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Santa Ana, CA, United States",
+      "remoteType": null,
+      "salaryMin": 75000,
+      "salaryMax": 95000,
+      "aiRoleKind": null,
+      "postedAt": "2016-06-24T13:47:54.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
+      "url": "https://www.dreamworkhq.com/job/0b68f8de-33e9-4a59-bcba-ecf6348507d7?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "7c7273e9-7a6b-4671-8299-879c1f486ccd",
+      "title": "Web Developer (Entry-level)",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "San Diego, CA, United States",
+      "remoteType": null,
+      "salaryMin": 70000,
+      "salaryMax": 90000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-06-23T15:32:34.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
+      "url": "https://www.dreamworkhq.com/job/7c7273e9-7a6b-4671-8299-879c1f486ccd?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "f843777e-f983-4c70-9788-2e9867d6d70b",
+      "title": "Junior Java Software Engineer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Fresno, CA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 70000,
+      "salaryMax": 90000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-06-22T14:01:31.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
+      "url": "https://www.dreamworkhq.com/job/f843777e-f983-4c70-9788-2e9867d6d70b?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "91154a4f-5216-47b8-b442-bab9399b8723",
+      "title": "Entry level DevOps Engineer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Sacramento, CA, United States",
+      "remoteType": null,
+      "salaryMin": 80000,
+      "salaryMax": 105000,
+      "aiRoleKind": null,
+      "postedAt": "2016-06-22T14:00:38.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
+      "url": "https://www.dreamworkhq.com/job/91154a4f-5216-47b8-b442-bab9399b8723?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "aaa338e4-7a85-4e01-99a5-100441ff9cb3",
+      "title": "Junior DevOps",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "San Francisco, CA, United States",
+      "remoteType": null,
+      "salaryMin": 105000,
+      "salaryMax": 150000,
+      "aiRoleKind": null,
+      "postedAt": "2016-06-21T14:08:01.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
+      "url": "https://www.dreamworkhq.com/job/aaa338e4-7a85-4e01-99a5-100441ff9cb3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "46dc381c-ca3d-4555-ab73-12db64f08ccd",
@@ -8769,18 +8755,46 @@
       "url": "https://www.dreamworkhq.com/job/46dc381c-ca3d-4555-ab73-12db64f08ccd?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "74e39343-4192-410b-80fd-e2a13949b459",
-      "title": "Jr. .Net Developer",
+      "id": "85f5c406-af70-4a4c-aba7-a6b366ae972a",
+      "title": "Jr. Java Webservices Developer",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
-      "location": "Santa Ana, CA, United States",
+      "location": "San Diego, CA, United States",
       "remoteType": null,
       "salaryMin": 75000,
+      "salaryMax": 100000,
+      "aiRoleKind": null,
+      "postedAt": "2016-06-17T14:05:33.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
+      "url": "https://www.dreamworkhq.com/job/85f5c406-af70-4a4c-aba7-a6b366ae972a?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "3f753cd0-5d8e-4790-85f7-2fcc368eab91",
+      "title": "Jr./Entry level Java Developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "San Diego, CA, United States",
+      "remoteType": null,
+      "salaryMin": 65000,
       "salaryMax": 95000,
       "aiRoleKind": null,
-      "postedAt": "2016-06-22T13:59:04.000Z",
+      "postedAt": "2016-06-20T14:03:46.000Z",
       "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/74e39343-4192-410b-80fd-e2a13949b459?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/3f753cd0-5d8e-4790-85f7-2fcc368eab91?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "54f2915e-486d-4afa-86f2-c40c7777218b",
+      "title": "Junior ios developer",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Santa Clara, CA, United States",
+      "remoteType": null,
+      "salaryMin": 105000,
+      "salaryMax": 135000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-06-23T15:38:21.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
+      "url": "https://www.dreamworkhq.com/job/54f2915e-486d-4afa-86f2-c40c7777218b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "3dc16e7d-6a9c-42b3-8c5a-0e25925d2c2a",
@@ -8797,18 +8811,18 @@
       "url": "https://www.dreamworkhq.com/job/3dc16e7d-6a9c-42b3-8c5a-0e25925d2c2a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "fb0b7947-6a6a-46f1-9d12-4eeb0dba554c",
-      "title": "UI/UX Front End Developer Junior level",
+      "id": "48e88d0c-c406-4e0a-a2b5-8cbd9d802a78",
+      "title": "Jr.Java Fullstack Developer",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
-      "location": "San Francisco, CA, United States",
+      "location": "San Diego, CA, United States",
       "remoteType": null,
-      "salaryMin": 95000,
-      "salaryMax": 135000,
+      "salaryMin": 80000,
+      "salaryMax": 115000,
       "aiRoleKind": null,
-      "postedAt": "2016-06-23T15:37:20.000Z",
+      "postedAt": "2016-06-23T15:39:12.000Z",
       "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/fb0b7947-6a6a-46f1-9d12-4eeb0dba554c?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/48e88d0c-c406-4e0a-a2b5-8cbd9d802a78?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "2e809b71-b110-4e5c-a846-10a1d0437f92",
@@ -8825,60 +8839,18 @@
       "url": "https://www.dreamworkhq.com/job/2e809b71-b110-4e5c-a846-10a1d0437f92?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "b4663501-7a8f-4155-a4fa-d94c322383a1",
-      "title": "Junior ios developer",
+      "id": "fb0b7947-6a6a-46f1-9d12-4eeb0dba554c",
+      "title": "UI/UX Front End Developer Junior level",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
-      "location": "Oakland, CA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 90000,
-      "salaryMax": 125000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-06-21T14:05:21.000Z",
-      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/b4663501-7a8f-4155-a4fa-d94c322383a1?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "85f5c406-af70-4a4c-aba7-a6b366ae972a",
-      "title": "Jr. Java Webservices Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "San Diego, CA, United States",
+      "location": "San Francisco, CA, United States",
       "remoteType": null,
-      "salaryMin": 75000,
-      "salaryMax": 100000,
+      "salaryMin": 95000,
+      "salaryMax": 135000,
       "aiRoleKind": null,
-      "postedAt": "2016-06-17T14:05:33.000Z",
+      "postedAt": "2016-06-23T15:37:20.000Z",
       "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/85f5c406-af70-4a4c-aba7-a6b366ae972a?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "48e88d0c-c406-4e0a-a2b5-8cbd9d802a78",
-      "title": "Jr.Java Fullstack Developer",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "San Diego, CA, United States",
-      "remoteType": null,
-      "salaryMin": 80000,
-      "salaryMax": 115000,
-      "aiRoleKind": null,
-      "postedAt": "2016-06-23T15:39:12.000Z",
-      "firstIndexedAt": "2026-05-26T01:32:36.174Z",
-      "url": "https://www.dreamworkhq.com/job/48e88d0c-c406-4e0a-a2b5-8cbd9d802a78?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "8171caf2-01e9-42fe-a13c-0e32a7b4550a",
-      "title": "Junior Mobile Solutions Architect",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "Santa Clara, CA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 120000,
-      "salaryMax": 160000,
-      "aiRoleKind": null,
-      "postedAt": "2016-06-29T15:02:06.000Z",
-      "firstIndexedAt": "2026-05-26T01:32:31.199Z",
-      "url": "https://www.dreamworkhq.com/job/8171caf2-01e9-42fe-a13c-0e32a7b4550a?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/fb0b7947-6a6a-46f1-9d12-4eeb0dba554c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "372a8277-14b8-42fd-9c2c-ded41d521b63",
@@ -8895,18 +8867,32 @@
       "url": "https://www.dreamworkhq.com/job/372a8277-14b8-42fd-9c2c-ded41d521b63?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "b112f953-f774-4600-9aea-9af9f47d82a4",
-      "title": "Jr. SOFTWARE ENGINEER/Big Data",
+      "id": "52137712-fb2d-4c5b-b1e8-eaddc48d75b0",
+      "title": "Jr.Hadoop Developer",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
       "location": "San Jose, CA, United States",
       "remoteType": null,
       "salaryMin": 105000,
-      "salaryMax": 150000,
+      "salaryMax": 145000,
       "aiRoleKind": null,
-      "postedAt": "2016-06-28T17:39:52.000Z",
+      "postedAt": "2016-06-28T17:38:00.000Z",
       "firstIndexedAt": "2026-05-26T01:32:31.199Z",
-      "url": "https://www.dreamworkhq.com/job/b112f953-f774-4600-9aea-9af9f47d82a4?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/52137712-fb2d-4c5b-b1e8-eaddc48d75b0?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "8171caf2-01e9-42fe-a13c-0e32a7b4550a",
+      "title": "Junior Mobile Solutions Architect",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "Santa Clara, CA, United States",
+      "remoteType": "onsite",
+      "salaryMin": 120000,
+      "salaryMax": 160000,
+      "aiRoleKind": null,
+      "postedAt": "2016-06-29T15:02:06.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:31.199Z",
+      "url": "https://www.dreamworkhq.com/job/8171caf2-01e9-42fe-a13c-0e32a7b4550a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "4f40d912-96d0-470e-b15e-8c140d0ff698",
@@ -8937,20 +8923,6 @@
       "url": "https://www.dreamworkhq.com/job/c2ccafe0-b7f8-44ac-b58c-6e8e4e4e6a04?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "fa988035-06df-4d13-9fa4-14ce86e78d19",
-      "title": "Front End Web Developer Junior Level",
-      "company": "Jobsbridge1",
-      "companyDomain": "jobsbridge.com",
-      "location": "San Francisco, CA, United States",
-      "remoteType": null,
-      "salaryMin": 100000,
-      "salaryMax": 135000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2016-06-27T13:51:51.000Z",
-      "firstIndexedAt": "2026-05-26T01:32:31.199Z",
-      "url": "https://www.dreamworkhq.com/job/fa988035-06df-4d13-9fa4-14ce86e78d19?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "4fad936a-77fa-47b5-a82d-4b99107b7a43",
       "title": "Junior UI/UX Web Developer",
       "company": "Jobsbridge1",
@@ -8965,18 +8937,32 @@
       "url": "https://www.dreamworkhq.com/job/4fad936a-77fa-47b5-a82d-4b99107b7a43?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "52137712-fb2d-4c5b-b1e8-eaddc48d75b0",
-      "title": "Jr.Hadoop Developer",
+      "id": "b112f953-f774-4600-9aea-9af9f47d82a4",
+      "title": "Jr. SOFTWARE ENGINEER/Big Data",
       "company": "Jobsbridge1",
       "companyDomain": "jobsbridge.com",
       "location": "San Jose, CA, United States",
       "remoteType": null,
       "salaryMin": 105000,
-      "salaryMax": 145000,
+      "salaryMax": 150000,
       "aiRoleKind": null,
-      "postedAt": "2016-06-28T17:38:00.000Z",
+      "postedAt": "2016-06-28T17:39:52.000Z",
       "firstIndexedAt": "2026-05-26T01:32:31.199Z",
-      "url": "https://www.dreamworkhq.com/job/52137712-fb2d-4c5b-b1e8-eaddc48d75b0?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/b112f953-f774-4600-9aea-9af9f47d82a4?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "fa988035-06df-4d13-9fa4-14ce86e78d19",
+      "title": "Front End Web Developer Junior Level",
+      "company": "Jobsbridge1",
+      "companyDomain": "jobsbridge.com",
+      "location": "San Francisco, CA, United States",
+      "remoteType": null,
+      "salaryMin": 100000,
+      "salaryMax": 135000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2016-06-27T13:51:51.000Z",
+      "firstIndexedAt": "2026-05-26T01:32:31.199Z",
+      "url": "https://www.dreamworkhq.com/job/fa988035-06df-4d13-9fa4-14ce86e78d19?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "b6c7b2b0-b552-4849-b3f6-31a8630773fa",
@@ -9021,20 +9007,6 @@
       "url": "https://www.dreamworkhq.com/job/62265ea4-8db2-42f0-a5a4-693df50647ae?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "17b8c0b0-f049-4d57-a164-1147e689c8f2",
-      "title": "Temp to Perm :: Jr. Front-End Developer",
-      "company": "Collabera2",
-      "companyDomain": "collabera.com",
-      "location": "Van Buren Charter Township, MI, United States",
-      "remoteType": null,
-      "salaryMin": 60000,
-      "salaryMax": 85000,
-      "aiRoleKind": null,
-      "postedAt": "2016-09-20T14:27:56.000Z",
-      "firstIndexedAt": "2026-05-25T21:32:57.203Z",
-      "url": "https://www.dreamworkhq.com/job/17b8c0b0-f049-4d57-a164-1147e689c8f2?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "33043a2c-5e69-48a2-aa5f-5cbbc8d4b289",
       "title": "Jr. HTML Developer",
       "company": "Collabera2",
@@ -9047,6 +9019,20 @@
       "postedAt": "2016-09-06T15:33:16.000Z",
       "firstIndexedAt": "2026-05-25T21:32:57.203Z",
       "url": "https://www.dreamworkhq.com/job/33043a2c-5e69-48a2-aa5f-5cbbc8d4b289?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "17b8c0b0-f049-4d57-a164-1147e689c8f2",
+      "title": "Temp to Perm :: Jr. Front-End Developer",
+      "company": "Collabera2",
+      "companyDomain": "collabera.com",
+      "location": "Van Buren Charter Township, MI, United States",
+      "remoteType": null,
+      "salaryMin": 60000,
+      "salaryMax": 85000,
+      "aiRoleKind": null,
+      "postedAt": "2016-09-20T14:27:56.000Z",
+      "firstIndexedAt": "2026-05-25T21:32:57.203Z",
+      "url": "https://www.dreamworkhq.com/job/17b8c0b0-f049-4d57-a164-1147e689c8f2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "691bb0be-b8f1-45f0-9c29-2d4e252da4cf",
@@ -9063,18 +9049,18 @@
       "url": "https://www.dreamworkhq.com/job/691bb0be-b8f1-45f0-9c29-2d4e252da4cf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "df3fd097-5364-4005-8be4-81148f802b14",
-      "title": "Entry Level Low Code Developer/ Business Consultant (4 Day Work Week)",
+      "id": "c5cc66b3-9f49-4576-bd7c-d9158c3588b4",
+      "title": "Entry Level Software Developer (Data & Database Focus)",
       "company": "Latitudeinc",
       "companyDomain": "latitudeinc.net",
       "location": "Baltimore, MD",
-      "remoteType": null,
+      "remoteType": "onsite",
       "salaryMin": 60000,
       "salaryMax": 70000,
-      "aiRoleKind": null,
-      "postedAt": "2026-03-12T20:55:00.549Z",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-02-19T15:46:50.966Z",
       "firstIndexedAt": "2026-05-25T20:22:11.041Z",
-      "url": "https://www.dreamworkhq.com/job/df3fd097-5364-4005-8be4-81148f802b14?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/c5cc66b3-9f49-4576-bd7c-d9158c3588b4?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "f4abd8d4-6d92-4b55-acf2-ea1870d3039c",
@@ -9091,18 +9077,18 @@
       "url": "https://www.dreamworkhq.com/job/f4abd8d4-6d92-4b55-acf2-ea1870d3039c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "c5cc66b3-9f49-4576-bd7c-d9158c3588b4",
-      "title": "Entry Level Software Developer (Data & Database Focus)",
+      "id": "df3fd097-5364-4005-8be4-81148f802b14",
+      "title": "Entry Level Low Code Developer/ Business Consultant (4 Day Work Week)",
       "company": "Latitudeinc",
       "companyDomain": "latitudeinc.net",
       "location": "Baltimore, MD",
-      "remoteType": "onsite",
+      "remoteType": null,
       "salaryMin": 60000,
       "salaryMax": 70000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-02-19T15:46:50.966Z",
+      "aiRoleKind": null,
+      "postedAt": "2026-03-12T20:55:00.549Z",
       "firstIndexedAt": "2026-05-25T20:22:11.041Z",
-      "url": "https://www.dreamworkhq.com/job/c5cc66b3-9f49-4576-bd7c-d9158c3588b4?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/df3fd097-5364-4005-8be4-81148f802b14?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "c9f0b203-fcc0-4a04-bab3-23cae7e2b518",
@@ -9161,20 +9147,6 @@
       "url": "https://www.dreamworkhq.com/job/b88fdc68-5364-4a69-8089-789fec9677c6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "78c02259-c533-461a-ab5d-64a214d8cde4",
-      "title": "Jr Level Software Developer",
-      "company": "Eleviassociates",
-      "companyDomain": "elevi.net",
-      "location": "Fort Meade, MD",
-      "remoteType": null,
-      "salaryMin": 94400,
-      "salaryMax": 144300,
-      "aiRoleKind": null,
-      "postedAt": "2026-02-02T21:33:00.000Z",
-      "firstIndexedAt": "2026-05-25T18:16:11.498Z",
-      "url": "https://www.dreamworkhq.com/job/78c02259-c533-461a-ab5d-64a214d8cde4?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "fe4c234f-c487-4d52-a45e-cc239647b935",
       "title": "Jr Level Software Developer",
       "company": "Eleviassociates",
@@ -9189,18 +9161,18 @@
       "url": "https://www.dreamworkhq.com/job/fe4c234f-c487-4d52-a45e-cc239647b935?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "3e40ede0-e992-4500-9bae-73a0cb509fa5",
-      "title": "Software Systems Engineer - I",
-      "company": "AmNetServicesInc",
-      "companyDomain": "americanetworks.com",
-      "location": "Hilliard, OH, United States",
+      "id": "78c02259-c533-461a-ab5d-64a214d8cde4",
+      "title": "Jr Level Software Developer",
+      "company": "Eleviassociates",
+      "companyDomain": "elevi.net",
+      "location": "Fort Meade, MD",
       "remoteType": null,
-      "salaryMin": 90000,
-      "salaryMax": 115000,
+      "salaryMin": 94400,
+      "salaryMax": 144300,
       "aiRoleKind": null,
-      "postedAt": "2017-03-06T22:40:16.000Z",
-      "firstIndexedAt": "2026-05-25T17:55:08.486Z",
-      "url": "https://www.dreamworkhq.com/job/3e40ede0-e992-4500-9bae-73a0cb509fa5?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "postedAt": "2026-02-02T21:33:00.000Z",
+      "firstIndexedAt": "2026-05-25T18:16:11.498Z",
+      "url": "https://www.dreamworkhq.com/job/78c02259-c533-461a-ab5d-64a214d8cde4?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "6b89d64c-e4f2-4ee8-82fa-b7b60ee4a63b",
@@ -9215,6 +9187,20 @@
       "postedAt": "2017-02-11T00:10:10.000Z",
       "firstIndexedAt": "2026-05-25T17:55:08.486Z",
       "url": "https://www.dreamworkhq.com/job/6b89d64c-e4f2-4ee8-82fa-b7b60ee4a63b?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "3e40ede0-e992-4500-9bae-73a0cb509fa5",
+      "title": "Software Systems Engineer - I",
+      "company": "AmNetServicesInc",
+      "companyDomain": "americanetworks.com",
+      "location": "Hilliard, OH, United States",
+      "remoteType": null,
+      "salaryMin": 90000,
+      "salaryMax": 115000,
+      "aiRoleKind": null,
+      "postedAt": "2017-03-06T22:40:16.000Z",
+      "firstIndexedAt": "2026-05-25T17:55:08.486Z",
+      "url": "https://www.dreamworkhq.com/job/3e40ede0-e992-4500-9bae-73a0cb509fa5?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "17ae9c1b-e631-4e07-a147-44fad348b56b",
@@ -9399,20 +9385,6 @@
       "url": "https://www.dreamworkhq.com/job/9b0db728-7f65-44c6-8ec5-0c8d799169bd?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "22a27b24-2728-47a7-afd9-1d80e94c7057",
-      "title": "Software Developer I - ACE",
-      "company": "Rocket Companies",
-      "companyDomain": "rocketcompanies.com",
-      "location": "Seattle, WA",
-      "remoteType": null,
-      "salaryMin": 118800,
-      "salaryMax": 145200,
-      "aiRoleKind": null,
-      "postedAt": "2026-05-16T06:02:03.243Z",
-      "firstIndexedAt": "2026-05-25T16:39:44.931Z",
-      "url": "https://www.dreamworkhq.com/job/22a27b24-2728-47a7-afd9-1d80e94c7057?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "18b0844f-7793-43d0-8bb3-ccfe3b5e9a75",
       "title": "Software Developer I",
       "company": "Rocket Companies",
@@ -9425,6 +9397,20 @@
       "postedAt": "2026-05-23T06:02:42.571Z",
       "firstIndexedAt": "2026-05-25T16:39:44.931Z",
       "url": "https://www.dreamworkhq.com/job/18b0844f-7793-43d0-8bb3-ccfe3b5e9a75?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "22a27b24-2728-47a7-afd9-1d80e94c7057",
+      "title": "Software Developer I - ACE",
+      "company": "Rocket Companies",
+      "companyDomain": "rocketcompanies.com",
+      "location": "Seattle, WA",
+      "remoteType": null,
+      "salaryMin": 118800,
+      "salaryMax": 145200,
+      "aiRoleKind": null,
+      "postedAt": "2026-05-16T06:02:03.243Z",
+      "firstIndexedAt": "2026-05-25T16:39:44.931Z",
+      "url": "https://www.dreamworkhq.com/job/22a27b24-2728-47a7-afd9-1d80e94c7057?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "d7e93508-37f5-4e31-b941-57f09ca1f0eb",
@@ -9847,20 +9833,6 @@
       "url": "https://www.dreamworkhq.com/job/5a6cca34-1d6b-4c31-b077-43e2aac1220c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "0d881b5c-f05d-4c3c-8d43-e8c4bfed1407",
-      "title": "AI Developer I",
-      "company": "Western & Southern",
-      "companyDomain": "westernsouthern.com",
-      "location": "CINCINNATI, OH, US",
-      "remoteType": "hybrid",
-      "salaryMin": 142710,
-      "salaryMax": 215440,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2024-07-07T06:14:45.012Z",
-      "firstIndexedAt": "2026-05-25T01:09:42.845Z",
-      "url": "https://www.dreamworkhq.com/job/0d881b5c-f05d-4c3c-8d43-e8c4bfed1407?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "3e60465e-d3cd-4930-b9bb-a7cca0135afa",
       "title": "Software Developer I (COBOL)",
       "company": "Western & Southern",
@@ -9873,6 +9845,20 @@
       "postedAt": "2024-07-07T06:14:43.499Z",
       "firstIndexedAt": "2026-05-25T01:09:42.845Z",
       "url": "https://www.dreamworkhq.com/job/3e60465e-d3cd-4930-b9bb-a7cca0135afa?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "0d881b5c-f05d-4c3c-8d43-e8c4bfed1407",
+      "title": "AI Developer I",
+      "company": "Western & Southern",
+      "companyDomain": "westernsouthern.com",
+      "location": "CINCINNATI, OH, US",
+      "remoteType": "hybrid",
+      "salaryMin": 142710,
+      "salaryMax": 215440,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2024-07-07T06:14:45.012Z",
+      "firstIndexedAt": "2026-05-25T01:09:42.845Z",
+      "url": "https://www.dreamworkhq.com/job/0d881b5c-f05d-4c3c-8d43-e8c4bfed1407?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "d6276c30-db4e-47db-aec9-ca41c9e255c8",
@@ -10057,20 +10043,6 @@
       "url": "https://www.dreamworkhq.com/job/011e8ec5-fa7a-4edc-be4d-c76f201acaad?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "f5feb443-304c-4bcd-9ea5-228aaac80710",
-      "title": "Digital Transformation Application Developer I",
-      "company": "Agile Defense",
-      "companyDomain": "agiledefense.com",
-      "location": "Huntsville, AL",
-      "remoteType": null,
-      "salaryMin": 70000,
-      "salaryMax": 95000,
-      "aiRoleKind": null,
-      "postedAt": "2026-05-18T20:06:33.808Z",
-      "firstIndexedAt": "2026-05-23T07:49:43.848Z",
-      "url": "https://www.dreamworkhq.com/job/f5feb443-304c-4bcd-9ea5-228aaac80710?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "2ebed2d6-8191-453d-8a81-58ab5664f255",
       "title": "Enterprise Cloud Systems Engineer - Associate",
       "company": "Agile Defense",
@@ -10083,6 +10055,20 @@
       "postedAt": "2026-05-21T14:35:40.357Z",
       "firstIndexedAt": "2026-05-23T07:49:43.848Z",
       "url": "https://www.dreamworkhq.com/job/2ebed2d6-8191-453d-8a81-58ab5664f255?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "f5feb443-304c-4bcd-9ea5-228aaac80710",
+      "title": "Digital Transformation Application Developer I",
+      "company": "Agile Defense",
+      "companyDomain": "agiledefense.com",
+      "location": "Huntsville, AL",
+      "remoteType": null,
+      "salaryMin": 70000,
+      "salaryMax": 95000,
+      "aiRoleKind": null,
+      "postedAt": "2026-05-18T20:06:33.808Z",
+      "firstIndexedAt": "2026-05-23T07:49:43.848Z",
+      "url": "https://www.dreamworkhq.com/job/f5feb443-304c-4bcd-9ea5-228aaac80710?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "460188c5-3193-4983-968d-cdaa0fdf7512",
@@ -10141,20 +10127,6 @@
       "url": "https://www.dreamworkhq.com/job/a87889f8-8dab-493d-9c00-db94943831c8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "18a14557-cae5-41c0-8171-698384ea8580",
-      "title": "Junior Systems Engineer ",
-      "company": "Accenture Federal Services",
-      "companyDomain": "accenturefederal.com",
-      "location": "Annapolis Junction, MD",
-      "remoteType": null,
-      "salaryMin": 103800,
-      "salaryMax": 192300,
-      "aiRoleKind": null,
-      "postedAt": "2026-02-06T19:35:16.000Z",
-      "firstIndexedAt": "2026-05-23T07:40:54.855Z",
-      "url": "https://www.dreamworkhq.com/job/18a14557-cae5-41c0-8171-698384ea8580?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "c65cff8f-809a-41d5-b879-4eae26311f69",
       "title": "Jr Data Engineer",
       "company": "Accenture Federal Services",
@@ -10167,6 +10139,20 @@
       "postedAt": "2025-12-03T19:21:10.000Z",
       "firstIndexedAt": "2026-05-23T07:40:54.855Z",
       "url": "https://www.dreamworkhq.com/job/c65cff8f-809a-41d5-b879-4eae26311f69?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "18a14557-cae5-41c0-8171-698384ea8580",
+      "title": "Junior Systems Engineer ",
+      "company": "Accenture Federal Services",
+      "companyDomain": "accenturefederal.com",
+      "location": "Annapolis Junction, MD",
+      "remoteType": null,
+      "salaryMin": 103800,
+      "salaryMax": 192300,
+      "aiRoleKind": null,
+      "postedAt": "2026-02-06T19:35:16.000Z",
+      "firstIndexedAt": "2026-05-23T07:40:54.855Z",
+      "url": "https://www.dreamworkhq.com/job/18a14557-cae5-41c0-8171-698384ea8580?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "87075090-b32d-4bfc-ab3c-11b853ebef53",
@@ -10309,18 +10295,18 @@
       "url": "https://www.dreamworkhq.com/job/9be1bba2-5ee4-4b69-abb2-1d1e89eed82f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "86f3b7aa-48dc-495b-b6b9-d367a4449f35",
+      "id": "87717200-72ae-4582-887e-ab45141c2b89",
       "title": "Junior Embedded Software Development Engineer",
       "company": "Sonos",
       "companyDomain": "sonos.com",
       "location": "Boston, MA",
       "remoteType": "hybrid",
-      "salaryMin": 170000,
-      "salaryMax": 200000,
+      "salaryMin": 88740,
+      "salaryMax": 110754,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-12T06:14:05.350Z",
+      "postedAt": "2026-06-02T06:09:24.727Z",
       "firstIndexedAt": "2026-05-22T21:50:34.033Z",
-      "url": "https://www.dreamworkhq.com/job/86f3b7aa-48dc-495b-b6b9-d367a4449f35?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/87717200-72ae-4582-887e-ab45141c2b89?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "7251fb16-ea6c-4a1c-8e45-1ad7038f5efb",
@@ -10505,7 +10491,7 @@
       "url": "https://www.dreamworkhq.com/job/de61376a-7589-4b88-8104-045864265aed?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "1c557e6f-846f-4b31-9aa0-1206a27eaebc",
+      "id": "72ae35c0-800d-4ee9-b25e-84b566d02410",
       "title": "Junior Data Analyst",
       "company": "Steampunk",
       "companyDomain": "steampunk.com",
@@ -10513,10 +10499,10 @@
       "remoteType": "onsite",
       "salaryMin": 35000,
       "salaryMax": 60000,
-      "aiRoleKind": "non_ai",
+      "aiRoleKind": null,
       "postedAt": "2026-05-11T04:00:00.000Z",
       "firstIndexedAt": "2026-05-22T04:25:11.431Z",
-      "url": "https://www.dreamworkhq.com/job/1c557e6f-846f-4b31-9aa0-1206a27eaebc?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/72ae35c0-800d-4ee9-b25e-84b566d02410?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "cd9085e7-f93e-45fc-ac77-869f77750aa1",
@@ -10687,20 +10673,6 @@
       "url": "https://www.dreamworkhq.com/job/21745b37-5a86-44c4-a84f-8fe4fe6fb668?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "1d5bd0d0-f8a3-4499-86a3-c617f944ad58",
-      "title": "Junior Full Stack Engineer (Java/React)",
-      "company": "General Dynamics Mission Systems",
-      "companyDomain": "gdmissionsystems.com",
-      "location": "Dedham, MA, US",
-      "remoteType": "onsite",
-      "salaryMin": 94388,
-      "salaryMax": 99550,
-      "aiRoleKind": null,
-      "postedAt": "2026-03-24T04:00:00.000Z",
-      "firstIndexedAt": "2026-05-22T04:20:18.400Z",
-      "url": "https://www.dreamworkhq.com/job/1d5bd0d0-f8a3-4499-86a3-c617f944ad58?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "d3f04402-f287-4bdd-852e-1aeb0b381237",
       "title": "Entry Level Infrastructure Software Engineer",
       "company": "General Dynamics Mission Systems",
@@ -10713,6 +10685,20 @@
       "postedAt": "2026-05-13T04:00:00.000Z",
       "firstIndexedAt": "2026-05-22T04:20:18.400Z",
       "url": "https://www.dreamworkhq.com/job/d3f04402-f287-4bdd-852e-1aeb0b381237?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "1d5bd0d0-f8a3-4499-86a3-c617f944ad58",
+      "title": "Junior Full Stack Engineer (Java/React)",
+      "company": "General Dynamics Mission Systems",
+      "companyDomain": "gdmissionsystems.com",
+      "location": "Dedham, MA, US",
+      "remoteType": "onsite",
+      "salaryMin": 94388,
+      "salaryMax": 99550,
+      "aiRoleKind": null,
+      "postedAt": "2026-03-24T04:00:00.000Z",
+      "firstIndexedAt": "2026-05-22T04:20:18.400Z",
+      "url": "https://www.dreamworkhq.com/job/1d5bd0d0-f8a3-4499-86a3-c617f944ad58?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "cd9cb28e-6b14-4175-a13e-e26910166a19",
@@ -10841,20 +10827,6 @@
       "url": "https://www.dreamworkhq.com/job/cccd880d-1c98-474e-afa3-78c0f370e0b3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "7b1bd94c-1cd7-410c-9f5f-91ae690958b6",
-      "title": "Junior eCommerce Developer",
-      "company": "Sonoma Consulting Inc",
-      "companyDomain": "sonomaconsulting.net",
-      "location": "Chicago, IL, United States",
-      "remoteType": null,
-      "salaryMin": 70000,
-      "salaryMax": 90000,
-      "aiRoleKind": null,
-      "postedAt": "2016-12-01T21:40:55.000Z",
-      "firstIndexedAt": "2026-05-22T01:29:43.604Z",
-      "url": "https://www.dreamworkhq.com/job/7b1bd94c-1cd7-410c-9f5f-91ae690958b6?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "418ff352-5acd-49b2-bdbb-2828addaf77e",
       "title": "Front End/ CSS/ HTML /Email Developer",
       "company": "Sonoma Consulting Inc",
@@ -10867,6 +10839,20 @@
       "postedAt": "2016-11-15T19:52:23.000Z",
       "firstIndexedAt": "2026-05-22T01:29:43.604Z",
       "url": "https://www.dreamworkhq.com/job/418ff352-5acd-49b2-bdbb-2828addaf77e?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "7b1bd94c-1cd7-410c-9f5f-91ae690958b6",
+      "title": "Junior eCommerce Developer",
+      "company": "Sonoma Consulting Inc",
+      "companyDomain": "sonomaconsulting.net",
+      "location": "Chicago, IL, United States",
+      "remoteType": null,
+      "salaryMin": 70000,
+      "salaryMax": 90000,
+      "aiRoleKind": null,
+      "postedAt": "2016-12-01T21:40:55.000Z",
+      "firstIndexedAt": "2026-05-22T01:29:43.604Z",
+      "url": "https://www.dreamworkhq.com/job/7b1bd94c-1cd7-410c-9f5f-91ae690958b6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "edd7fc0f-8bf3-4472-b372-4476d054ef90",
@@ -10895,20 +10881,6 @@
       "postedAt": "2017-04-05T19:28:54.000Z",
       "firstIndexedAt": "2026-05-22T01:29:36.922Z",
       "url": "https://www.dreamworkhq.com/job/f30a8508-72a7-400f-a153-7e064d76b9f7?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "0b72192d-af1b-47a7-9237-f217c6ecada5",
-      "title": "Jr. Java Developer",
-      "company": "Sonoma Consulting Inc",
-      "companyDomain": "sonomaconsulting.net",
-      "location": "Phoenix, AZ, United States",
-      "remoteType": "onsite",
-      "salaryMin": 70000,
-      "salaryMax": 90000,
-      "aiRoleKind": null,
-      "postedAt": "2017-04-10T23:20:17.000Z",
-      "firstIndexedAt": "2026-05-22T01:29:36.922Z",
-      "url": "https://www.dreamworkhq.com/job/0b72192d-af1b-47a7-9237-f217c6ecada5?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "98724949-d9ec-423f-a6d1-9a854ffd0219",
@@ -10953,20 +10925,6 @@
       "url": "https://www.dreamworkhq.com/job/25c548bc-1c3b-4f54-9929-b985f4c4733d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "474c9ff9-025f-473a-a7e9-06e14101a8bd",
-      "title": "Jr. ETL Developer",
-      "company": "Sonoma Consulting Inc",
-      "companyDomain": "sonomaconsulting.net",
-      "location": "Plano, TX, United States",
-      "remoteType": null,
-      "salaryMin": 70000,
-      "salaryMax": 95000,
-      "aiRoleKind": null,
-      "postedAt": "2017-05-01T21:41:05.000Z",
-      "firstIndexedAt": "2026-05-22T01:29:30.433Z",
-      "url": "https://www.dreamworkhq.com/job/474c9ff9-025f-473a-a7e9-06e14101a8bd?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "f34a91db-2b93-41e4-a794-68f57956812c",
       "title": "Jr. Abinitio Developer",
       "company": "Sonoma Consulting Inc",
@@ -10993,6 +10951,20 @@
       "postedAt": "2017-05-05T21:26:07.000Z",
       "firstIndexedAt": "2026-05-22T01:29:30.433Z",
       "url": "https://www.dreamworkhq.com/job/09ffa60c-b862-4d06-8f7c-5424c8af180d?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "474c9ff9-025f-473a-a7e9-06e14101a8bd",
+      "title": "Jr. ETL Developer",
+      "company": "Sonoma Consulting Inc",
+      "companyDomain": "sonomaconsulting.net",
+      "location": "Plano, TX, United States",
+      "remoteType": null,
+      "salaryMin": 70000,
+      "salaryMax": 95000,
+      "aiRoleKind": null,
+      "postedAt": "2017-05-01T21:41:05.000Z",
+      "firstIndexedAt": "2026-05-22T01:29:30.433Z",
+      "url": "https://www.dreamworkhq.com/job/474c9ff9-025f-473a-a7e9-06e14101a8bd?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "7effa967-3e14-4ebe-b886-1c78a50cd821",
@@ -11359,20 +11331,6 @@
       "url": "https://www.dreamworkhq.com/job/c814532a-d878-4844-ad57-852c0249d3b8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "8a6d4a1a-8d08-436b-9081-26ecf966c5d5",
-      "title": "Software Engineer, Safety",
-      "company": "Twitch",
-      "companyDomain": "twitch.tv",
-      "location": "San Francisco, CA",
-      "remoteType": null,
-      "salaryMin": 127100,
-      "salaryMax": 185000,
-      "aiRoleKind": null,
-      "postedAt": "2026-04-15T22:18:47.000Z",
-      "firstIndexedAt": "2026-05-07T20:01:19.931Z",
-      "url": "https://www.dreamworkhq.com/job/8a6d4a1a-8d08-436b-9081-26ecf966c5d5?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "55d1dcf1-70f6-491b-b00b-84dd618c182d",
       "title": "Software Engineer I, Commerce Engineering",
       "company": "Twitch",
@@ -11385,6 +11343,20 @@
       "postedAt": "2026-03-25T20:08:02.000Z",
       "firstIndexedAt": "2026-05-07T20:01:19.931Z",
       "url": "https://www.dreamworkhq.com/job/55d1dcf1-70f6-491b-b00b-84dd618c182d?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "19c5733f-3409-4a6f-837f-f733e11b2f2a",
+      "title": "Software Engineer I, Commerce Engineering",
+      "company": "Twitch",
+      "companyDomain": "twitch.tv",
+      "location": "San Francisco, CA",
+      "remoteType": "hybrid",
+      "salaryMin": 110500,
+      "salaryMax": 160000,
+      "aiRoleKind": null,
+      "postedAt": "2026-03-25T20:08:01.000Z",
+      "firstIndexedAt": "2026-05-07T20:01:19.931Z",
+      "url": "https://www.dreamworkhq.com/job/19c5733f-3409-4a6f-837f-f733e11b2f2a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "aced73b1-2517-4425-a4b1-0adfbfdb9516",
@@ -11401,18 +11373,18 @@
       "url": "https://www.dreamworkhq.com/job/aced73b1-2517-4425-a4b1-0adfbfdb9516?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "19c5733f-3409-4a6f-837f-f733e11b2f2a",
-      "title": "Software Engineer I, Commerce Engineering",
+      "id": "8a6d4a1a-8d08-436b-9081-26ecf966c5d5",
+      "title": "Software Engineer, Safety",
       "company": "Twitch",
       "companyDomain": "twitch.tv",
       "location": "San Francisco, CA",
-      "remoteType": "hybrid",
-      "salaryMin": 110500,
-      "salaryMax": 160000,
+      "remoteType": null,
+      "salaryMin": 127100,
+      "salaryMax": 185000,
       "aiRoleKind": null,
-      "postedAt": "2026-03-25T20:08:01.000Z",
+      "postedAt": "2026-04-15T22:18:47.000Z",
       "firstIndexedAt": "2026-05-07T20:01:19.931Z",
-      "url": "https://www.dreamworkhq.com/job/19c5733f-3409-4a6f-837f-f733e11b2f2a?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/8a6d4a1a-8d08-436b-9081-26ecf966c5d5?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "01f50856-f6db-45cf-8f5d-5d9445857175",
@@ -11485,20 +11457,6 @@
       "url": "https://www.dreamworkhq.com/job/05309d8f-4963-4090-97b2-f49ca24b8fb7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "35270bc7-4543-4a05-a671-7675ce531e13",
-      "title": "New Graduate Engineer, Software (Starlink)",
-      "company": "SpaceX",
-      "companyDomain": "spacex.com",
-      "location": "Sunnyvale, CA",
-      "remoteType": "onsite",
-      "salaryMin": 135000,
-      "salaryMax": 155000,
-      "aiRoleKind": null,
-      "postedAt": "2026-03-06T20:35:11.000Z",
-      "firstIndexedAt": "2026-05-07T19:21:56.382Z",
-      "url": "https://www.dreamworkhq.com/job/35270bc7-4543-4a05-a671-7675ce531e13?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "2f265bf6-0816-40a9-9c79-9c45de1b3887",
       "title": "New Graduate Engineer, Software (Starlink)",
       "company": "SpaceX",
@@ -11513,18 +11471,18 @@
       "url": "https://www.dreamworkhq.com/job/2f265bf6-0816-40a9-9c79-9c45de1b3887?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "f36eca80-8f7b-4b0e-9b56-750dab224d59",
-      "title": "New Graduate Engineer, Software (Starlink) ",
+      "id": "35270bc7-4543-4a05-a671-7675ce531e13",
+      "title": "New Graduate Engineer, Software (Starlink)",
       "company": "SpaceX",
       "companyDomain": "spacex.com",
-      "location": "Bastrop, TX",
+      "location": "Sunnyvale, CA",
       "remoteType": "onsite",
-      "salaryMin": 140000,
-      "salaryMax": 180000,
+      "salaryMin": 135000,
+      "salaryMax": 155000,
       "aiRoleKind": null,
-      "postedAt": "2026-02-27T18:35:26.000Z",
+      "postedAt": "2026-03-06T20:35:11.000Z",
       "firstIndexedAt": "2026-05-07T19:21:56.382Z",
-      "url": "https://www.dreamworkhq.com/job/f36eca80-8f7b-4b0e-9b56-750dab224d59?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/35270bc7-4543-4a05-a671-7675ce531e13?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "b573cba8-8803-48aa-bee0-516fa3271528",
@@ -11539,6 +11497,20 @@
       "postedAt": "2026-04-03T14:07:16.000Z",
       "firstIndexedAt": "2026-05-07T19:21:56.382Z",
       "url": "https://www.dreamworkhq.com/job/b573cba8-8803-48aa-bee0-516fa3271528?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "f36eca80-8f7b-4b0e-9b56-750dab224d59",
+      "title": "New Graduate Engineer, Software (Starlink) ",
+      "company": "SpaceX",
+      "companyDomain": "spacex.com",
+      "location": "Bastrop, TX",
+      "remoteType": "onsite",
+      "salaryMin": 140000,
+      "salaryMax": 180000,
+      "aiRoleKind": null,
+      "postedAt": "2026-02-27T18:35:26.000Z",
+      "firstIndexedAt": "2026-05-07T19:21:56.382Z",
+      "url": "https://www.dreamworkhq.com/job/f36eca80-8f7b-4b0e-9b56-750dab224d59?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "df8275c3-9c6b-4f43-a3da-2e7effa834d3",
@@ -11569,34 +11541,6 @@
       "url": "https://www.dreamworkhq.com/job/62779ac7-2986-4ae5-a0fb-bc739d9099dd?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "71d11347-46a1-460e-b6de-2cd33b1f9094",
-      "title": "Avionics Test Engineer (Starship)",
-      "company": "SpaceX",
-      "companyDomain": "spacex.com",
-      "location": "Hawthorne, CA",
-      "remoteType": "onsite",
-      "salaryMin": 105000,
-      "salaryMax": 145000,
-      "aiRoleKind": null,
-      "postedAt": "2025-12-29T18:36:29.000Z",
-      "firstIndexedAt": "2026-05-07T19:20:21.707Z",
-      "url": "https://www.dreamworkhq.com/job/71d11347-46a1-460e-b6de-2cd33b1f9094?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "64e1d310-9815-49de-a52d-479296d79fcc",
-      "title": "Avionics Systems Engineer (Starship) ",
-      "company": "SpaceX",
-      "companyDomain": "spacex.com",
-      "location": "Hawthorne, CA",
-      "remoteType": "onsite",
-      "salaryMin": 100000,
-      "salaryMax": 135000,
-      "aiRoleKind": null,
-      "postedAt": "2026-01-21T18:22:53.000Z",
-      "firstIndexedAt": "2026-05-07T19:20:21.707Z",
-      "url": "https://www.dreamworkhq.com/job/64e1d310-9815-49de-a52d-479296d79fcc?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "d9f16dae-ffc8-411e-b474-7144ca3cf8f6",
       "title": "Avionics Integration & Test Engineer (Starshield)",
       "company": "SpaceX",
@@ -11609,6 +11553,20 @@
       "postedAt": "2026-01-05T20:45:42.000Z",
       "firstIndexedAt": "2026-05-07T19:20:21.707Z",
       "url": "https://www.dreamworkhq.com/job/d9f16dae-ffc8-411e-b474-7144ca3cf8f6?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "71d11347-46a1-460e-b6de-2cd33b1f9094",
+      "title": "Avionics Test Engineer (Starship)",
+      "company": "SpaceX",
+      "companyDomain": "spacex.com",
+      "location": "Hawthorne, CA",
+      "remoteType": "onsite",
+      "salaryMin": 105000,
+      "salaryMax": 145000,
+      "aiRoleKind": null,
+      "postedAt": "2025-12-29T18:36:29.000Z",
+      "firstIndexedAt": "2026-05-07T19:20:21.707Z",
+      "url": "https://www.dreamworkhq.com/job/71d11347-46a1-460e-b6de-2cd33b1f9094?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "0f927d6b-4ff0-4bae-af44-a193ef08b14d",
@@ -20641,6 +20599,20 @@
       "url": "https://www.dreamworkhq.com/job/dc203c90-b89f-4d17-bc6b-473f1653464f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "0593c0f5-71d2-441f-b1c6-e5bc2715db42",
+      "title": "Jr. Software Engineer Bildverarbeitung / Vision (m/w/d)",
+      "company": "Tesla",
+      "companyDomain": "tesla.com",
+      "location": "Reutlingen, Baden-württemberg",
+      "remoteType": null,
+      "salaryMin": 65000,
+      "salaryMax": 85000,
+      "aiRoleKind": null,
+      "postedAt": null,
+      "firstIndexedAt": "2026-06-06T06:00:47.180Z",
+      "url": "https://www.dreamworkhq.com/job/0593c0f5-71d2-441f-b1c6-e5bc2715db42?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "47e7664d-0b19-4bc7-9b84-c439341bbeb5",
       "title": "Jr. Software Engineer Bildverarbeitung / Vision (m/w/d)",
       "company": "Tesla",
@@ -20667,20 +20639,6 @@
       "postedAt": null,
       "firstIndexedAt": "2026-06-06T06:00:47.180Z",
       "url": "https://www.dreamworkhq.com/job/c0f2957e-9635-46d4-8301-8677d8d3fbe8?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "0593c0f5-71d2-441f-b1c6-e5bc2715db42",
-      "title": "Jr. Software Engineer Bildverarbeitung / Vision (m/w/d)",
-      "company": "Tesla",
-      "companyDomain": "tesla.com",
-      "location": "Reutlingen, Baden-württemberg",
-      "remoteType": null,
-      "salaryMin": 65000,
-      "salaryMax": 85000,
-      "aiRoleKind": null,
-      "postedAt": null,
-      "firstIndexedAt": "2026-06-06T06:00:47.180Z",
-      "url": "https://www.dreamworkhq.com/job/0593c0f5-71d2-441f-b1c6-e5bc2715db42?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "6b1280ea-5f3c-4886-85b5-9cf7a50185fa",
@@ -20893,20 +20851,6 @@
       "url": "https://www.dreamworkhq.com/job/b5d8e650-07ca-482b-849f-842e3fa37301?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "2ba95b5c-1c61-489e-a061-98bee96812a3",
-      "title": "Junior QA Automation Engineer",
-      "company": "Investorflow",
-      "companyDomain": "investorflow.com",
-      "location": "Hybrid- Santo Domingo",
-      "remoteType": "hybrid",
-      "salaryMin": 35000,
-      "salaryMax": 55000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-03T20:24:38.577Z",
-      "firstIndexedAt": "2026-06-04T06:16:17.712Z",
-      "url": "https://www.dreamworkhq.com/job/2ba95b5c-1c61-489e-a061-98bee96812a3?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "49fa5ca3-cd5a-416c-b7bb-295257f5f796",
       "title": "Junior QA Automation Engineer",
       "company": "Investorflow",
@@ -20919,6 +20863,20 @@
       "postedAt": "2026-06-03T20:28:36.158Z",
       "firstIndexedAt": "2026-06-04T06:16:17.712Z",
       "url": "https://www.dreamworkhq.com/job/49fa5ca3-cd5a-416c-b7bb-295257f5f796?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "2ba95b5c-1c61-489e-a061-98bee96812a3",
+      "title": "Junior QA Automation Engineer",
+      "company": "Investorflow",
+      "companyDomain": "investorflow.com",
+      "location": "Hybrid- Santo Domingo",
+      "remoteType": "hybrid",
+      "salaryMin": 35000,
+      "salaryMax": 55000,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-03T20:24:38.577Z",
+      "firstIndexedAt": "2026-06-04T06:16:17.712Z",
+      "url": "https://www.dreamworkhq.com/job/2ba95b5c-1c61-489e-a061-98bee96812a3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "8ad463fb-0c60-46c9-9bbf-e32a900886b0",
@@ -20977,18 +20935,32 @@
       "url": "https://www.dreamworkhq.com/job/094e9e5c-50d5-41ec-8961-09798e006d33?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "445ad5a6-8213-4d45-9a7f-5f69d00582a8",
+      "id": "f1d03c05-3070-4037-b73a-afc1004b0f08",
       "title": "Data QA Associate",
       "company": "Yipitdatajobs",
       "companyDomain": "yipitdata.com",
       "location": "India Remote",
       "remoteType": "remote",
-      "salaryMin": 7500,
-      "salaryMax": 12500,
+      "salaryMin": 15000,
+      "salaryMax": 25000,
       "aiRoleKind": null,
-      "postedAt": "2025-07-01T11:17:48.000Z",
+      "postedAt": "2025-07-01T11:16:58.000Z",
       "firstIndexedAt": "2026-06-04T06:06:37.051Z",
-      "url": "https://www.dreamworkhq.com/job/445ad5a6-8213-4d45-9a7f-5f69d00582a8?utm_source=github&utm_campaign=gh-new-grad-swe"
+      "url": "https://www.dreamworkhq.com/job/f1d03c05-3070-4037-b73a-afc1004b0f08?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "84491510-2704-40f0-ac39-2d30e3d776f1",
+      "title": "Data QA Specialist",
+      "company": "Yipitdatajobs",
+      "companyDomain": "yipitdata.com",
+      "location": "India Remote",
+      "remoteType": "remote",
+      "salaryMin": 15000,
+      "salaryMax": 25000,
+      "aiRoleKind": null,
+      "postedAt": "2025-07-01T11:16:30.000Z",
+      "firstIndexedAt": "2026-06-04T06:06:37.051Z",
+      "url": "https://www.dreamworkhq.com/job/84491510-2704-40f0-ac39-2d30e3d776f1?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "d6895c10-e49a-4ec6-ae72-9b0c50ebbbe6",
@@ -21003,6 +20975,34 @@
       "postedAt": "2025-06-30T06:27:17.000Z",
       "firstIndexedAt": "2026-06-04T06:06:37.051Z",
       "url": "https://www.dreamworkhq.com/job/d6895c10-e49a-4ec6-ae72-9b0c50ebbbe6?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "8111d51a-6692-405b-9527-8e409e6de18a",
+      "title": "Test Engineer Assistant",
+      "company": "Micron",
+      "companyDomain": "micron.com",
+      "location": "Taichung - AATT, Taiwan",
+      "remoteType": null,
+      "salaryMin": 30000,
+      "salaryMax": 45000,
+      "aiRoleKind": null,
+      "postedAt": "2026-06-04T06:13:18.506Z",
+      "firstIndexedAt": "2026-06-04T06:05:19.866Z",
+      "url": "https://www.dreamworkhq.com/job/8111d51a-6692-405b-9527-8e409e6de18a?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "9c485c60-8985-4652-b008-0332b5f87700",
+      "title": "Software Engineer I",
+      "company": "RELX",
+      "companyDomain": "relx.com",
+      "location": "Manila",
+      "remoteType": null,
+      "salaryMin": 15000,
+      "salaryMax": 25000,
+      "aiRoleKind": null,
+      "postedAt": "2026-06-05T00:33:01.718Z",
+      "firstIndexedAt": "2026-06-04T06:01:43.449Z",
+      "url": "https://www.dreamworkhq.com/job/9c485c60-8985-4652-b008-0332b5f87700?utm_source=github&utm_campaign=gh-new-grad-swe"
     }
   ]
 }
