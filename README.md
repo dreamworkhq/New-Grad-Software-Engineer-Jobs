@@ -50,7 +50,7 @@ Hiring outside the US? **204** international roles are listed separately in [INT
 
 ### Data Science (181)
 
-| Company | Role | Location | Salary | Age |
+| Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Pciservices](https://www.dreamworkhq.com/c/pciservices.us?utm_source=github&utm_campaign=gh-new-grad-swe)** | [Data Analyst](https://www.dreamworkhq.com/job/f3040a4a-dc45-4cf5-9114-d41d65b3f7a7?utm_source=github&utm_campaign=gh-new-grad-swe) | Philadelphia, PA, USA |  | 0d |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-new-grad-swe)** | [Product Data Scientist, Payments Platform Experience](https://www.dreamworkhq.com/job/b38cdec7-a0c1-4d8f-9235-85285f8d93ac?utm_source=github&utm_campaign=gh-new-grad-swe) | Mountain View, CA, USA | $138K–$198K | 0d |
@@ -236,7 +236,7 @@ Hiring outside the US? **204** international roles are listed separately in [INT
 
 ### Engineering (166)
 
-| Company | Role | Location | Salary | Age |
+| Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Sandvik](https://www.dreamworkhq.com/c/sandvik.coromant.com?utm_source=github&utm_campaign=gh-new-grad-swe)** | [Systems Engineer](https://www.dreamworkhq.com/job/3dee484b-3830-4973-88ed-ff436378a4c1?utm_source=github&utm_campaign=gh-new-grad-swe) | USA, CA, Camarillo | $111K–$130K | 0d |
 | **[Sandvik](https://www.dreamworkhq.com/c/sandvik.coromant.com?utm_source=github&utm_campaign=gh-new-grad-swe)** | [Systems Engineer](https://www.dreamworkhq.com/job/5a2bb79d-a18e-41d9-97d7-f6802699234a?utm_source=github&utm_campaign=gh-new-grad-swe) | USA, FL, Alachua |  | 0d |
@@ -407,7 +407,7 @@ Hiring outside the US? **204** international roles are listed separately in [INT
 
 ### Security (118)
 
-| Company | Role | Location | Salary | Age |
+| Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Salesforce](https://www.dreamworkhq.com/c/salesforce.com?utm_source=github&utm_campaign=gh-new-grad-swe)** | [Software Security Engineer (Distributed Systems) MTS](https://www.dreamworkhq.com/job/78024558-a2c7-4417-b2aa-85813d534153?utm_source=github&utm_campaign=gh-new-grad-swe) | California - San Francisco | $117K–$246K | 0d |
 | **[Magnetforensics](https://www.dreamworkhq.com/c/magnetforensics.com?utm_source=github&utm_campaign=gh-new-grad-swe)** | [Security Analyst - Contract Position](https://www.dreamworkhq.com/job/33b27660-aa27-4edb-bed9-8bc59380d2c0?utm_source=github&utm_campaign=gh-new-grad-swe) | Remote (United States) |  | 0d |
