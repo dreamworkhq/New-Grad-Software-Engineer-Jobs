@@ -26,24 +26,24 @@
   "keywords": "entry-level software engineering, data, and security roles in the United States",
   "sources": [
     {
-      "seniority": "JUNIOR",
+      "seniority": "Junior",
       "function": "Engineering",
       "country": "US"
     },
     {
-      "seniority": "JUNIOR",
+      "seniority": "Junior",
       "function": "Data Science",
       "country": "US"
     },
     {
-      "seniority": "JUNIOR",
+      "seniority": "Junior",
       "function": "Security",
       "country": "US"
     }
   ],
   "usOnly": true,
   "titleInclude": "software|developer|\\bswe\\b|front[- ]?end|back[- ]?end|full[- ]?stack|mobile|\\bios\\b|android|platform|infrastructure|devops|site reliability|\\bsre\\b|data engineer|data scientist|data analyst|machine learning|ml engineer|ai engineer|security engineer|security analyst|cloud|\\bqa\\b|test engineer|embedded|firmware|systems engineer|solutions engineer|web develop",
-  "titleExclude": "senior|staff|principal|\\blead\\b|manager|director|\\bvp\\b|head of|intern\\b|internship|co-?op\\b|ph\\.?d",
+  "titleExclude": "senior|\\bsr\\.?\\b|staff|principal|\\blead\\b|manager|director|vice president|\\b(?:a|s)?vp\\b|head of|president\\b|intern\\b|internship|co-?op\\b|ph\\.?d",
   "maxRows": 300,
   "minRows": 25,
   "maxPagesPerSource": 220,
