@@ -29,7 +29,29 @@
       "seniority": "Junior",
       "function": "Engineering",
       "country": "US",
-      "search": "software"
+      "search": "software",
+      "remoteTypeExact": "onsite"
+    },
+    {
+      "seniority": "Junior",
+      "function": "Engineering",
+      "country": "US",
+      "search": "software",
+      "remoteTypeExact": "hybrid"
+    },
+    {
+      "seniority": "Junior",
+      "function": "Engineering",
+      "country": "US",
+      "search": "software",
+      "remoteTypeExact": "remote"
+    },
+    {
+      "seniority": "Junior",
+      "function": "Engineering",
+      "country": "US",
+      "search": "software",
+      "remoteTypeExact": "unspecified"
     },
     {
       "seniority": "Junior",
