@@ -1,10 +1,205 @@
 {
-  "generatedAt": "2026-11-09T04:09:43.818Z",
+  "generatedAt": "2026-11-09T21:21:38.246Z",
   "source": "https://www.dreamworkhq.com",
   "list": "New-Grad-Software-Engineer-Jobs",
-  "count": 2807,
+  "count": 2789,
   "partial": true,
   "listings": [
+    {
+      "id": "2b6ba3ed-0450-4c76-ad97-680efa65336f",
+      "title": "Application Security Engineer",
+      "company": "Rubrik",
+      "companyDomain": "rubrik.com",
+      "location": "Palo Alto, CA",
+      "remoteType": null,
+      "salaryMin": 124200,
+      "salaryMax": 186200,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T17:34:04.000Z",
+      "firstIndexedAt": "2026-11-09T20:15:41.133Z",
+      "url": "https://www.dreamworkhq.com/job/2b6ba3ed-0450-4c76-ad97-680efa65336f?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "02daaa93-561f-45c9-8377-e07bbc425b81",
+      "title": "iOS Engineer – Flagship Mobile App",
+      "company": "Target",
+      "companyDomain": "target.com",
+      "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+      "remoteType": "hybrid",
+      "salaryMin": 75400,
+      "salaryMax": 135700,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T20:18:48.319Z",
+      "firstIndexedAt": "2026-11-09T19:09:19.088Z",
+      "url": "https://www.dreamworkhq.com/job/02daaa93-561f-45c9-8377-e07bbc425b81?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "02efb796-9e50-473a-a995-dc9ef9ee5b3e",
+      "title": "Software Engineer 1, Full-Stack",
+      "company": "Cook Group",
+      "companyDomain": "cookgroup.com",
+      "location": "Bloomington, Indiana, United States",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-11-08T09:02:05.000Z",
+      "firstIndexedAt": "2026-11-09T17:58:32.908Z",
+      "url": "https://www.dreamworkhq.com/job/02efb796-9e50-473a-a995-dc9ef9ee5b3e?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "480c8593-cc19-4050-92e3-f306cee3c508",
+      "title": "Junior Full Stack Engineer",
+      "company": "Sahajanand",
+      "companyDomain": null,
+      "location": "2713 Easton Rd ste 2a, Willow Grove, PA 19090, USA",
+      "remoteType": "hybrid",
+      "salaryMin": 65000,
+      "salaryMax": 65000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-08T15:59:18.000Z",
+      "firstIndexedAt": "2026-11-09T17:57:36.463Z",
+      "url": "https://www.dreamworkhq.com/job/480c8593-cc19-4050-92e3-f306cee3c508?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "8fdf4fc3-1665-4e58-a858-ad7dda5cd17b",
+      "title": "Amazon Dedicated Cloud Engineer, US ADC Security",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "Herndon, Virginia, USA",
+      "remoteType": "onsite",
+      "salaryMin": 91000,
+      "salaryMax": 152000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-08T11:11:59.000Z",
+      "firstIndexedAt": "2026-11-09T17:53:35.103Z",
+      "url": "https://www.dreamworkhq.com/job/8fdf4fc3-1665-4e58-a858-ad7dda5cd17b?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "ee1137ca-fc41-4ad3-b35b-76a94de2ba0e",
+      "title": "Software Development Engineer, Audible AI Voice Production",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "US, MA, Cambridge",
+      "remoteType": "onsite",
+      "salaryMin": 110500,
+      "salaryMax": 160000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "firstIndexedAt": "2026-11-09T17:48:15.769Z",
+      "url": "https://www.dreamworkhq.com/job/ee1137ca-fc41-4ad3-b35b-76a94de2ba0e?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "8f2c83c3-3e9c-4b97-b222-abd0f1ee6c1b",
+      "title": "Full Stack Engineer",
+      "company": "Scopely",
+      "companyDomain": "scopely.com",
+      "location": "US - United States",
+      "remoteType": "remote",
+      "salaryMin": 136990,
+      "salaryMax": 150689,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T16:09:44.000Z",
+      "firstIndexedAt": "2026-11-09T17:46:34.933Z",
+      "url": "https://www.dreamworkhq.com/job/8f2c83c3-3e9c-4b97-b222-abd0f1ee6c1b?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "65ace4b3-06c2-49cf-b234-4277d764b1a1",
+      "title": "Bridge Designer / CAD Detailer - Transportation Infrastructure",
+      "company": "Parsons Corporation",
+      "companyDomain": "parsons.com",
+      "location": "US - OH, Cincinnati",
+      "remoteType": "onsite",
+      "salaryMin": 47694,
+      "salaryMax": 83491,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T20:47:44.883Z",
+      "firstIndexedAt": "2026-11-09T17:18:53.284Z",
+      "url": "https://www.dreamworkhq.com/job/65ace4b3-06c2-49cf-b234-4277d764b1a1?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "74de0f98-9ef5-4ac0-bf2e-a6e130574930",
+      "title": "Android Engineer - Flagship Mobile App",
+      "company": "Target",
+      "companyDomain": "target.com",
+      "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+      "remoteType": "hybrid",
+      "salaryMin": 75400,
+      "salaryMax": 135700,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T20:18:49.104Z",
+      "firstIndexedAt": "2026-11-09T16:35:51.436Z",
+      "url": "https://www.dreamworkhq.com/job/74de0f98-9ef5-4ac0-bf2e-a6e130574930?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "9a8c2984-5aaf-427d-8b81-0d9ddee747e7",
+      "title": "Software Engineer - GTM Engineering",
+      "company": "Engine",
+      "companyDomain": "engine.com",
+      "location": "Remote - US",
+      "remoteType": "remote",
+      "salaryMin": 106250,
+      "salaryMax": 125000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-11-06T23:28:00.000Z",
+      "firstIndexedAt": "2026-11-09T14:03:29.956Z",
+      "url": "https://www.dreamworkhq.com/job/9a8c2984-5aaf-427d-8b81-0d9ddee747e7?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "79625025-09b4-4e4c-8f2a-4c6f989c44cf",
+      "title": "Associate Software Configuration Analyst/Software Configuration Analyst",
+      "company": "Northrop Grumman",
+      "companyDomain": "northropgrumman.com",
+      "location": "United States-Florida-Melbourne",
+      "remoteType": "hybrid",
+      "salaryMin": 59900,
+      "salaryMax": 108100,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T12:48:21.823Z",
+      "firstIndexedAt": "2026-11-09T11:32:53.080Z",
+      "url": "https://www.dreamworkhq.com/job/79625025-09b4-4e4c-8f2a-4c6f989c44cf?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "9f36d76f-dc16-4c1e-8ceb-1f4957242945",
+      "title": "Optical Test Engineer, AI Satellites (Starmind)",
+      "company": "SpaceX",
+      "companyDomain": "spacex.com",
+      "location": "Bastrop, TX",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T02:50:40.000Z",
+      "firstIndexedAt": "2026-11-09T05:03:05.214Z",
+      "url": "https://www.dreamworkhq.com/job/9f36d76f-dc16-4c1e-8ceb-1f4957242945?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "a2c5a4c0-3ecf-49d2-a130-e7980e11b34c",
+      "title": "Full Stack Software Engineer, Internal Platforms",
+      "company": "SpaceX",
+      "companyDomain": "spacex.com",
+      "location": "Hawthorne, CA",
+      "remoteType": "hybrid",
+      "salaryMin": 125000,
+      "salaryMax": 195000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T01:15:11.000Z",
+      "firstIndexedAt": "2026-11-09T05:02:05.976Z",
+      "url": "https://www.dreamworkhq.com/job/a2c5a4c0-3ecf-49d2-a130-e7980e11b34c?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
     {
       "id": "03381446-b1bb-4dbd-8e35-ac84ee305c20",
       "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140",
@@ -106,7 +301,7 @@
       "salaryMax": 74200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T13:00:50.524Z",
+      "postedAt": "2026-11-06T10:15:20.619Z",
       "firstIndexedAt": "2026-11-08T13:00:51.225Z",
       "url": "https://www.dreamworkhq.com/job/6bcbc39f-e857-4525-8f22-75c93ab48727?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -451,7 +646,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T07:46:45.854Z",
+      "postedAt": "2026-11-06T08:01:50.579Z",
       "firstIndexedAt": "2026-11-07T04:46:15.373Z",
       "url": "https://www.dreamworkhq.com/job/7de7e58c-125f-4642-b0b2-1dfff3f595b7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -1951,7 +2146,7 @@
       "salaryMax": 156000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T18:15:32.089Z",
+      "postedAt": "2026-11-05T11:45:39.382Z",
       "firstIndexedAt": "2026-11-07T02:07:45.006Z",
       "url": "https://www.dreamworkhq.com/job/7c4caa32-8f9f-4e59-aae5-c13b8650a933?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -1966,7 +2161,7 @@
       "salaryMax": 157450,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T03:02:42.017Z",
+      "postedAt": "2026-11-06T20:33:20.857Z",
       "firstIndexedAt": "2026-11-06T23:58:49.425Z",
       "url": "https://www.dreamworkhq.com/job/3643bd17-1b5f-4204-a47a-09f89caf0533?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -1981,7 +2176,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T03:02:33.642Z",
+      "postedAt": "2026-11-06T20:33:05.983Z",
       "firstIndexedAt": "2026-11-06T23:58:45.313Z",
       "url": "https://www.dreamworkhq.com/job/a8f88b38-e34c-4206-b3e6-da072fd55eae?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -2041,7 +2236,7 @@
       "salaryMax": 181940,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T03:46:25.283Z",
+      "postedAt": "2026-11-06T20:05:02.151Z",
       "firstIndexedAt": "2026-11-06T22:56:39.319Z",
       "url": "https://www.dreamworkhq.com/job/8d4eb43a-d5a9-4ac2-9c10-864808e865cf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -2056,7 +2251,7 @@
       "salaryMax": 127500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T04:01:40.278Z",
+      "postedAt": "2026-11-06T20:32:30.940Z",
       "firstIndexedAt": "2026-11-06T22:54:57.567Z",
       "url": "https://www.dreamworkhq.com/job/a7474366-817e-4239-8054-210fcb41e94a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -2086,7 +2281,7 @@
       "salaryMax": 116000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T21:33:09.708Z",
+      "postedAt": "2026-11-06T09:47:49.821Z",
       "firstIndexedAt": "2026-11-06T22:34:14.557Z",
       "url": "https://www.dreamworkhq.com/job/5b5445b4-f80a-445f-8399-4a84e6ce2687?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -2131,7 +2326,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T16:50:01.880Z",
+      "postedAt": "2026-11-06T12:34:30.430Z",
       "firstIndexedAt": "2026-11-06T21:51:11.681Z",
       "url": "https://www.dreamworkhq.com/job/62b17897-9e72-4bee-923e-2cbca9e267c1?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -2146,7 +2341,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T16:50:04.363Z",
+      "postedAt": "2026-11-06T12:34:32.815Z",
       "firstIndexedAt": "2026-11-06T21:51:11.681Z",
       "url": "https://www.dreamworkhq.com/job/a9b6634c-b6f8-4d70-9acd-9194a3386f01?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -2161,7 +2356,7 @@
       "salaryMax": 125200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T23:18:31.483Z",
+      "postedAt": "2026-11-06T12:48:22.896Z",
       "firstIndexedAt": "2026-11-06T20:47:49.041Z",
       "url": "https://www.dreamworkhq.com/job/86eafbb0-cb68-4665-8bc4-3c40786326b2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -2686,24 +2881,9 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T16:50:12.150Z",
+      "postedAt": "2026-11-05T12:34:39.510Z",
       "firstIndexedAt": "2026-11-06T04:21:04.020Z",
       "url": "https://www.dreamworkhq.com/job/266bc003-b19d-4730-a9ad-85588d1673fa?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "7c5f4b3f-2e40-471c-af80-0653fc442f17",
-      "title": "Ignition Software Developer II",
-      "company": "RTX (Raytheon)",
-      "companyDomain": "rtx.com",
-      "location": "US-MA-ANDOVER-AN3 ~ 354 Lowell St ~ AN3 SUFFOLK BLDG",
-      "remoteType": "hybrid",
-      "salaryMin": 75800,
-      "salaryMax": 144200,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T16:50:12.896Z",
-      "firstIndexedAt": "2026-11-06T04:21:04.020Z",
-      "url": "https://www.dreamworkhq.com/job/7c5f4b3f-2e40-471c-af80-0653fc442f17?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "8f599ffd-485b-4572-9ce9-df233133e79b",
@@ -2716,7 +2896,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T16:50:11.821Z",
+      "postedAt": "2026-11-05T12:34:39.262Z",
       "firstIndexedAt": "2026-11-06T04:21:04.020Z",
       "url": "https://www.dreamworkhq.com/job/8f599ffd-485b-4572-9ce9-df233133e79b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -2731,7 +2911,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T16:50:11.302Z",
+      "postedAt": "2026-11-05T12:34:38.758Z",
       "firstIndexedAt": "2026-11-06T04:20:58.362Z",
       "url": "https://www.dreamworkhq.com/job/af144c4f-7df8-485d-98d8-5c1c2344e1e3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -2746,7 +2926,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T16:50:09.831Z",
+      "postedAt": "2026-11-06T05:04:03.796Z",
       "firstIndexedAt": "2026-11-06T04:20:58.362Z",
       "url": "https://www.dreamworkhq.com/job/382e4797-e088-4c0d-9c3c-f6c09fb36d4a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -2761,7 +2941,7 @@
       "salaryMax": 118900,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T23:18:32.980Z",
+      "postedAt": "2026-11-05T12:48:24.547Z",
       "firstIndexedAt": "2026-11-06T02:48:50.073Z",
       "url": "https://www.dreamworkhq.com/job/46367d48-6714-4c5a-bbce-974468143984?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -4191,21 +4371,6 @@
       "url": "https://www.dreamworkhq.com/job/7d0e4444-1b7a-41a0-88f3-8a1afcf61737?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "47904c9a-6dd8-4d4a-8ad8-c44c767947ff",
-      "title": "Software Test Engineer I",
-      "company": "Medtronic",
-      "companyDomain": "medtronic.com",
-      "location": "2 Locations",
-      "remoteType": "onsite",
-      "salaryMin": 67200,
-      "salaryMax": 100800,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T17:01:54.073Z",
-      "firstIndexedAt": "2026-11-06T01:26:52.297Z",
-      "url": "https://www.dreamworkhq.com/job/47904c9a-6dd8-4d4a-8ad8-c44c767947ff?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "1806755c-eed0-4081-827f-9d3283cbdcd7",
       "title": "Software Engineer I",
       "company": "American Express",
@@ -4246,7 +4411,7 @@
       "salaryMax": 152600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T02:19:52.754Z",
+      "postedAt": "2026-11-05T15:48:34.094Z",
       "firstIndexedAt": "2026-11-05T23:59:08.686Z",
       "url": "https://www.dreamworkhq.com/job/b5b5603d-9265-4940-a39c-f98765623f11?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -4396,7 +4561,7 @@
       "salaryMax": 91650,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T03:02:45.602Z",
+      "postedAt": "2026-11-05T20:33:24.373Z",
       "firstIndexedAt": "2026-11-05T18:11:59.209Z",
       "url": "https://www.dreamworkhq.com/job/71d0206e-058d-4d4d-bcaf-8acd3cc04a95?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -4456,7 +4621,7 @@
       "salaryMax": 92000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T04:32:32.072Z",
+      "postedAt": "2026-11-05T21:19:35.638Z",
       "firstIndexedAt": "2026-11-05T16:56:42.052Z",
       "url": "https://www.dreamworkhq.com/job/6bc26bc4-71d1-405e-8600-028e38c6ce09?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -4681,7 +4846,7 @@
       "salaryMax": 142000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T14:30:52.815Z",
+      "postedAt": "2026-11-05T04:15:35.561Z",
       "firstIndexedAt": "2026-11-05T04:45:51.850Z",
       "url": "https://www.dreamworkhq.com/job/1f57ecba-6317-4fcc-83df-497722f8717b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -4711,7 +4876,7 @@
       "salaryMax": 107711,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T04:32:33.235Z",
+      "postedAt": "2026-11-04T21:19:36.674Z",
       "firstIndexedAt": "2026-11-05T02:48:09.402Z",
       "url": "https://www.dreamworkhq.com/job/68a5ec14-41cc-4dda-9c2f-18fc3b2bd347?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -4741,7 +4906,7 @@
       "salaryMax": 101834,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T20:57:48.321Z",
+      "postedAt": "2026-11-04T14:45:26.840Z",
       "firstIndexedAt": "2026-11-05T02:43:20.505Z",
       "url": "https://www.dreamworkhq.com/job/20aa7a14-3555-41a4-ad54-5ef3324c8ecb?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5071,7 +5236,7 @@
       "salaryMax": 113600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T02:19:54.316Z",
+      "postedAt": "2026-11-04T15:48:35.755Z",
       "firstIndexedAt": "2026-11-05T01:07:12.141Z",
       "url": "https://www.dreamworkhq.com/job/bd065b08-c0cf-4f78-9add-cb46ac8993aa?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5176,7 +5341,7 @@
       "salaryMax": 116000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T21:33:11.114Z",
+      "postedAt": "2026-11-04T09:47:51.361Z",
       "firstIndexedAt": "2026-11-04T22:44:01.466Z",
       "url": "https://www.dreamworkhq.com/job/3d2930c4-96e2-4cf3-a66d-34acb8bf082f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5266,7 +5431,7 @@
       "salaryMax": 102003,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T20:02:18.468Z",
+      "postedAt": "2026-11-04T10:02:18.182Z",
       "firstIndexedAt": "2026-11-04T21:16:44.410Z",
       "url": "https://www.dreamworkhq.com/job/8ab723fe-ee60-4301-9c9b-4eeb4129ca5c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5341,7 +5506,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T19:31:05.324Z",
+      "postedAt": "2026-11-04T18:00:41.481Z",
       "firstIndexedAt": "2026-11-04T18:21:09.076Z",
       "url": "https://www.dreamworkhq.com/job/1a349701-bc10-4ba3-9b28-da40cd312dc6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5446,7 +5611,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T16:50:19.927Z",
+      "postedAt": "2026-11-04T12:34:49.739Z",
       "firstIndexedAt": "2026-11-04T13:52:00.523Z",
       "url": "https://www.dreamworkhq.com/job/e5fae48a-8732-48ac-985e-82a7d6616a04?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5481,21 +5646,6 @@
       "url": "https://www.dreamworkhq.com/job/ddb74210-d4fb-4209-a81e-ca1fdfac86f1?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "35d050ce-b2dc-4c9f-b87b-97158f0b3327",
-      "title": "Samsung Repair Quality Data Analyst - Korean Bilingual Preferred",
-      "company": "2020companies",
-      "companyDomain": "2020companies.com",
-      "location": "Plano, TX",
-      "remoteType": "onsite",
-      "salaryMin": 60008,
-      "salaryMax": 60008,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T07:52:26.422Z",
-      "firstIndexedAt": "2026-11-04T12:58:47.985Z",
-      "url": "https://www.dreamworkhq.com/job/35d050ce-b2dc-4c9f-b87b-97158f0b3327?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "7610d1df-af77-4ac8-b63c-2b48a3877864",
       "title": "Healthcare Data Scientist (Medicare/Medicaid)",
       "company": "Gdit",
@@ -5506,7 +5656,7 @@
       "salaryMax": 109250,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-11-05T04:32:33.692Z",
+      "postedAt": "2026-11-05T07:46:51.781Z",
       "firstIndexedAt": "2026-11-04T12:47:24.641Z",
       "url": "https://www.dreamworkhq.com/job/7610d1df-af77-4ac8-b63c-2b48a3877864?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5536,7 +5686,7 @@
       "salaryMax": 131100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T16:50:19.928Z",
+      "postedAt": "2026-11-03T12:34:49.740Z",
       "firstIndexedAt": "2026-11-04T11:23:48.986Z",
       "url": "https://www.dreamworkhq.com/job/809bda82-17e1-4f5f-99f7-d622a3b9d4ea?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5581,7 +5731,7 @@
       "salaryMax": 210000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2024-11-07T12:45:31.730Z",
+      "postedAt": "2024-11-09T13:00:40.456Z",
       "firstIndexedAt": "2026-11-04T06:45:41.679Z",
       "url": "https://www.dreamworkhq.com/job/2a3dc6df-a005-42cb-aa2c-805c0325e5b7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5671,7 +5821,7 @@
       "salaryMax": 129000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-11-03T13:03:28.637Z",
+      "postedAt": "2026-11-03T15:01:21.409Z",
       "firstIndexedAt": "2026-11-04T04:41:00.771Z",
       "url": "https://www.dreamworkhq.com/job/9a954d96-f0c3-4f5e-a259-785fb3900283?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5806,7 +5956,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T18:34:13.951Z",
+      "postedAt": "2026-11-03T19:04:34.033Z",
       "firstIndexedAt": "2026-11-04T03:06:55.786Z",
       "url": "https://www.dreamworkhq.com/job/086597a9-b322-48aa-a4e1-6c0682c2ff5d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -5824,6 +5974,21 @@
       "postedAt": "2026-11-03T17:19:33.000Z",
       "firstIndexedAt": "2026-11-04T03:05:06.502Z",
       "url": "https://www.dreamworkhq.com/job/eb733653-4f98-47d8-89ba-d25ebde3f87c?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "4d4e3532-65ae-4e11-b753-383304235791",
+      "title": "Associate Device Software Engineer",
+      "company": "AbbVie",
+      "companyDomain": "abbvie.com",
+      "location": "Irvine, CA, USA",
+      "remoteType": null,
+      "salaryMin": 58656,
+      "salaryMax": 103500,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-03T09:57:31.000Z",
+      "firstIndexedAt": "2026-11-04T03:04:57.901Z",
+      "url": "https://www.dreamworkhq.com/job/4d4e3532-65ae-4e11-b753-383304235791?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "8c796ac1-c700-4e54-a527-76324c3a5e6b",
@@ -6591,21 +6756,6 @@
       "url": "https://www.dreamworkhq.com/job/c5b12135-5eab-4b33-89d3-35d3d76dd574?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "a19b3eda-3bb9-4e8c-a9b6-eca4311c265f",
-      "title": "Associate Device Software Engineer",
-      "company": "AbbVie",
-      "companyDomain": "abbvie.com",
-      "location": "Irvine, CA, United States",
-      "remoteType": "onsite",
-      "salaryMin": 58656,
-      "salaryMax": 103500,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T20:41:21.772Z",
-      "firstIndexedAt": "2026-11-03T19:31:06.316Z",
-      "url": "https://www.dreamworkhq.com/job/a19b3eda-3bb9-4e8c-a9b6-eca4311c265f?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "6612c16a-c2ee-4d07-abaa-38c0d69f18de",
       "title": "QA Engineer",
       "company": "Harriscomputer",
@@ -6661,7 +6811,7 @@
       "salaryMax": 98600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T08:31:11.567Z",
+      "postedAt": "2026-11-03T13:16:21.165Z",
       "firstIndexedAt": "2026-11-03T18:55:35.460Z",
       "url": "https://www.dreamworkhq.com/job/b8da7c2b-42de-432b-8162-da921a1c0767?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -6931,7 +7081,7 @@
       "salaryMax": 154700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T01:32:27.730Z",
+      "postedAt": "2026-11-04T20:47:50.647Z",
       "firstIndexedAt": "2026-11-03T14:29:16.340Z",
       "url": "https://www.dreamworkhq.com/job/0844bf7a-8a07-486f-a11e-4cdd765e2a82?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -6976,7 +7126,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T02:15:32.563Z",
+      "postedAt": "2026-11-01T19:16:07.614Z",
       "firstIndexedAt": "2026-11-03T13:14:51.962Z",
       "url": "https://www.dreamworkhq.com/job/94d1f075-73c9-46c1-891a-16104d78f92f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7066,7 +7216,7 @@
       "salaryMax": 131100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T16:50:19.928Z",
+      "postedAt": "2026-11-02T12:34:49.740Z",
       "firstIndexedAt": "2026-11-03T07:51:33.521Z",
       "url": "https://www.dreamworkhq.com/job/defb54ac-e626-4b71-b0f0-72704b2dcb25?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7156,7 +7306,7 @@
       "salaryMax": 102000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T14:33:51.187Z",
+      "postedAt": "2026-11-03T04:16:10.402Z",
       "firstIndexedAt": "2026-11-03T03:01:35.510Z",
       "url": "https://www.dreamworkhq.com/job/9d4b04cb-6753-4b17-babc-8110553fbd0d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7176,51 +7326,6 @@
       "url": "https://www.dreamworkhq.com/job/9e3b7662-e371-4b51-8bc1-a364390fbd21?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "6b53ffe4-6f63-4cef-9d06-d8e1f32a1adc",
-      "title": "Entry-Level Systems Engineer -Woburn, MA",
-      "company": "Davidson Technologies",
-      "companyDomain": "davidsontech.com",
-      "location": "Woburn, MA, USA",
-      "remoteType": "onsite",
-      "salaryMin": 86000,
-      "salaryMax": 110000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T15:59:41.000Z",
-      "firstIndexedAt": "2026-11-03T02:32:21.999Z",
-      "url": "https://www.dreamworkhq.com/job/6b53ffe4-6f63-4cef-9d06-d8e1f32a1adc?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "56e22186-165f-4d6d-aaf4-e41b3c5d2bac",
-      "title": "Junior Systems Engineer - Woburn, MA",
-      "company": "Davidson Technologies",
-      "companyDomain": "davidsontech.com",
-      "location": "Woburn, MA, USA",
-      "remoteType": null,
-      "salaryMin": 106000,
-      "salaryMax": 120000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T05:11:59.000Z",
-      "firstIndexedAt": "2026-11-03T02:31:23.262Z",
-      "url": "https://www.dreamworkhq.com/job/56e22186-165f-4d6d-aaf4-e41b3c5d2bac?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "0179d0ea-951a-4087-b3a2-124f42e75ac8",
-      "title": "Software Engineer",
-      "company": "Triangle Manufacturing",
-      "companyDomain": null,
-      "location": "Upper Saddle River, NJ",
-      "remoteType": "onsite",
-      "salaryMin": 80000,
-      "salaryMax": 80000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T05:44:14.000Z",
-      "firstIndexedAt": "2026-11-03T02:30:31.902Z",
-      "url": "https://www.dreamworkhq.com/job/0179d0ea-951a-4087-b3a2-124f42e75ac8?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "41e9f424-b143-4884-b651-1adb232fcd0d",
       "title": "Global Red Team AI Engineer, Analyst",
       "company": "Mufgub",
@@ -7231,7 +7336,7 @@
       "salaryMax": 100000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-11-02T14:31:03.478Z",
+      "postedAt": "2026-11-03T04:16:31.336Z",
       "firstIndexedAt": "2026-11-03T02:16:45.837Z",
       "url": "https://www.dreamworkhq.com/job/41e9f424-b143-4884-b651-1adb232fcd0d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7321,7 +7426,7 @@
       "salaryMax": 195200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T20:02:20.958Z",
+      "postedAt": "2026-11-02T10:02:18.182Z",
       "firstIndexedAt": "2026-11-02T23:21:08.654Z",
       "url": "https://www.dreamworkhq.com/job/54dd1039-66a2-4f09-95fd-2b4738037fb6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7411,7 +7516,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-01T16:50:19.928Z",
+      "postedAt": "2026-11-01T12:34:49.740Z",
       "firstIndexedAt": "2026-11-02T04:48:39.101Z",
       "url": "https://www.dreamworkhq.com/job/0574d235-452c-48a1-bbb3-58cd550b3ee9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7666,7 +7771,7 @@
       "salaryMax": 98468,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-10-31T09:01:38.919Z",
+      "postedAt": "2026-10-31T09:16:16.705Z",
       "firstIndexedAt": "2026-10-31T06:03:06.957Z",
       "url": "https://www.dreamworkhq.com/job/c2e7d43b-9c8a-4db8-b071-cc6780d51c5f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7726,7 +7831,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-31T03:02:53.706Z",
+      "postedAt": "2026-10-30T20:33:34.284Z",
       "firstIndexedAt": "2026-10-31T01:17:37.181Z",
       "url": "https://www.dreamworkhq.com/job/578448df-cb85-4566-8901-4de7a832c403?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7741,7 +7846,7 @@
       "salaryMax": 91650,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-31T03:02:52.711Z",
+      "postedAt": "2026-10-30T20:33:32.707Z",
       "firstIndexedAt": "2026-10-31T01:17:25.698Z",
       "url": "https://www.dreamworkhq.com/job/9b70a3c7-8994-4136-85e3-8a2d0651d2f0?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7816,7 +7921,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-30T16:50:19.928Z",
+      "postedAt": "2026-10-30T12:34:49.740Z",
       "firstIndexedAt": "2026-10-30T22:52:50.051Z",
       "url": "https://www.dreamworkhq.com/job/e598b7f1-60bb-4b4d-9f27-1335fd5c969b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7846,7 +7951,7 @@
       "salaryMax": 141950,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-31T03:46:32.648Z",
+      "postedAt": "2026-10-30T18:31:27.413Z",
       "firstIndexedAt": "2026-10-30T21:41:03.168Z",
       "url": "https://www.dreamworkhq.com/job/ef8f0951-3c63-48c3-aa89-605bc4eee01e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7876,7 +7981,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-30T19:46:33.941Z",
+      "postedAt": "2026-10-30T20:03:11.792Z",
       "firstIndexedAt": "2026-10-30T21:17:59.029Z",
       "url": "https://www.dreamworkhq.com/job/c75b1772-2279-4db6-bf89-06e1e4fdd1a8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -7996,7 +8101,7 @@
       "salaryMax": 190000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-30T23:32:50.204Z",
+      "postedAt": "2026-10-30T20:20:06.892Z",
       "firstIndexedAt": "2026-10-30T18:17:10.393Z",
       "url": "https://www.dreamworkhq.com/job/88b468f9-8a86-407f-8135-a1f88347df89?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8311,7 +8416,7 @@
       "salaryMax": 154000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T19:02:18.326Z",
+      "postedAt": "2026-11-03T13:00:47.366Z",
       "firstIndexedAt": "2026-10-30T00:15:18.577Z",
       "url": "https://www.dreamworkhq.com/job/9f4e51ba-6b8e-4998-999a-402e2365e31d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8326,7 +8431,7 @@
       "salaryMax": 118900,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T23:19:01.319Z",
+      "postedAt": "2026-10-29T12:48:36.490Z",
       "firstIndexedAt": "2026-10-30T00:05:45.843Z",
       "url": "https://www.dreamworkhq.com/job/25c03632-5c04-47a1-a074-25cc9eb86b0d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8361,21 +8466,6 @@
       "url": "https://www.dreamworkhq.com/job/c4c1c00c-c851-4fb7-be6c-ec29d0826fc5?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "0bdb626b-ca8f-46ec-8f5b-c65c8cdaca03",
-      "title": "Software QA Engineer II (Full Time) - United States",
-      "company": "Cisco",
-      "companyDomain": "cisco.com",
-      "location": "Richardson, Texas, US",
-      "remoteType": "onsite",
-      "salaryMin": 125700,
-      "salaryMax": 203100,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-30T02:20:04.157Z",
-      "firstIndexedAt": "2026-10-29T21:43:29.907Z",
-      "url": "https://www.dreamworkhq.com/job/0bdb626b-ca8f-46ec-8f5b-c65c8cdaca03?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "be0912c2-68cf-4b43-80e3-b38eb10c8b12",
       "title": "Software QA Engineer I (Full Time) - United States",
       "company": "Cisco",
@@ -8386,7 +8476,7 @@
       "salaryMax": 157400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-30T02:20:04.228Z",
+      "postedAt": "2026-10-29T15:48:46.706Z",
       "firstIndexedAt": "2026-10-29T21:43:29.907Z",
       "url": "https://www.dreamworkhq.com/job/be0912c2-68cf-4b43-80e3-b38eb10c8b12?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8446,7 +8536,7 @@
       "salaryMax": 173250,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-10-30T07:47:20.260Z",
+      "postedAt": "2026-10-29T20:31:09.512Z",
       "firstIndexedAt": "2026-10-29T21:21:20.768Z",
       "url": "https://www.dreamworkhq.com/job/397b8cc8-9e2b-4bee-a0ae-ee7d90d617e7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8461,7 +8551,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-30T03:02:54.434Z",
+      "postedAt": "2026-10-29T20:33:34.677Z",
       "firstIndexedAt": "2026-10-29T19:17:22.179Z",
       "url": "https://www.dreamworkhq.com/job/b5e2e4e5-6326-42c1-a9dd-c5118fe95af9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8476,7 +8566,7 @@
       "salaryMax": 104575,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-30T03:02:54.942Z",
+      "postedAt": "2026-10-29T20:33:35.129Z",
       "firstIndexedAt": "2026-10-29T19:17:22.179Z",
       "url": "https://www.dreamworkhq.com/job/53d1efb3-56bd-4f1b-b8b9-0f7f04337508?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8536,7 +8626,7 @@
       "salaryMax": 169640,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T17:16:47.379Z",
+      "postedAt": "2026-10-30T05:30:26.037Z",
       "firstIndexedAt": "2026-10-29T14:31:56.328Z",
       "url": "https://www.dreamworkhq.com/job/1fcdb562-8e51-4c5f-87c6-98d6db462b23?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8626,7 +8716,7 @@
       "salaryMax": 195200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T20:02:24.178Z",
+      "postedAt": "2026-10-29T10:02:18.182Z",
       "firstIndexedAt": "2026-10-29T07:49:50.172Z",
       "url": "https://www.dreamworkhq.com/job/b94a2875-e403-4854-b3b6-8f4f87a3c012?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8641,7 +8731,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-28T16:50:19.929Z",
+      "postedAt": "2026-10-28T12:34:49.741Z",
       "firstIndexedAt": "2026-10-29T06:36:41.303Z",
       "url": "https://www.dreamworkhq.com/job/77349029-31af-4b4c-aa11-492e8b27ca7c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8761,7 +8851,7 @@
       "salaryMax": 181940,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T03:46:34.701Z",
+      "postedAt": "2026-10-28T20:05:17.095Z",
       "firstIndexedAt": "2026-10-29T00:56:09.019Z",
       "url": "https://www.dreamworkhq.com/job/48bb369f-fb4f-48c0-9717-f6a0e9933779?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -8821,7 +8911,7 @@
       "salaryMax": 107400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-28T09:01:09.184Z",
+      "postedAt": "2026-10-28T12:30:53.000Z",
       "firstIndexedAt": "2026-10-28T20:03:05.255Z",
       "url": "https://www.dreamworkhq.com/job/37295fab-be56-4cb9-b9ab-036fb316d8bb?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -9076,7 +9166,7 @@
       "salaryMax": 104575,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T03:02:58.457Z",
+      "postedAt": "2026-10-29T04:33:05.235Z",
       "firstIndexedAt": "2026-10-28T15:39:15.683Z",
       "url": "https://www.dreamworkhq.com/job/a664118f-063f-4738-98a1-b2d9a86d4353?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -9136,7 +9226,7 @@
       "salaryMax": 135700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T00:34:17.673Z",
+      "postedAt": "2026-10-28T20:19:41.460Z",
       "firstIndexedAt": "2026-10-28T14:23:57.242Z",
       "url": "https://www.dreamworkhq.com/job/67ae3b4f-4d43-4834-bbed-f2aae3443425?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -9391,7 +9481,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-27T16:50:19.930Z",
+      "postedAt": "2026-10-27T12:34:49.741Z",
       "firstIndexedAt": "2026-10-28T01:53:46.216Z",
       "url": "https://www.dreamworkhq.com/job/6eec8843-b50b-4f62-b9a0-fb1e52c7a8c9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -9406,7 +9496,7 @@
       "salaryMax": 110400,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-28T03:33:52.338Z",
+      "postedAt": "2026-10-27T18:02:34.565Z",
       "firstIndexedAt": "2026-10-28T01:49:58.555Z",
       "url": "https://www.dreamworkhq.com/job/88085fb5-92ff-4250-918b-ede4b4972ed6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -9421,7 +9511,7 @@
       "salaryMax": 105600,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-28T03:33:54.266Z",
+      "postedAt": "2026-10-27T18:02:34.451Z",
       "firstIndexedAt": "2026-10-28T01:49:58.555Z",
       "url": "https://www.dreamworkhq.com/job/93a2f96a-e541-4ee0-95b1-9fd805c0264c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -9856,7 +9946,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-28T03:03:00.317Z",
+      "postedAt": "2026-10-27T20:33:41.459Z",
       "firstIndexedAt": "2026-10-27T13:27:09.660Z",
       "url": "https://www.dreamworkhq.com/job/897dc4ed-0ad3-41ee-96eb-222e447b08bd?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -9871,7 +9961,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-26T16:50:19.930Z",
+      "postedAt": "2026-10-26T12:34:49.741Z",
       "firstIndexedAt": "2026-10-27T09:55:15.708Z",
       "url": "https://www.dreamworkhq.com/job/c22fe220-719c-4224-b298-b3067795a870?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -9961,7 +10051,7 @@
       "salaryMax": 95500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-26T23:33:05.184Z",
+      "postedAt": "2026-10-26T20:20:29.417Z",
       "firstIndexedAt": "2026-10-26T23:48:12.851Z",
       "url": "https://www.dreamworkhq.com/job/ec77502f-0c21-47bd-b17f-71bf6154bbb2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -9976,7 +10066,7 @@
       "salaryMax": 180000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-26T23:33:03.603Z",
+      "postedAt": "2026-10-26T20:20:27.437Z",
       "firstIndexedAt": "2026-10-26T23:48:11.478Z",
       "url": "https://www.dreamworkhq.com/job/1ede3b46-2734-47ef-bd23-f3d67b9f2848?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10021,7 +10111,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-26T16:50:19.930Z",
+      "postedAt": "2026-10-26T12:34:49.742Z",
       "firstIndexedAt": "2026-10-26T21:38:58.074Z",
       "url": "https://www.dreamworkhq.com/job/7538e06e-de60-4ab4-b699-89a011df3403?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10036,7 +10126,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-26T16:50:19.930Z",
+      "postedAt": "2026-10-26T12:34:49.741Z",
       "firstIndexedAt": "2026-10-26T21:38:58.074Z",
       "url": "https://www.dreamworkhq.com/job/b0609d95-3ee4-4d35-af3e-0625fe2e6a5f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10051,7 +10141,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-26T16:50:19.930Z",
+      "postedAt": "2026-10-26T12:34:49.741Z",
       "firstIndexedAt": "2026-10-26T21:38:50.357Z",
       "url": "https://www.dreamworkhq.com/job/28a3e2e1-b7a0-4c84-989c-8969b25b74bc?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10081,7 +10171,7 @@
       "salaryMax": 80496,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T04:32:35.109Z",
+      "postedAt": "2026-11-03T21:19:38.817Z",
       "firstIndexedAt": "2026-10-26T20:52:57.030Z",
       "url": "https://www.dreamworkhq.com/job/1cebfa51-f589-4d40-9df7-83654d69615b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10147,7 +10237,7 @@
     },
     {
       "id": "7387f39b-bf44-4d8b-af9f-a13a30381a5a",
-      "title": "Software Enginee - FHIR & Healthcare APIs",
+      "title": "Software Engineer - FHIR & Healthcare APIs",
       "company": "Northwell",
       "companyDomain": "northwell.org",
       "location": "Melville, Suffolk, United States",
@@ -10171,7 +10261,7 @@
       "salaryMax": 109100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-26T23:19:15.446Z",
+      "postedAt": "2026-10-26T12:48:36.491Z",
       "firstIndexedAt": "2026-10-26T16:41:19.110Z",
       "url": "https://www.dreamworkhq.com/job/ef6627b0-6efc-4088-86c1-bc5fee122751?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10261,7 +10351,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-11-09T02:16:33.808Z",
+      "postedAt": "2024-11-09T18:05:21.831Z",
       "firstIndexedAt": "2026-10-24T23:45:48.627Z",
       "url": "https://www.dreamworkhq.com/job/fb37ea25-1d19-400f-a8ab-250a8c9fa368?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10551,21 +10641,6 @@
       "url": "https://www.dreamworkhq.com/job/d94df7a0-99f6-4b4c-a856-367e3ed7a277?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "2df8ddd6-9586-4ea2-be7e-8c0c033932dd",
-      "title": "Associate Credit Revenue Data Scientist",
-      "company": "Ncsecu",
-      "companyDomain": "ncsecu.org",
-      "location": "Operations-Wake Forest Road",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-11-03T03:06:55.544Z",
-      "firstIndexedAt": "2026-10-24T04:51:47.529Z",
-      "url": "https://www.dreamworkhq.com/job/2df8ddd6-9586-4ea2-be7e-8c0c033932dd?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "4b7dc7bd-5bd9-490b-b6c9-e08deedd706d",
       "title": "Android Applications Developer",
       "company": "Motorola Solutions",
@@ -10671,21 +10746,6 @@
       "url": "https://www.dreamworkhq.com/job/fdfb0884-95ae-4493-8d29-c83794f816be?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "a2f88c2d-fd97-424f-81cd-4aba8ed4bfda",
-      "title": "Data Scientist - Retail Demand Sensing",
-      "company": "Cvshealth",
-      "companyDomain": "cvshealth.com",
-      "location": "Wellesley-93 Worcester St",
-      "remoteType": "remote",
-      "salaryMin": 86520,
-      "salaryMax": 173040,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-23T10:38:31.278Z",
-      "firstIndexedAt": "2026-10-23T21:28:04.237Z",
-      "url": "https://www.dreamworkhq.com/job/a2f88c2d-fd97-424f-81cd-4aba8ed4bfda?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "c333d56e-2955-433b-bda9-3748cc0a74b1",
       "title": "Software Systems Engineer",
       "company": "HP Inc.",
@@ -10705,13 +10765,13 @@
       "title": "Software Test Development Engineer",
       "company": "Jabil Circuit",
       "companyDomain": "jabil.com",
-      "location": "Austin, TX",
+      "location": "2 Locations",
       "remoteType": "onsite",
       "salaryMin": 68800,
       "salaryMax": 123800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T08:34:14.938Z",
+      "postedAt": "2026-11-02T12:32:51.371Z",
       "firstIndexedAt": "2026-10-23T20:53:11.135Z",
       "url": "https://www.dreamworkhq.com/job/43a388e5-7ee8-45bd-a4fd-2637a9ed4cbe?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10756,7 +10816,7 @@
       "salaryMax": 114503,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T21:01:08.171Z",
+      "postedAt": "2026-10-24T05:30:37.352Z",
       "firstIndexedAt": "2026-10-23T20:11:08.606Z",
       "url": "https://www.dreamworkhq.com/job/75f3018e-7e03-4959-9fb9-ff140ee965a2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10816,7 +10876,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T03:03:04.123Z",
+      "postedAt": "2026-10-23T20:33:46.472Z",
       "firstIndexedAt": "2026-10-23T14:20:49.316Z",
       "url": "https://www.dreamworkhq.com/job/a421b881-615b-4529-9c1e-e75ade77d87f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10921,7 +10981,7 @@
       "salaryMax": 131100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T16:50:19.930Z",
+      "postedAt": "2026-10-22T12:34:49.742Z",
       "firstIndexedAt": "2026-10-23T07:04:02.872Z",
       "url": "https://www.dreamworkhq.com/job/29ec1b8a-ab26-46c8-bd16-dfe7ed5691ed?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -10971,21 +11031,6 @@
       "url": "https://www.dreamworkhq.com/job/7bfea325-9007-427a-bfe7-8d2ddae652ba?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "8d54953e-35fd-4a2b-9186-3cb9e4a4e989",
-      "title": "R&D Software Engineer",
-      "company": "External Career Page",
-      "companyDomain": "external-careers.jobs.unsw.edu.au",
-      "location": "Greenville, South Carolina, United States of America",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T15:47:22.900Z",
-      "firstIndexedAt": "2026-10-23T02:44:00.989Z",
-      "url": "https://www.dreamworkhq.com/job/8d54953e-35fd-4a2b-9186-3cb9e4a4e989?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "add6a29f-9cc9-467e-b724-310c02023730",
       "title": "Platform Engineer- Communications Platform",
       "company": "Milwaukee Tool",
@@ -11026,7 +11071,7 @@
       "salaryMax": 81600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T23:19:20.493Z",
+      "postedAt": "2026-10-22T12:48:36.491Z",
       "firstIndexedAt": "2026-10-22T23:12:49.396Z",
       "url": "https://www.dreamworkhq.com/job/601881ae-26e6-4255-8bbf-f5497375c856?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11041,7 +11086,7 @@
       "salaryMax": 118900,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T23:18:48.401Z",
+      "postedAt": "2026-11-03T12:48:36.489Z",
       "firstIndexedAt": "2026-10-22T23:12:47.919Z",
       "url": "https://www.dreamworkhq.com/job/c6f6709c-af0d-4264-8e87-89eed9b1284f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11176,7 +11221,7 @@
       "salaryMax": 118375,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T22:01:14.709Z",
+      "postedAt": "2026-10-22T16:00:56.215Z",
       "firstIndexedAt": "2026-10-22T21:00:35.451Z",
       "url": "https://www.dreamworkhq.com/job/53fa0779-6a13-4ddf-b82b-68d22817d935?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11191,7 +11236,7 @@
       "salaryMax": 118375,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T22:01:14.752Z",
+      "postedAt": "2026-10-22T16:00:56.338Z",
       "firstIndexedAt": "2026-10-22T21:00:35.451Z",
       "url": "https://www.dreamworkhq.com/job/9b638dd6-db5e-4054-a317-50b4b66f7b53?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11254,21 +11299,6 @@
       "postedAt": "2026-10-23T01:57:08.700Z",
       "firstIndexedAt": "2026-10-22T16:22:17.457Z",
       "url": "https://www.dreamworkhq.com/job/6e499008-5b5f-4681-94b2-5be925f70793?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "1a933387-fa81-4edb-9800-2a805da63cdf",
-      "title": "Junior ETL Developer",
-      "company": "Leidos",
-      "companyDomain": "leidos.com",
-      "location": "Martinsburg, WV",
-      "remoteType": "onsite",
-      "salaryMin": 58178,
-      "salaryMax": 58178,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T10:21:22.436Z",
-      "firstIndexedAt": "2026-10-22T16:03:01.368Z",
-      "url": "https://www.dreamworkhq.com/job/1a933387-fa81-4edb-9800-2a805da63cdf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "1d04e15a-260f-4724-bc58-e9c62718bfae",
@@ -11521,7 +11551,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T10:31:24.654Z",
+      "postedAt": "2026-10-21T19:46:44.332Z",
       "firstIndexedAt": "2026-10-21T23:33:04.345Z",
       "url": "https://www.dreamworkhq.com/job/9c5899bd-4800-4040-8ff4-2467ea88e9e3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11551,7 +11581,7 @@
       "salaryMax": 100699,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T19:22:38.687Z",
+      "postedAt": "2026-10-20T13:02:59.930Z",
       "firstIndexedAt": "2026-10-21T22:34:55.379Z",
       "url": "https://www.dreamworkhq.com/job/29666d2f-6800-45b4-887b-4245d8c931db?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11581,7 +11611,7 @@
       "salaryMax": 157450,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-11-03T03:02:52.724Z",
+      "postedAt": "2026-11-02T20:33:31.561Z",
       "firstIndexedAt": "2026-10-21T21:21:44.442Z",
       "url": "https://www.dreamworkhq.com/job/a8513e84-c49f-4b14-a9b9-3f301c213f7d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11596,7 +11626,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-22T03:03:07.127Z",
+      "postedAt": "2026-10-21T20:33:50.160Z",
       "firstIndexedAt": "2026-10-21T21:21:44.442Z",
       "url": "https://www.dreamworkhq.com/job/f8d81654-1b11-4372-a122-16fbfc49a548?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11611,7 +11641,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T03:03:06.881Z",
+      "postedAt": "2026-10-21T20:33:50.258Z",
       "firstIndexedAt": "2026-10-21T21:21:44.442Z",
       "url": "https://www.dreamworkhq.com/job/3f79d796-1d3d-4960-a8a0-bdd831e7f830?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11821,7 +11851,7 @@
       "salaryMax": 97750,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T04:32:40.888Z",
+      "postedAt": "2026-11-02T21:19:46.962Z",
       "firstIndexedAt": "2026-10-21T10:23:48.453Z",
       "url": "https://www.dreamworkhq.com/job/de4443f2-7cab-468c-850c-a032563015de?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11866,7 +11896,7 @@
       "salaryMax": 121900,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T23:19:25.873Z",
+      "postedAt": "2026-10-20T12:48:36.491Z",
       "firstIndexedAt": "2026-10-21T09:19:44.982Z",
       "url": "https://www.dreamworkhq.com/job/3a83993c-cfc1-4c14-b7d8-3295b80c9884?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11881,7 +11911,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-10-20T23:45:15.333Z",
+      "postedAt": "2026-10-20T18:01:02.259Z",
       "firstIndexedAt": "2026-10-21T09:04:40.930Z",
       "url": "https://www.dreamworkhq.com/job/a2409d5e-3fcf-430a-8c14-91bcd100362a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -11986,7 +12016,7 @@
       "salaryMax": 144200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T16:50:19.931Z",
+      "postedAt": "2026-10-20T12:34:49.742Z",
       "firstIndexedAt": "2026-10-21T07:18:44.132Z",
       "url": "https://www.dreamworkhq.com/job/0c286d75-fd3a-4a1e-8692-5d99e268b0c7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -12001,7 +12031,7 @@
       "salaryMax": 144200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T16:50:19.931Z",
+      "postedAt": "2026-10-20T12:34:49.742Z",
       "firstIndexedAt": "2026-10-21T07:18:44.132Z",
       "url": "https://www.dreamworkhq.com/job/91bddede-9eff-496d-9d17-072a17be1095?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -12016,7 +12046,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-27T16:50:19.929Z",
+      "postedAt": "2026-10-27T12:34:49.741Z",
       "firstIndexedAt": "2026-10-21T07:18:44.132Z",
       "url": "https://www.dreamworkhq.com/job/958ca5ab-86fc-4575-8842-2561d33db1d9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -12031,7 +12061,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T16:50:19.928Z",
+      "postedAt": "2026-11-02T12:34:49.740Z",
       "firstIndexedAt": "2026-10-21T07:18:44.132Z",
       "url": "https://www.dreamworkhq.com/job/9e8d6718-a2b6-4682-8795-ad39c4e89822?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -12271,7 +12301,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T08:34:20.058Z",
+      "postedAt": "2026-10-20T12:32:51.372Z",
       "firstIndexedAt": "2026-10-20T23:58:36.397Z",
       "url": "https://www.dreamworkhq.com/job/16630792-3484-4e4e-8099-ddd997a29d08?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -12436,7 +12466,7 @@
       "salaryMax": 118000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-21T04:02:03.733Z",
+      "postedAt": "2026-10-20T20:32:34.782Z",
       "firstIndexedAt": "2026-10-20T15:57:37.290Z",
       "url": "https://www.dreamworkhq.com/job/5abbab08-b2ed-432d-89f3-b5f100b4a74a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -12606,21 +12636,6 @@
       "url": "https://www.dreamworkhq.com/job/251a218f-ce83-4f26-92f0-9d7f385169ff?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "fd24f88c-e358-42ef-bf9f-f08d216e67e1",
-      "title": "Systems Engineer 2",
-      "company": "Oracle",
-      "companyDomain": "oracle.com",
-      "location": "Prescott, AZ, United States",
-      "remoteType": "onsite",
-      "salaryMin": 59093,
-      "salaryMax": 118206,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-10T19:45:35.000Z",
-      "firstIndexedAt": "2026-10-20T04:04:12.421Z",
-      "url": "https://www.dreamworkhq.com/job/fd24f88c-e358-42ef-bf9f-f08d216e67e1?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "cf8d574c-6894-44c8-ad93-682d636457b1",
       "title": "Global Software Support Engineer I",
       "company": "Applied Materials",
@@ -12631,7 +12646,7 @@
       "salaryMax": 95500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T23:33:14.366Z",
+      "postedAt": "2026-10-19T20:20:47.909Z",
       "firstIndexedAt": "2026-10-20T02:51:47.785Z",
       "url": "https://www.dreamworkhq.com/job/cf8d574c-6894-44c8-ad93-682d636457b1?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -12646,7 +12661,7 @@
       "salaryMax": 211200,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T03:46:43.340Z",
+      "postedAt": "2026-10-19T20:05:40.728Z",
       "firstIndexedAt": "2026-10-20T01:48:13.554Z",
       "url": "https://www.dreamworkhq.com/job/ceaaed0e-a790-44d0-95ce-79d1cb712ba6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -12706,7 +12721,7 @@
       "salaryMax": 143000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T23:33:14.750Z",
+      "postedAt": "2026-10-19T20:20:44.958Z",
       "firstIndexedAt": "2026-10-19T22:09:39.147Z",
       "url": "https://www.dreamworkhq.com/job/451e14b5-fa4b-4ac4-af94-679f45346e04?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -12844,21 +12859,6 @@
       "postedAt": "2026-10-19T15:01:52.000Z",
       "firstIndexedAt": "2026-10-19T15:16:09.269Z",
       "url": "https://www.dreamworkhq.com/job/883fde93-e914-4703-804c-29dd3954921c?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "bdea85df-b43d-45fe-907a-09d7142cf8bc",
-      "title": "Data Scientist - Clinical AI",
-      "company": "Cvshealth",
-      "companyDomain": "cvshealth.com",
-      "location": "NY - Work from hom",
-      "remoteType": "remote",
-      "salaryMin": 79310,
-      "salaryMax": 158620,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-16T10:38:31.303Z",
-      "firstIndexedAt": "2026-10-19T08:34:26.132Z",
-      "url": "https://www.dreamworkhq.com/job/bdea85df-b43d-45fe-907a-09d7142cf8bc?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "7ebf480e-972b-4ccb-b2b2-2b1ad0e63584",
@@ -13036,7 +13036,7 @@
       "salaryMax": 132000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T08:00:55.308Z",
+      "postedAt": "2026-10-16T10:00:34.803Z",
       "firstIndexedAt": "2026-10-17T06:03:21.887Z",
       "url": "https://www.dreamworkhq.com/job/0772bde2-7435-455d-9051-49157beaee02?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13086,21 +13086,6 @@
       "url": "https://www.dreamworkhq.com/job/40ae7791-a354-420e-9403-51502dde6a7b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "a947fc16-015c-4992-8aa9-1c4c67c2a1f6",
-      "title": "Software Engineer, Apple Streaming Platform and Solutions",
-      "company": "Apple",
-      "companyDomain": "apple.com",
-      "location": "Seattle",
-      "remoteType": null,
-      "salaryMin": 142300,
-      "salaryMax": 263300,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T14:42:49.752Z",
-      "firstIndexedAt": "2026-10-17T01:05:08.305Z",
-      "url": "https://www.dreamworkhq.com/job/a947fc16-015c-4992-8aa9-1c4c67c2a1f6?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "df678623-6ac4-4001-9de1-20f1d11e89be",
       "title": "Software Engineer",
       "company": "Bbinsurance",
@@ -13111,7 +13096,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T02:15:35.010Z",
+      "postedAt": "2026-10-28T19:16:13.857Z",
       "firstIndexedAt": "2026-10-17T00:37:01.251Z",
       "url": "https://www.dreamworkhq.com/job/df678623-6ac4-4001-9de1-20f1d11e89be?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13126,7 +13111,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T17:21:01.147Z",
+      "postedAt": "2026-10-21T05:34:22.751Z",
       "firstIndexedAt": "2026-10-17T00:05:28.900Z",
       "url": "https://www.dreamworkhq.com/job/e931c2c5-4dde-4e8a-a97c-a557ab23f016?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13246,7 +13231,7 @@
       "salaryMax": 131100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-13T16:50:19.932Z",
+      "postedAt": "2026-10-13T12:34:49.743Z",
       "firstIndexedAt": "2026-10-16T18:36:18.190Z",
       "url": "https://www.dreamworkhq.com/job/cf54f285-9470-473e-8800-87f048e01fdf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13261,7 +13246,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T16:50:19.932Z",
+      "postedAt": "2026-10-14T12:34:49.743Z",
       "firstIndexedAt": "2026-10-16T18:36:06.581Z",
       "url": "https://www.dreamworkhq.com/job/46a0996c-7442-4de4-b97c-79a7a7e33d8c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13276,7 +13261,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T16:50:19.932Z",
+      "postedAt": "2026-10-14T12:34:49.743Z",
       "firstIndexedAt": "2026-10-16T18:36:06.581Z",
       "url": "https://www.dreamworkhq.com/job/6ad2a5c7-d9c2-4b0a-ab4e-4ca8affcd1d6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13291,7 +13276,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T16:50:19.931Z",
+      "postedAt": "2026-10-14T12:34:49.743Z",
       "firstIndexedAt": "2026-10-16T18:36:06.581Z",
       "url": "https://www.dreamworkhq.com/job/9a6b203b-a8dc-4f21-87cb-adac9fae3a5e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13306,7 +13291,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T16:50:19.931Z",
+      "postedAt": "2026-10-14T12:34:49.743Z",
       "firstIndexedAt": "2026-10-16T18:36:06.581Z",
       "url": "https://www.dreamworkhq.com/job/c4901f6d-9fde-4572-a903-d7ce73e6c1cf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13321,7 +13306,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T16:50:19.932Z",
+      "postedAt": "2026-10-14T12:34:49.743Z",
       "firstIndexedAt": "2026-10-16T18:36:06.581Z",
       "url": "https://www.dreamworkhq.com/job/dd56101e-6247-416e-8c97-e1eb994f20a2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13336,7 +13321,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T16:50:19.928Z",
+      "postedAt": "2026-11-03T12:34:49.739Z",
       "firstIndexedAt": "2026-10-16T18:36:05.432Z",
       "url": "https://www.dreamworkhq.com/job/e4acf459-629c-42ce-beb2-c5ec1d7a353d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13351,7 +13336,7 @@
       "salaryMax": 131100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T16:50:19.928Z",
+      "postedAt": "2026-11-03T12:34:49.739Z",
       "firstIndexedAt": "2026-10-16T18:36:05.432Z",
       "url": "https://www.dreamworkhq.com/job/f1c3770c-df7c-4b99-8d94-bb4df651fc18?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13366,7 +13351,7 @@
       "salaryMax": 131100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T16:50:19.931Z",
+      "postedAt": "2026-10-16T12:34:49.743Z",
       "firstIndexedAt": "2026-10-16T18:35:45.958Z",
       "url": "https://www.dreamworkhq.com/job/921fd178-c9b1-4eec-9c08-4c6651c96455?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13606,7 +13591,7 @@
       "salaryMax": 118900,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-27T23:19:09.240Z",
+      "postedAt": "2026-10-27T12:48:36.490Z",
       "firstIndexedAt": "2026-10-16T00:13:42.196Z",
       "url": "https://www.dreamworkhq.com/job/db5b4922-a46e-4b6d-959c-b9a8b46a71ba?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13621,7 +13606,7 @@
       "salaryMax": 140000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-15T20:30:47.861Z",
+      "postedAt": "2026-10-15T20:46:01.977Z",
       "firstIndexedAt": "2026-10-15T23:55:40.102Z",
       "url": "https://www.dreamworkhq.com/job/a5721565-0e91-4e50-93cd-2bcd8d73f0ff?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13636,7 +13621,7 @@
       "salaryMax": 171000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T23:33:20.643Z",
+      "postedAt": "2026-10-15T20:20:55.227Z",
       "firstIndexedAt": "2026-10-15T23:42:20.872Z",
       "url": "https://www.dreamworkhq.com/job/1eaad9bb-7d87-45f2-b545-f19e3d68d64a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -13806,21 +13791,6 @@
       "url": "https://www.dreamworkhq.com/job/1eae6a3f-830f-4e2c-99d2-c2862681e8ec?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "27332785-adf6-4849-bf41-3b11365715bc",
-      "title": "Software Development Engineer, Audible AI Voice Production",
-      "company": "Amazon",
-      "companyDomain": "amazon.com",
-      "location": "US, MA, Cambridge",
-      "remoteType": "onsite",
-      "salaryMin": 110500,
-      "salaryMax": 160000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T00:00:00.000Z",
-      "firstIndexedAt": "2026-10-15T17:35:42.486Z",
-      "url": "https://www.dreamworkhq.com/job/27332785-adf6-4849-bf41-3b11365715bc?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "d1c56dcb-f72f-4db6-bf60-12f0fc14e480",
       "title": "Software Engineer",
       "company": "Visa",
@@ -13981,7 +13951,7 @@
       "salaryMax": 98599,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-11-03T04:32:40.888Z",
+      "postedAt": "2026-11-02T21:19:48.954Z",
       "firstIndexedAt": "2026-10-15T10:48:45.639Z",
       "url": "https://www.dreamworkhq.com/job/dbd5e391-1eaa-44c3-9e67-0d2084f62f9a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -14311,7 +14281,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T07:46:46.377Z",
+      "postedAt": "2026-10-14T08:01:51.712Z",
       "firstIndexedAt": "2026-10-15T00:45:09.765Z",
       "url": "https://www.dreamworkhq.com/job/409c8489-f8a0-47a6-a0b5-adeb37f6ddfa?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -14596,7 +14566,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-11-07T12:45:31.974Z",
+      "postedAt": "2024-11-09T13:00:41.912Z",
       "firstIndexedAt": "2026-10-14T14:00:12.724Z",
       "url": "https://www.dreamworkhq.com/job/c72008c7-5c8b-4087-962f-8b0726b0b230?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -14716,7 +14686,7 @@
       "salaryMax": 138549,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T21:01:08.387Z",
+      "postedAt": "2026-10-23T05:30:37.408Z",
       "firstIndexedAt": "2026-10-14T08:34:15.638Z",
       "url": "https://www.dreamworkhq.com/job/612b3051-7138-4274-b29f-d1cbba37a61a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -14806,7 +14776,7 @@
       "salaryMax": 137600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-13T23:19:37.987Z",
+      "postedAt": "2026-10-13T12:48:36.492Z",
       "firstIndexedAt": "2026-10-14T07:02:56.861Z",
       "url": "https://www.dreamworkhq.com/job/eab5f571-66ef-4cc2-925d-b8033a76aba8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -14821,7 +14791,7 @@
       "salaryMax": 165000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-13T19:02:19.501Z",
+      "postedAt": "2026-10-13T13:00:48.563Z",
       "firstIndexedAt": "2026-10-14T05:57:41.494Z",
       "url": "https://www.dreamworkhq.com/job/c219b836-6ea9-4677-bfe1-f038b2a84f7d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -14866,7 +14836,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-13T07:46:46.400Z",
+      "postedAt": "2026-10-12T08:01:51.904Z",
       "firstIndexedAt": "2026-10-14T03:31:02.712Z",
       "url": "https://www.dreamworkhq.com/job/618aedba-2f51-4246-b5d1-09f6e575cb85?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -15016,7 +14986,7 @@
       "salaryMax": 195500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-30T20:18:30.021Z",
+      "postedAt": "2026-10-30T16:53:11.410Z",
       "firstIndexedAt": "2026-10-13T22:51:32.844Z",
       "url": "https://www.dreamworkhq.com/job/6a46b7de-d376-406e-834a-4e8b976cd931?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -15061,7 +15031,7 @@
       "salaryMax": 143943,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-11-06T10:17:25.387Z",
+      "postedAt": "2026-11-06T16:32:55.616Z",
       "firstIndexedAt": "2026-10-13T19:27:51.382Z",
       "url": "https://www.dreamworkhq.com/job/6b3f53eb-5117-4d67-9f8e-2d5ece47e9bb?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -15121,7 +15091,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T03:03:06.850Z",
+      "postedAt": "2026-10-21T20:33:49.799Z",
       "firstIndexedAt": "2026-10-13T16:59:45.382Z",
       "url": "https://www.dreamworkhq.com/job/5d56fab0-6f2e-426c-bbc4-e5ca5dad08d1?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -15256,7 +15226,7 @@
       "salaryMax": 131400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T23:18:44.390Z",
+      "postedAt": "2026-11-04T12:48:35.501Z",
       "firstIndexedAt": "2026-10-13T05:05:33.955Z",
       "url": "https://www.dreamworkhq.com/job/04515e71-d4ed-4a05-970d-4e2bed042c93?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -15271,7 +15241,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-13T16:50:19.932Z",
+      "postedAt": "2026-10-13T12:34:49.743Z",
       "firstIndexedAt": "2026-10-13T04:36:21.136Z",
       "url": "https://www.dreamworkhq.com/job/0221c3aa-a6c0-41c7-9fbf-ba2f4952cf1d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -15286,7 +15256,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-12T16:50:19.932Z",
+      "postedAt": "2026-10-12T12:34:49.743Z",
       "firstIndexedAt": "2026-10-13T04:36:21.136Z",
       "url": "https://www.dreamworkhq.com/job/29426815-0e1e-4017-879b-d6e985a6dce8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -15439,21 +15409,6 @@
       "postedAt": "2026-10-11T13:03:14.009Z",
       "firstIndexedAt": "2026-10-12T02:32:52.977Z",
       "url": "https://www.dreamworkhq.com/job/4f030d8e-fc5a-4567-8539-5f13207036c1?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "e907bc13-a8fe-4a5d-beed-cb21187e267a",
-      "title": "Software DevOps Engineer - Grad",
-      "company": "Thales",
-      "companyDomain": "thales.com",
-      "location": "Orlando",
-      "remoteType": "hybrid",
-      "salaryMin": 86366,
-      "salaryMax": 143943,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-19T01:20:20.764Z",
-      "firstIndexedAt": "2026-10-11T19:06:35.177Z",
-      "url": "https://www.dreamworkhq.com/job/e907bc13-a8fe-4a5d-beed-cb21187e267a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "531899fa-2a3b-487f-947c-b690ad0340a0",
@@ -15976,7 +15931,7 @@
       "salaryMax": 152000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T23:33:10.561Z",
+      "postedAt": "2026-10-21T20:20:37.883Z",
       "firstIndexedAt": "2026-10-09T19:20:18.434Z",
       "url": "https://www.dreamworkhq.com/job/45ec0e2e-6a38-41bf-8a32-a81046975561?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -15991,7 +15946,7 @@
       "salaryMax": 168400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-10T04:02:25.962Z",
+      "postedAt": "2026-10-10T07:31:56.012Z",
       "firstIndexedAt": "2026-10-09T17:45:58.544Z",
       "url": "https://www.dreamworkhq.com/job/9255900f-8368-4600-9ca2-da1f224a19fa?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -16126,7 +16081,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T16:50:19.928Z",
+      "postedAt": "2026-11-03T12:34:49.739Z",
       "firstIndexedAt": "2026-10-09T13:21:30.852Z",
       "url": "https://www.dreamworkhq.com/job/df3c4fa4-904f-4767-89b8-628eaa2bb18b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -16231,7 +16186,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-13T10:15:35.045Z",
+      "postedAt": "2026-10-13T10:30:26.084Z",
       "firstIndexedAt": "2026-10-09T08:10:26.926Z",
       "url": "https://www.dreamworkhq.com/job/42622566-0ec5-46a9-9a65-63725531541c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -16369,51 +16324,6 @@
       "postedAt": "2026-11-02T14:31:17.792Z",
       "firstIndexedAt": "2026-10-09T04:48:42.669Z",
       "url": "https://www.dreamworkhq.com/job/ef3c6f45-7d89-4b93-b4c5-7b58af71b2a8?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "d9d24540-b0ca-4c27-91f6-ec840e765cf4",
-      "title": "Associate Software Engineer, Gradient Specialist",
-      "company": "66degrees",
-      "companyDomain": "66degrees.com",
-      "location": "Chicago, IL",
-      "remoteType": "onsite",
-      "salaryMin": 70000,
-      "salaryMax": 75000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-08T19:07:59.000Z",
-      "firstIndexedAt": "2026-10-09T04:30:26.984Z",
-      "url": "https://www.dreamworkhq.com/job/d9d24540-b0ca-4c27-91f6-ec840e765cf4?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "2db2ed45-f881-4b23-aaf4-faac2272b1be",
-      "title": "Associate Data Engineer, Gradient Specialist",
-      "company": "66degrees",
-      "companyDomain": "66degrees.com",
-      "location": "Chicago, IL",
-      "remoteType": "onsite",
-      "salaryMin": 70000,
-      "salaryMax": 75000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-08T19:06:56.000Z",
-      "firstIndexedAt": "2026-10-09T04:30:26.984Z",
-      "url": "https://www.dreamworkhq.com/job/2db2ed45-f881-4b23-aaf4-faac2272b1be?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "c3c9599b-2d7e-4763-881a-78cbb760a1f9",
-      "title": "Associate AI/ML Engineer, Gradient Specialist",
-      "company": "66degrees",
-      "companyDomain": "66degrees.com",
-      "location": "Chicago, IL",
-      "remoteType": "onsite",
-      "salaryMin": 75000,
-      "salaryMax": 80000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-08T19:06:02.000Z",
-      "firstIndexedAt": "2026-10-09T04:30:26.984Z",
-      "url": "https://www.dreamworkhq.com/job/c3c9599b-2d7e-4763-881a-78cbb760a1f9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "0d2982fb-a9ad-42a2-98a8-20a9672e059b",
@@ -16621,7 +16531,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T16:50:19.928Z",
+      "postedAt": "2026-11-03T12:34:49.739Z",
       "firstIndexedAt": "2026-10-08T23:28:18.281Z",
       "url": "https://www.dreamworkhq.com/job/1736ee43-fc13-4fdc-88c5-feae97eca11e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -16666,7 +16576,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T16:50:19.928Z",
+      "postedAt": "2026-11-03T12:34:49.740Z",
       "firstIndexedAt": "2026-10-08T23:28:11.515Z",
       "url": "https://www.dreamworkhq.com/job/5e502906-694d-42a6-b0e9-eb520e7280dc?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -16834,21 +16744,6 @@
       "postedAt": "2026-10-08T12:16:53.964Z",
       "firstIndexedAt": "2026-10-08T17:03:51.738Z",
       "url": "https://www.dreamworkhq.com/job/c6b0e4ee-a48e-4a6e-8e1b-75c91ae3f66f?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "d01ea7d7-f1af-40b3-9528-8d039b0a14d7",
-      "title": "Planning Data Analyst - Strategic Planning",
-      "company": "Ochsner",
-      "companyDomain": "ochsner.org",
-      "location": "New Orleans - New Orleans Region - Louisiana",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-08T04:48:59.140Z",
-      "firstIndexedAt": "2026-10-08T17:01:45.455Z",
-      "url": "https://www.dreamworkhq.com/job/d01ea7d7-f1af-40b3-9528-8d039b0a14d7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "e5e429a1-79f9-4f71-9aa3-9c45cee2f905",
@@ -17050,7 +16945,7 @@
       "title": "Site Reliability Engineer I - Sales Operations",
       "company": "HPE",
       "companyDomain": "hpe.com",
-      "location": "Dallas, Texas, United States of America",
+      "location": "2 Locations",
       "remoteType": "hybrid",
       "salaryMin": 77500,
       "salaryMax": 179000,
@@ -17059,21 +16954,6 @@
       "postedAt": "2026-10-07T22:10:08.480Z",
       "firstIndexedAt": "2026-10-08T05:08:52.401Z",
       "url": "https://www.dreamworkhq.com/job/679b8acf-e5c1-4315-b85a-08a9f9afe27d?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "a0652256-5865-4049-aebc-b8a7337e75d4",
-      "title": "Site Reliability Engineer I - Sales Operations",
-      "company": "HPE",
-      "companyDomain": "hpe.com",
-      "location": "2 Locations",
-      "remoteType": "hybrid",
-      "salaryMin": 77500,
-      "salaryMax": 179000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-07T23:02:54.012Z",
-      "firstIndexedAt": "2026-10-08T05:05:29.491Z",
-      "url": "https://www.dreamworkhq.com/job/a0652256-5865-4049-aebc-b8a7337e75d4?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "2db04586-0fe7-48cd-baa6-eba40d5f0a3a",
@@ -17206,7 +17086,7 @@
       "salaryMax": 107824,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-20T19:24:27.740Z",
+      "postedAt": "2026-10-20T13:03:22.198Z",
       "firstIndexedAt": "2026-10-07T21:16:03.565Z",
       "url": "https://www.dreamworkhq.com/job/88a332a9-a720-449c-a84c-9faf5ad3d952?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -17316,11 +17196,26 @@
       "url": "https://www.dreamworkhq.com/job/96bb3de0-c59b-4632-8860-48af0515074a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "3e4d0fba-5e56-457d-b6b5-8732d1339f27",
+      "title": "Software Engineer, Web3 Backend",
+      "company": "Robinhood",
+      "companyDomain": "robinhood.com",
+      "location": "Menlo Park, CA; New York, NY",
+      "remoteType": "hybrid",
+      "salaryMin": 166000,
+      "salaryMax": 195000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-07T08:07:43.000Z",
+      "firstIndexedAt": "2026-10-07T17:30:40.023Z",
+      "url": "https://www.dreamworkhq.com/job/3e4d0fba-5e56-457d-b6b5-8732d1339f27?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "36200511-e741-4aa3-bebc-b1c32672da81",
       "title": "Software Engineer - Android",
       "company": "PayPal",
       "companyDomain": "paypal.com",
-      "location": "2 Locations",
+      "location": "San Jose, California, United States of America",
       "remoteType": "hybrid",
       "salaryMin": 116500,
       "salaryMax": 173250,
@@ -17481,21 +17376,6 @@
       "url": "https://www.dreamworkhq.com/job/f3ccb038-13dc-4652-8bd2-dd3eb33820d7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "1154d41a-de5b-4ba5-bd17-165b42c8372b",
-      "title": "Technical Solutions Engineer I, Infrastructure, Compute, Google Cloud",
-      "company": "Google",
-      "companyDomain": "google.com",
-      "location": "Kirkland, WA, USA",
-      "remoteType": "hybrid",
-      "salaryMin": 126000,
-      "salaryMax": 180000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-10-07T10:33:37.638Z",
-      "url": "https://www.dreamworkhq.com/job/1154d41a-de5b-4ba5-bd17-165b42c8372b?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "f92816a0-078f-4cdb-a1a4-b39cbbd61596",
       "title": "Silicon Validation Engineer, HBM, Google Cloud",
       "company": "Google",
@@ -17509,21 +17389,6 @@
       "postedAt": null,
       "firstIndexedAt": "2026-10-07T10:33:00.306Z",
       "url": "https://www.dreamworkhq.com/job/f92816a0-078f-4cdb-a1a4-b39cbbd61596?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "e1e59956-daf9-4d7f-9177-c0d53f5dcd3e",
-      "title": "Software Engineer, Infrastructure, Search Platforms",
-      "company": "Google",
-      "companyDomain": "google.com",
-      "location": "Cambridge, MA, USA, Mountain View, CA, USA, New York, NY, USA",
-      "remoteType": "onsite",
-      "salaryMin": 147000,
-      "salaryMax": 210000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": null,
-      "firstIndexedAt": "2026-10-07T10:32:55.147Z",
-      "url": "https://www.dreamworkhq.com/job/e1e59956-daf9-4d7f-9177-c0d53f5dcd3e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "025dce6a-7765-48c6-b945-d020557b7758",
@@ -17551,7 +17416,7 @@
       "salaryMax": 112625,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T16:47:48.555Z",
+      "postedAt": "2026-10-29T09:00:39.303Z",
       "firstIndexedAt": "2026-10-07T07:52:51.176Z",
       "url": "https://www.dreamworkhq.com/job/3ae6dfd7-6919-429e-9c89-aae5b94fa512?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -17926,7 +17791,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T16:50:19.929Z",
+      "postedAt": "2026-10-29T12:34:49.740Z",
       "firstIndexedAt": "2026-10-06T22:28:17.053Z",
       "url": "https://www.dreamworkhq.com/job/b45eae04-4632-4f10-b842-17b8cf9cacf3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -18121,7 +17986,7 @@
       "salaryMax": 143750,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T04:32:40.889Z",
+      "postedAt": "2026-11-02T21:19:52.807Z",
       "firstIndexedAt": "2026-10-06T17:17:32.883Z",
       "url": "https://www.dreamworkhq.com/job/6f8ee435-1eaf-448d-a9df-fff0578fd3b3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -18325,13 +18190,13 @@
       "title": "Cyber Software Engineer (TG)",
       "company": "Northrop Grumman",
       "companyDomain": "northropgrumman.com",
-      "location": "United States-Maryland-Annapolis Junction",
+      "location": "4 Locations",
       "remoteType": "onsite",
       "salaryMin": 101000,
       "salaryMax": 151400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T23:19:36.584Z",
+      "postedAt": "2026-10-15T12:48:36.492Z",
       "firstIndexedAt": "2026-10-05T19:38:59.496Z",
       "url": "https://www.dreamworkhq.com/job/edd1ad3b-8a3b-41b0-8388-718d08deb5dd?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -18346,7 +18211,7 @@
       "salaryMax": 137600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T23:18:51.671Z",
+      "postedAt": "2026-11-02T12:48:36.489Z",
       "firstIndexedAt": "2026-10-05T19:38:54.717Z",
       "url": "https://www.dreamworkhq.com/job/3765f639-e1b6-40fe-8dee-b3114999ce1b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -18906,21 +18771,6 @@
       "url": "https://www.dreamworkhq.com/job/17a68824-6350-4825-88ad-e148c05c64cf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "a7988e8f-709b-432c-879f-3f755e4b9c5c",
-      "title": "Associate Data Scientist - Supply Chain",
-      "company": "The Home Depot",
-      "companyDomain": "homedepot.com",
-      "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-06T23:21:43.999Z",
-      "firstIndexedAt": "2026-10-03T08:31:27.425Z",
-      "url": "https://www.dreamworkhq.com/job/a7988e8f-709b-432c-879f-3f755e4b9c5c?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "815f26ca-dd64-42eb-863e-36324d3d05dc",
       "title": "Robotics Software Engineer I/II",
       "company": "Agility Robotics",
@@ -18964,6 +18814,36 @@
       "postedAt": "2026-10-02T15:11:38.777Z",
       "firstIndexedAt": "2026-10-03T05:46:02.795Z",
       "url": "https://www.dreamworkhq.com/job/4af9d6e8-f86d-4d47-87bc-dc2aa7332ea7?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "bd1d2d94-8b59-4a3c-86b9-4a7fc49b60f1",
+      "title": "Software Engineer, New Grad (2027)",
+      "company": "Harvey AI",
+      "companyDomain": "harvey.ai",
+      "location": "New York",
+      "remoteType": "onsite",
+      "salaryMin": 165000,
+      "salaryMax": 181500,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-02T19:13:48.998Z",
+      "firstIndexedAt": "2026-10-03T02:30:42.417Z",
+      "url": "https://www.dreamworkhq.com/job/bd1d2d94-8b59-4a3c-86b9-4a7fc49b60f1?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "e6db6381-2a56-4867-b42f-6f03474c3ffd",
+      "title": "Software Engineer, New Grad (2027)",
+      "company": "Harvey AI",
+      "companyDomain": "harvey.ai",
+      "location": "San Francisco",
+      "remoteType": "hybrid",
+      "salaryMin": 165000,
+      "salaryMax": 181500,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-10-02T19:13:45.839Z",
+      "firstIndexedAt": "2026-10-03T02:30:38.676Z",
+      "url": "https://www.dreamworkhq.com/job/e6db6381-2a56-4867-b42f-6f03474c3ffd?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "c257ad0c-dd53-4bd5-8c89-23eb7fe6c000",
@@ -19216,7 +19096,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2024-11-09T02:16:44.748Z",
+      "postedAt": "2024-11-09T18:05:39.433Z",
       "firstIndexedAt": "2026-10-02T18:30:50.923Z",
       "url": "https://www.dreamworkhq.com/job/6b0ff40e-83be-4a92-8492-c7dab4b5d9ce?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -19351,7 +19231,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-31T07:01:52.377Z",
+      "postedAt": "2026-10-31T07:17:03.762Z",
       "firstIndexedAt": "2026-10-02T11:32:44.961Z",
       "url": "https://www.dreamworkhq.com/job/6e6dfb3b-7338-40b0-969a-2e02bb51f8d6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -19501,7 +19381,7 @@
       "salaryMax": 155250,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T04:32:40.889Z",
+      "postedAt": "2026-11-02T21:19:54.069Z",
       "firstIndexedAt": "2026-10-02T04:54:56.381Z",
       "url": "https://www.dreamworkhq.com/job/2795c1ab-d633-45e2-b9ad-d2131a5b7e7d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -19516,7 +19396,7 @@
       "salaryMax": 161000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T04:32:40.889Z",
+      "postedAt": "2026-11-02T21:19:52.818Z",
       "firstIndexedAt": "2026-10-02T04:54:56.381Z",
       "url": "https://www.dreamworkhq.com/job/43db3765-aa04-4c6b-aaaf-8b861684dd63?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -19531,7 +19411,7 @@
       "salaryMax": 205850,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T04:32:40.889Z",
+      "postedAt": "2026-11-02T21:19:53.850Z",
       "firstIndexedAt": "2026-10-02T04:54:56.381Z",
       "url": "https://www.dreamworkhq.com/job/60fec240-3bcd-4e63-97ad-cf3a016af350?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -19576,7 +19456,7 @@
       "salaryMax": 81000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T17:30:08.651Z",
+      "postedAt": "2026-10-21T10:15:43.442Z",
       "firstIndexedAt": "2026-10-02T02:32:52.920Z",
       "url": "https://www.dreamworkhq.com/job/2810f33a-4d15-44b6-b680-69d6da79e975?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -19666,7 +19546,7 @@
       "salaryMax": 58240,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T19:01:35.598Z",
+      "postedAt": "2026-10-20T08:31:20.951Z",
       "firstIndexedAt": "2026-10-01T23:10:29.279Z",
       "url": "https://www.dreamworkhq.com/job/eefe8cd0-6c4d-4e65-9a55-a4c391fb00f9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -19891,7 +19771,7 @@
       "salaryMax": 104575,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T10:21:19.648Z",
+      "postedAt": "2026-11-09T20:33:17.807Z",
       "firstIndexedAt": "2026-10-01T14:51:51.868Z",
       "url": "https://www.dreamworkhq.com/job/6757cf5f-07d4-4d71-9bbb-c314550dce5c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -20191,7 +20071,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T16:50:19.931Z",
+      "postedAt": "2026-10-21T12:34:49.742Z",
       "firstIndexedAt": "2026-10-01T01:50:57.991Z",
       "url": "https://www.dreamworkhq.com/job/9be28cad-46d8-4152-bb44-a9218450900b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -20206,7 +20086,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T16:50:19.931Z",
+      "postedAt": "2026-10-21T12:34:49.742Z",
       "firstIndexedAt": "2026-10-01T01:50:57.991Z",
       "url": "https://www.dreamworkhq.com/job/a27c8a69-5c47-4a4d-9d68-f95b159b3a2d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -20221,7 +20101,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T16:50:19.931Z",
+      "postedAt": "2026-10-19T12:34:49.743Z",
       "firstIndexedAt": "2026-10-01T01:50:57.991Z",
       "url": "https://www.dreamworkhq.com/job/c1cbf1af-e303-493d-8ce9-f4eca94ede6d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -20266,7 +20146,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-11-06T23:30:39.814Z",
+      "postedAt": "2024-11-09T17:47:51.817Z",
       "firstIndexedAt": "2026-09-30T22:00:59.789Z",
       "url": "https://www.dreamworkhq.com/job/7293970f-1b16-43f8-a397-0088e192d5f7?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -20281,7 +20161,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-11-06T23:30:39.812Z",
+      "postedAt": "2024-11-09T17:47:52.188Z",
       "firstIndexedAt": "2026-09-30T22:00:59.789Z",
       "url": "https://www.dreamworkhq.com/job/b06cb8ae-a1db-4624-88b0-a438f1abbe65?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -20296,7 +20176,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2024-11-06T23:30:39.820Z",
+      "postedAt": "2024-11-09T17:47:51.599Z",
       "firstIndexedAt": "2026-09-30T22:00:59.789Z",
       "url": "https://www.dreamworkhq.com/job/e59538d4-a4d1-4ed2-b3c1-6825bd1985ca?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -20371,7 +20251,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2024-11-06T23:30:39.829Z",
+      "postedAt": "2024-11-09T17:47:52.336Z",
       "firstIndexedAt": "2026-09-30T18:30:14.522Z",
       "url": "https://www.dreamworkhq.com/job/334ff908-35bb-4675-9ceb-fc1fa3a02b91?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -20521,7 +20401,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-16T16:50:19.931Z",
+      "postedAt": "2026-10-16T12:34:49.743Z",
       "firstIndexedAt": "2026-09-30T02:17:53.623Z",
       "url": "https://www.dreamworkhq.com/job/fd3cf0bb-5636-4637-8ca7-ed428e069fba?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -20566,7 +20446,7 @@
       "salaryMax": 230000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-30T20:18:32.564Z",
+      "postedAt": "2026-10-30T16:53:19.124Z",
       "firstIndexedAt": "2026-09-30T00:02:39.113Z",
       "url": "https://www.dreamworkhq.com/job/417fbafa-9461-4521-8bb4-a8ecd3eca30a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -20926,7 +20806,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T03:02:44.302Z",
+      "postedAt": "2026-11-05T20:33:22.955Z",
       "firstIndexedAt": "2026-09-28T16:09:26.507Z",
       "url": "https://www.dreamworkhq.com/job/d0ef7a86-ccbc-4037-8a05-cd036ad3d545?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -21066,21 +20946,6 @@
       "url": "https://www.dreamworkhq.com/job/62a3c445-698f-409a-8be7-4304da92ea48?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "80af4f0d-8dcc-494d-95f8-f369b595da60",
-      "title": "AI Native Software Engineer",
-      "company": "Remitly",
-      "companyDomain": "remitly.com",
-      "location": "Seattle, Washington United States",
-      "remoteType": "hybrid",
-      "salaryMin": 124000,
-      "salaryMax": 155000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-09-25T14:21:36.670Z",
-      "firstIndexedAt": "2026-09-26T11:10:16.883Z",
-      "url": "https://www.dreamworkhq.com/job/80af4f0d-8dcc-494d-95f8-f369b595da60?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "d679e38d-5f0f-42e7-a312-a6b83d26223a",
       "title": "Systems Engineer",
       "company": "Peraton",
@@ -21151,7 +21016,7 @@
       "salaryMax": 93600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T16:48:14.033Z",
+      "postedAt": "2026-10-15T11:32:14.165Z",
       "firstIndexedAt": "2026-09-26T02:59:19.002Z",
       "url": "https://www.dreamworkhq.com/job/364d8ee9-8c3d-4118-99fa-c7c7c58b143e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -21229,21 +21094,6 @@
       "postedAt": "2026-09-25T18:33:21.000Z",
       "firstIndexedAt": "2026-09-25T21:16:05.572Z",
       "url": "https://www.dreamworkhq.com/job/ab8d2d51-2f3a-43db-886d-b2ee612aa10a?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "a8193fca-fcd9-4c6c-87d3-d04392d0b8ea",
-      "title": "Systems Engineer III (E3)",
-      "company": "Applied Materials",
-      "companyDomain": "appliedmaterials.com",
-      "location": "Santa Clara,CA",
-      "remoteType": "onsite",
-      "salaryMin": 138000,
-      "salaryMax": 190000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-28T10:20:10.145Z",
-      "firstIndexedAt": "2026-09-25T21:15:19.319Z",
-      "url": "https://www.dreamworkhq.com/job/a8193fca-fcd9-4c6c-87d3-d04392d0b8ea?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "3d0ede87-a00e-43bb-8bb1-4ec17afec18d",
@@ -21481,7 +21331,7 @@
       "salaryMax": 146250,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T04:30:44.300Z",
+      "postedAt": "2026-10-14T07:45:35.926Z",
       "firstIndexedAt": "2026-09-25T10:32:16.442Z",
       "url": "https://www.dreamworkhq.com/job/5882a1f0-fbf8-47b9-8e71-80a6bd014676?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -21646,7 +21496,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T03:03:02.294Z",
+      "postedAt": "2026-10-23T20:33:44.085Z",
       "firstIndexedAt": "2026-09-25T01:38:44.081Z",
       "url": "https://www.dreamworkhq.com/job/8c7430b0-a12c-4cb2-af45-80ea1417fec3?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -21871,7 +21721,7 @@
       "salaryMax": 113838,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T04:02:38.964Z",
+      "postedAt": "2026-10-23T21:18:26.839Z",
       "firstIndexedAt": "2026-09-24T04:26:01.538Z",
       "url": "https://www.dreamworkhq.com/job/c68165e7-60e8-4000-86c6-771caa2a57af?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -21946,7 +21796,7 @@
       "salaryMax": 157400,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T02:19:48.552Z",
+      "postedAt": "2026-11-06T15:48:29.667Z",
       "firstIndexedAt": "2026-09-24T01:13:11.633Z",
       "url": "https://www.dreamworkhq.com/job/83057474-1bb1-42cc-9bc0-c4f4e61b66a6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -21991,7 +21841,7 @@
       "salaryMax": 149500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T04:32:40.889Z",
+      "postedAt": "2026-11-02T21:19:56.359Z",
       "firstIndexedAt": "2026-09-23T16:03:19.835Z",
       "url": "https://www.dreamworkhq.com/job/51613cbf-26e5-4e28-a0dc-8ffe6af9d30a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -22531,7 +22381,7 @@
       "salaryMax": 126500,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-10-23T23:33:07.928Z",
+      "postedAt": "2026-10-23T20:20:33.436Z",
       "firstIndexedAt": "2026-09-20T22:51:34.591Z",
       "url": "https://www.dreamworkhq.com/job/ae5d706b-6ae8-4e42-a7ad-13bf6c15d6dd?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -23181,21 +23031,6 @@
       "url": "https://www.dreamworkhq.com/job/1c90c245-954f-4dc2-8af0-c52db2ca88ce?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "230dfa86-32df-44f6-bb1b-5119f8d0ead8",
-      "title": "Junior Systems Engineer (Hybrid) - Jira/Confluence/Agile/Java/JavaScript",
-      "company": "Captivation",
-      "companyDomain": "captivation.com",
-      "location": "Annapolis Junction, MD",
-      "remoteType": "hybrid",
-      "salaryMin": 130000,
-      "salaryMax": 270000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-17T00:37:11.000Z",
-      "firstIndexedAt": "2026-09-17T14:15:28.299Z",
-      "url": "https://www.dreamworkhq.com/job/230dfa86-32df-44f6-bb1b-5119f8d0ead8?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "bc710b36-795c-4da2-b9bf-346a6154e583",
       "title": "Associate Data Engineer",
       "company": "Map",
@@ -23686,9 +23521,24 @@
       "salaryMax": 173250,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T07:47:18.009Z",
+      "postedAt": "2026-11-03T20:31:07.303Z",
       "firstIndexedAt": "2026-09-16T05:41:57.401Z",
       "url": "https://www.dreamworkhq.com/job/70a653e9-e5fb-47f8-8131-24556f5693bb?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "ba24e569-ac32-4624-b218-d906f80731d8",
+      "title": "Systems Engineer",
+      "company": "Gdit",
+      "companyDomain": "gdit.com",
+      "location": "USA FL MacDill AFB",
+      "remoteType": "onsite",
+      "salaryMin": 93500,
+      "salaryMax": 126500,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T21:19:26.228Z",
+      "firstIndexedAt": "2026-09-16T03:58:27.272Z",
+      "url": "https://www.dreamworkhq.com/job/ba24e569-ac32-4624-b218-d906f80731d8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "d9fb8799-a643-478c-9d7d-89d48505afe5",
@@ -23701,7 +23551,7 @@
       "salaryMax": 131100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-11T16:50:19.933Z",
+      "postedAt": "2026-10-11T12:34:49.743Z",
       "firstIndexedAt": "2026-09-16T03:24:48.159Z",
       "url": "https://www.dreamworkhq.com/job/d9fb8799-a643-478c-9d7d-89d48505afe5?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -24061,7 +23911,7 @@
       "salaryMax": 98599,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T04:32:40.889Z",
+      "postedAt": "2026-11-02T21:19:59.504Z",
       "firstIndexedAt": "2026-09-14T23:51:28.181Z",
       "url": "https://www.dreamworkhq.com/job/176e0fc4-54b0-4e3c-957b-807d1eb57684?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -24106,7 +23956,7 @@
       "salaryMax": 80600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-27T23:19:07.178Z",
+      "postedAt": "2026-10-27T12:48:36.490Z",
       "firstIndexedAt": "2026-09-14T21:31:43.925Z",
       "url": "https://www.dreamworkhq.com/job/ee550ed4-c593-4d65-9cbe-acd225509ef2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -24196,7 +24046,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-27T16:50:19.929Z",
+      "postedAt": "2026-10-27T12:34:49.741Z",
       "firstIndexedAt": "2026-09-14T04:49:04.649Z",
       "url": "https://www.dreamworkhq.com/job/d36e3b47-ae65-4bfe-872f-3710413e7783?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -24289,21 +24139,6 @@
       "postedAt": "2026-09-11T09:00:52.379Z",
       "firstIndexedAt": "2026-09-12T12:35:24.783Z",
       "url": "https://www.dreamworkhq.com/job/c6f2e25e-24b5-4c99-82ca-18f09a8a92db?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "d34dc01d-aed6-4cd1-8840-3f1f326583f5",
-      "title": "CPQ Solutions Engineer",
-      "company": "Genpt",
-      "companyDomain": "genpt.com",
-      "location": "Cedar Rapids, IA, USA",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-09-09T16:36:16.868Z",
-      "firstIndexedAt": "2026-09-12T11:52:10.254Z",
-      "url": "https://www.dreamworkhq.com/job/d34dc01d-aed6-4cd1-8840-3f1f326583f5?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "ea7a1a91-9bba-4303-a88d-08f26ee2a6d7",
@@ -24826,7 +24661,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-27T16:50:19.930Z",
+      "postedAt": "2026-10-27T12:34:49.741Z",
       "firstIndexedAt": "2026-09-10T04:06:52.873Z",
       "url": "https://www.dreamworkhq.com/job/2e213740-5da6-4c2f-bb5f-71cf2c22875e?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -25075,7 +24910,7 @@
       "title": "Software Engineer",
       "company": "Caterpillar",
       "companyDomain": "caterpillar.com",
-      "location": "Chicago, Illinois",
+      "location": "3 Locations",
       "remoteType": "onsite",
       "salaryMin": 89210,
       "salaryMax": 144960,
@@ -25090,7 +24925,7 @@
       "title": "Data Scientist / Technical Analyst",
       "company": "Caterpillar",
       "companyDomain": "caterpillar.com",
-      "location": "Chicago, Illinois",
+      "location": "4 Locations",
       "remoteType": "onsite",
       "salaryMin": 89210,
       "salaryMax": 144960,
@@ -25516,7 +25351,7 @@
       "salaryMax": 148500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-22T23:33:08.578Z",
+      "postedAt": "2026-10-22T20:20:34.022Z",
       "firstIndexedAt": "2026-09-04T03:33:56.693Z",
       "url": "https://www.dreamworkhq.com/job/e9772086-41d9-457e-ae5c-5e6d5bed6852?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -25996,7 +25831,7 @@
       "salaryMax": 195500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T20:18:12.185Z",
+      "postedAt": "2026-11-02T16:52:35.126Z",
       "firstIndexedAt": "2026-09-02T05:22:59.687Z",
       "url": "https://www.dreamworkhq.com/job/90e71927-97f1-4922-9c6a-8aa74d020863?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -26206,7 +26041,7 @@
       "salaryMax": 141800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T20:02:26.277Z",
+      "postedAt": "2026-10-23T10:02:18.183Z",
       "firstIndexedAt": "2026-09-01T03:23:17.083Z",
       "url": "https://www.dreamworkhq.com/job/ee61626e-f6a0-4783-b1f0-6d1279a06992?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -26691,21 +26526,6 @@
       "url": "https://www.dreamworkhq.com/job/4f6b0b92-913e-4034-8467-578407a41eaf?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "2487e2c4-6cd7-4dca-9ba3-3b5133b760b8",
-      "title": "Software Engineer - Software Test",
-      "company": "Northrop Grumman",
-      "companyDomain": "northropgrumman.com",
-      "location": "United States-California-San Diego",
-      "remoteType": "hybrid",
-      "salaryMin": 79300,
-      "salaryMax": 137600,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-19T23:19:29.595Z",
-      "firstIndexedAt": "2026-08-29T02:00:53.050Z",
-      "url": "https://www.dreamworkhq.com/job/2487e2c4-6cd7-4dca-9ba3-3b5133b760b8?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "3f90e674-b270-4f4b-a07d-ab1b490975ff",
       "title": "Cloud Engineer Graduate",
       "company": "HPE",
@@ -27061,7 +26881,7 @@
       "salaryMax": 113800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-12T23:19:37.987Z",
+      "postedAt": "2026-10-12T12:48:36.492Z",
       "firstIndexedAt": "2026-08-27T05:25:47.900Z",
       "url": "https://www.dreamworkhq.com/job/01fa2c2c-c5b1-4a84-af97-dafdd98d7814?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -27091,7 +26911,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T05:18:23.647Z",
+      "postedAt": "2026-10-23T19:51:41.832Z",
       "firstIndexedAt": "2026-08-27T04:29:18.533Z",
       "url": "https://www.dreamworkhq.com/job/96ca1db5-bc72-486d-9e44-5a39a8d7828f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -27436,7 +27256,7 @@
       "salaryMax": 137600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-28T23:19:02.923Z",
+      "postedAt": "2026-10-28T12:48:36.490Z",
       "firstIndexedAt": "2026-08-26T06:35:41.901Z",
       "url": "https://www.dreamworkhq.com/job/8fa5cfba-12a1-4da2-8864-802eddbd0402?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -27586,7 +27406,7 @@
       "salaryMax": 63898,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-28T05:18:21.632Z",
+      "postedAt": "2026-10-27T19:51:40.124Z",
       "firstIndexedAt": "2026-08-25T19:05:22.636Z",
       "url": "https://www.dreamworkhq.com/job/06f14c4a-1926-4a63-8f03-02c3432ff989?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -27741,21 +27561,6 @@
       "url": "https://www.dreamworkhq.com/job/2babcc74-4ec7-4c83-9dcf-26f367e53bd9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "e754497e-b43a-4878-aaa5-1d266e89c375",
-      "title": "Middleware Solutions Engineer I",
-      "company": "Otter",
-      "companyDomain": "otterpos.com",
-      "location": "Los Angeles, CA",
-      "remoteType": "onsite",
-      "salaryMin": 93000,
-      "salaryMax": 109000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-24T16:23:06.000Z",
-      "firstIndexedAt": "2026-08-24T23:15:53.693Z",
-      "url": "https://www.dreamworkhq.com/job/e754497e-b43a-4878-aaa5-1d266e89c375?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "98dbf847-5d6e-427d-bf95-0f8688d9b56c",
       "title": "Middleware Solutions Engineer I",
       "company": "Cssmerge",
@@ -27886,7 +27691,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-11-07T12:45:31.829Z",
+      "postedAt": "2024-11-09T13:00:40.888Z",
       "firstIndexedAt": "2026-08-23T10:15:28.528Z",
       "url": "https://www.dreamworkhq.com/job/650be098-c0ce-4c0c-a83c-6c099a84d8c2?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -27901,7 +27706,7 @@
       "salaryMax": 137600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T23:18:34.237Z",
+      "postedAt": "2026-11-05T12:48:25.597Z",
       "firstIndexedAt": "2026-08-22T14:51:08.169Z",
       "url": "https://www.dreamworkhq.com/job/2bd91064-4e83-4ead-9d16-5ec5326c1014?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -27916,7 +27721,7 @@
       "salaryMax": 137600,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T23:18:49.600Z",
+      "postedAt": "2026-11-03T12:48:36.489Z",
       "firstIndexedAt": "2026-08-22T14:51:08.169Z",
       "url": "https://www.dreamworkhq.com/job/a174e2ad-c47d-4def-81ca-ed4d63581362?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -27991,7 +27796,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-11-06T23:30:39.704Z",
+      "postedAt": "2024-11-09T17:47:51.144Z",
       "firstIndexedAt": "2026-08-22T06:30:59.046Z",
       "url": "https://www.dreamworkhq.com/job/783b39c8-c0c4-4c1a-8995-bf7e26102596?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -28351,7 +28156,7 @@
       "salaryMax": 118000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-10-11T02:31:23.931Z",
+      "postedAt": "2026-10-10T14:46:38.171Z",
       "firstIndexedAt": "2026-08-19T00:33:12.160Z",
       "url": "https://www.dreamworkhq.com/job/b6a09253-6b9d-4064-bae3-0620bd8eea04?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -28366,7 +28171,7 @@
       "salaryMax": 78000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-11T02:31:24.049Z",
+      "postedAt": "2026-10-10T14:46:38.302Z",
       "firstIndexedAt": "2026-08-19T00:33:12.160Z",
       "url": "https://www.dreamworkhq.com/job/f0b3adc7-134d-45cc-96ba-9edf180f8e52?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -28576,7 +28381,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T16:50:16.885Z",
+      "postedAt": "2026-11-05T12:34:45.791Z",
       "firstIndexedAt": "2026-08-16T13:14:56.353Z",
       "url": "https://www.dreamworkhq.com/job/8f20e17f-b113-49db-b256-3387ae8dbaf8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -29161,7 +28966,7 @@
       "salaryMax": 135700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-07T00:33:36.076Z",
+      "postedAt": "2026-11-06T20:18:56.664Z",
       "firstIndexedAt": "2026-08-13T21:34:43.763Z",
       "url": "https://www.dreamworkhq.com/job/bc74c8d4-2c44-4b7e-9823-eb36715686d6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -29511,6 +29316,36 @@
       "url": "https://www.dreamworkhq.com/job/80cc076b-1db8-4555-8932-7c3ef9391233?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "2fe4232d-bbda-4239-a843-ff193d4e2ce2",
+      "title": "2027 Software Engineer Program - Full-Time - United States - July Start",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Chicago, IL, United States",
+      "remoteType": "onsite",
+      "salaryMin": 80750,
+      "salaryMax": 95000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-03T04:00:00.000Z",
+      "firstIndexedAt": "2026-08-09T12:03:44.587Z",
+      "url": "https://www.dreamworkhq.com/job/2fe4232d-bbda-4239-a843-ff193d4e2ce2?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "b5499573-6d2d-4051-a998-d0205e97cb65",
+      "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Chicago, IL, United States",
+      "remoteType": "onsite",
+      "salaryMin": 80750,
+      "salaryMax": 95000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-03T04:00:00.000Z",
+      "firstIndexedAt": "2026-08-09T12:03:44.587Z",
+      "url": "https://www.dreamworkhq.com/job/b5499573-6d2d-4051-a998-d0205e97cb65?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "2418f95d-b7e4-4ff6-a256-0592ca9fada6",
       "title": "Junior Software Engineer (5510)",
       "company": "SMX",
@@ -29596,7 +29431,7 @@
       "salaryMax": 163000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-15T03:47:32.489Z",
+      "postedAt": "2026-10-14T21:05:23.359Z",
       "firstIndexedAt": "2026-08-08T21:46:46.316Z",
       "url": "https://www.dreamworkhq.com/job/59b8cb68-fcae-4576-8328-7973265bfaf4?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -29611,7 +29446,7 @@
       "salaryMax": 105800,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-11-03T04:32:40.889Z",
+      "postedAt": "2026-11-02T21:20:03.856Z",
       "firstIndexedAt": "2026-08-08T11:31:23.823Z",
       "url": "https://www.dreamworkhq.com/job/5e9125ea-e01b-4f85-b7da-c15fd17ba38b?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -29671,7 +29506,7 @@
       "salaryMax": 241500,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-30T20:18:48.841Z",
+      "postedAt": "2026-10-30T16:53:41.397Z",
       "firstIndexedAt": "2026-08-07T00:04:41.695Z",
       "url": "https://www.dreamworkhq.com/job/cc2792c0-99c3-4337-9c11-67b3a5cd3f45?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -29959,36 +29794,6 @@
       "postedAt": "2026-07-23T19:30:34.000Z",
       "firstIndexedAt": "2026-08-03T18:00:05.440Z",
       "url": "https://www.dreamworkhq.com/job/f4adc714-59a8-475a-9db6-d2637a9a2ac6?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "cf68bc7a-b7e1-4e86-a2a8-f818a9bbc9d1",
-      "title": "2027 Software Engineer Program - Full-Time - United States - July Start",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Chicago, IL, United States",
-      "remoteType": "onsite",
-      "salaryMin": 80750,
-      "salaryMax": 95000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-03T04:00:00.000Z",
-      "firstIndexedAt": "2026-08-03T13:48:36.672Z",
-      "url": "https://www.dreamworkhq.com/job/cf68bc7a-b7e1-4e86-a2a8-f818a9bbc9d1?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "f9cf3eae-684f-4c33-8fb4-b1aab213e144",
-      "title": "2027 Software Engineer Program - Full-Time - United States - February Start",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Chicago, IL, United States",
-      "remoteType": "onsite",
-      "salaryMin": 80750,
-      "salaryMax": 95000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-03T04:00:00.000Z",
-      "firstIndexedAt": "2026-08-03T13:48:36.672Z",
-      "url": "https://www.dreamworkhq.com/job/f9cf3eae-684f-4c33-8fb4-b1aab213e144?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "6f783ae2-c884-4534-b727-eb4b72c4a4b7",
@@ -30616,7 +30421,7 @@
       "salaryMax": 119700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T16:50:19.931Z",
+      "postedAt": "2026-10-20T12:34:49.742Z",
       "firstIndexedAt": "2026-07-23T09:19:46.405Z",
       "url": "https://www.dreamworkhq.com/job/e71d4362-abdc-4bfd-9db4-b1a33a253221?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -30646,7 +30451,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-23T16:50:19.930Z",
+      "postedAt": "2026-10-23T12:34:49.742Z",
       "firstIndexedAt": "2026-07-23T05:31:10.281Z",
       "url": "https://www.dreamworkhq.com/job/72c46f4b-2791-4f5f-af9f-558893544aa9?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -30826,7 +30631,7 @@
       "salaryMax": 55000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2024-11-07T20:31:03.158Z",
+      "postedAt": "2024-11-09T14:15:34.733Z",
       "firstIndexedAt": "2026-07-21T20:12:35.451Z",
       "url": "https://www.dreamworkhq.com/job/d6499034-edf1-4ddf-b371-d268ac13488d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -30841,7 +30646,7 @@
       "salaryMax": 108000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-20T03:33:59.322Z",
+      "postedAt": "2026-10-19T18:02:41.714Z",
       "firstIndexedAt": "2026-07-21T20:12:29.341Z",
       "url": "https://www.dreamworkhq.com/job/56fd876d-1147-4625-b285-81ad38530f5d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -31401,21 +31206,6 @@
       "url": "https://www.dreamworkhq.com/job/19f09dbd-4a4b-4432-bf14-e8e9371ce29a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "23ed1415-1624-4a47-a5f8-ea2ef71d0058",
-      "title": "Cloud Engineer II (Full Time) - United States",
-      "company": "Cisco",
-      "companyDomain": "cisco.com",
-      "location": "Milpitas, California, US",
-      "remoteType": "hybrid",
-      "salaryMin": 123600,
-      "salaryMax": 174000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T23:01:54.374Z",
-      "firstIndexedAt": "2026-07-13T06:34:17.887Z",
-      "url": "https://www.dreamworkhq.com/job/23ed1415-1624-4a47-a5f8-ea2ef71d0058?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "659e8429-c28b-464c-af8b-92a40661eb1c",
       "title": "Software Developer",
       "company": "Parsons Corporation",
@@ -31429,6 +31219,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-07-13T06:28:34.696Z",
       "url": "https://www.dreamworkhq.com/job/659e8429-c28b-464c-af8b-92a40661eb1c?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "34834a66-5843-4521-b555-f725969d4bf1",
+      "title": "Bridge Designer/CAD Detailer - Transportation/Infrastructure",
+      "company": "Parsons Corporation",
+      "companyDomain": "parsons.com",
+      "location": "US - OH, Cincinnati",
+      "remoteType": "onsite",
+      "salaryMin": 47694,
+      "salaryMax": 83491,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": null,
+      "firstIndexedAt": "2026-07-13T06:28:25.924Z",
+      "url": "https://www.dreamworkhq.com/job/34834a66-5843-4521-b555-f725969d4bf1?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "087c0fc5-8d93-44f4-b980-e30b2a28910b",
@@ -31771,7 +31576,7 @@
       "salaryMax": 108800,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-21T16:50:19.931Z",
+      "postedAt": "2026-10-21T12:34:49.742Z",
       "firstIndexedAt": "2026-07-10T06:08:19.420Z",
       "url": "https://www.dreamworkhq.com/job/13be7c65-0d52-4b5b-a5aa-22a71df03d76?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -31815,7 +31620,7 @@
       "salaryMin": 88400,
       "salaryMax": 154700,
       "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
+      "aiRoleKind": "non_ai",
       "postedAt": "2026-06-28T23:32:32.852Z",
       "firstIndexedAt": "2026-07-10T00:33:51.574Z",
       "url": "https://www.dreamworkhq.com/job/44ede154-1fdc-4236-9924-58345bf5e322?utm_source=github&utm_campaign=gh-new-grad-swe"
@@ -31831,7 +31636,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T03:02:50.458Z",
+      "postedAt": "2026-11-03T20:33:30.240Z",
       "firstIndexedAt": "2026-07-09T06:16:42.583Z",
       "url": "https://www.dreamworkhq.com/job/158bce16-6ea1-4259-a0d1-380ed99eaf96?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -32086,7 +31891,7 @@
       "salaryMax": 231700,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-11-05T20:02:17.436Z",
+      "postedAt": "2026-11-05T10:02:18.182Z",
       "firstIndexedAt": "2026-07-07T06:01:05.692Z",
       "url": "https://www.dreamworkhq.com/job/f86dd4cb-2b03-4e38-80df-2ce40007baee?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -32131,7 +31936,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T03:02:52.125Z",
+      "postedAt": "2026-11-02T20:33:32.091Z",
       "firstIndexedAt": "2026-07-03T06:10:32.819Z",
       "url": "https://www.dreamworkhq.com/job/e9ec5980-5006-49e7-9fc5-f1ee7b5c79cd?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -32221,7 +32026,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-24T02:15:37.712Z",
+      "postedAt": "2026-10-23T19:16:18.283Z",
       "firstIndexedAt": "2026-07-02T00:10:28.031Z",
       "url": "https://www.dreamworkhq.com/job/6af59dfe-4a4f-497d-86c4-853bdb89f01d?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -32416,7 +32221,7 @@
       "salaryMax": 125725,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T03:02:49.020Z",
+      "postedAt": "2026-11-04T20:33:28.088Z",
       "firstIndexedAt": "2026-07-01T06:08:43.521Z",
       "url": "https://www.dreamworkhq.com/job/bd19d35e-934f-4efa-8250-61883a8c9f94?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -32890,7 +32695,7 @@
       "title": "Software Engineer- Cloud Infrastructure and DevOps",
       "company": "PayPal",
       "companyDomain": "paypal.com",
-      "location": "3 Locations",
+      "location": "San Jose, California, United States of America",
       "remoteType": "hybrid",
       "salaryMin": 116500,
       "salaryMax": 173250,
@@ -33346,7 +33151,7 @@
       "salaryMax": 141100,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-13T20:02:26.277Z",
+      "postedAt": "2026-10-13T10:02:18.183Z",
       "firstIndexedAt": "2026-06-16T06:04:29.904Z",
       "url": "https://www.dreamworkhq.com/job/05773d8b-4068-4cf5-a001-33f055a8b8be?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -33691,7 +33496,7 @@
       "salaryMax": 218500,
       "salaryPeriod": "annual",
       "aiRoleKind": null,
-      "postedAt": "2026-10-30T20:18:48.842Z",
+      "postedAt": "2026-10-30T16:53:41.398Z",
       "firstIndexedAt": "2026-06-04T06:32:30.133Z",
       "url": "https://www.dreamworkhq.com/job/d686ad84-14cc-4ebc-bd12-213923a38967?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -33700,7 +33505,7 @@
       "title": "Software Engineer",
       "company": "Rundoo",
       "companyDomain": "rundoo.com",
-      "location": "Redwood City, CA",
+      "location": "San Mateo, CA",
       "remoteType": "onsite",
       "salaryMin": 163000,
       "salaryMax": 192000,
@@ -36831,6 +36636,36 @@
       "url": "https://www.dreamworkhq.com/job/175f4baa-5fc2-4d9e-bce2-4016e8db8888?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
+      "id": "b4e258e5-eae2-47e1-927b-f96ea2f094fe",
+      "title": "AI Engineer - Remote",
+      "company": "HyrEzy Talent Solutions",
+      "companyDomain": "hyrezy.com",
+      "location": "India",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-11-08T04:36:56.000Z",
+      "firstIndexedAt": "2026-11-09T17:53:25.143Z",
+      "url": "https://www.dreamworkhq.com/job/b4e258e5-eae2-47e1-927b-f96ea2f094fe?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "fb49fce3-1d4a-4231-9888-ed9162f82175",
+      "title": "Junior Infrastructure Engineer (On-Premise)",
+      "company": "Godlike",
+      "companyDomain": "godlike.host",
+      "location": "Europe",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-11-09T09:07:46.901Z",
+      "firstIndexedAt": "2026-11-09T15:15:07.508Z",
+      "url": "https://www.dreamworkhq.com/job/fb49fce3-1d4a-4231-9888-ed9162f82175?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
       "id": "f388f396-3ef8-472a-b88a-28b57a422ce1",
       "title": "Junior Software Developer",
       "company": "Hootsuite",
@@ -37351,7 +37186,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-05T16:18:57.107Z",
+      "postedAt": "2026-11-05T12:04:04.343Z",
       "firstIndexedAt": "2026-11-05T19:39:11.434Z",
       "url": "https://www.dreamworkhq.com/job/710154d8-5e0c-4da1-aec9-25e57c3c6573?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -37519,21 +37354,6 @@
       "postedAt": "2026-11-03T11:00:36.402Z",
       "firstIndexedAt": "2026-11-04T20:17:29.937Z",
       "url": "https://www.dreamworkhq.com/job/f9dc2b26-9243-486d-94bf-9cb602d4698d?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "6ae0f775-1774-4c78-8bb3-bfcc453dc1c5",
-      "title": "Pessoa Desenvolvedora Front-end Jr - Seller Management",
-      "company": "Grupo OLX",
-      "companyDomain": "olx.com.br",
-      "location": "Brazil",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T18:41:51.296Z",
-      "firstIndexedAt": "2026-11-04T18:15:44.495Z",
-      "url": "https://www.dreamworkhq.com/job/6ae0f775-1774-4c78-8bb3-bfcc453dc1c5?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "cc5d4808-f6fd-449f-96b7-aa848075946d",
@@ -37761,36 +37581,6 @@
       "url": "https://www.dreamworkhq.com/job/74043e5c-951b-4267-b50c-d1ef91ac851c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "20f3cac2-4aa7-4411-9758-6bd75db46231",
-      "title": "Software Mobile Engineer",
-      "company": "Jobgether",
-      "companyDomain": "jobgether.com",
-      "location": "India",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T13:42:10.000Z",
-      "firstIndexedAt": "2026-11-03T02:32:12.884Z",
-      "url": "https://www.dreamworkhq.com/job/20f3cac2-4aa7-4411-9758-6bd75db46231?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "52b7afc9-39e9-41ca-9a2f-e8c0a3109676",
-      "title": "Platform Engineer",
-      "company": "Jobgether",
-      "companyDomain": "jobgether.com",
-      "location": "India",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T15:23:01.000Z",
-      "firstIndexedAt": "2026-11-03T02:31:18.306Z",
-      "url": "https://www.dreamworkhq.com/job/52b7afc9-39e9-41ca-9a2f-e8c0a3109676?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "5fbe37e7-5bab-4a5e-936d-ef19740801cf",
       "title": "iOS developer",
       "company": "molfar.io",
@@ -37834,21 +37624,6 @@
       "postedAt": "2026-11-02T10:25:18.000Z",
       "firstIndexedAt": "2026-11-02T17:16:34.983Z",
       "url": "https://www.dreamworkhq.com/job/7e86b635-2801-4821-8400-b8b167d3ca10?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "a224b17c-945c-4167-9f07-e971f15ce84a",
-      "title": "Junior Infrastructure Engineer (On-Premise)",
-      "company": "Godlike",
-      "companyDomain": "godlike.host",
-      "location": "Europe",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-02T11:36:06.005Z",
-      "firstIndexedAt": "2026-11-02T17:06:17.442Z",
-      "url": "https://www.dreamworkhq.com/job/a224b17c-945c-4167-9f07-e971f15ce84a?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "415d68c5-5b23-4a93-b43c-00a8162ca1a1",
@@ -38191,7 +37966,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-06T02:31:49.994Z",
+      "postedAt": "2026-11-05T21:17:23.715Z",
       "firstIndexedAt": "2026-10-29T13:58:49.024Z",
       "url": "https://www.dreamworkhq.com/job/7237561d-ac29-49a1-bcdc-634a99db8391?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -38239,6 +38014,21 @@
       "postedAt": "2026-10-29T04:31:36.966Z",
       "firstIndexedAt": "2026-10-29T07:24:20.183Z",
       "url": "https://www.dreamworkhq.com/job/d8a7b5a7-6769-4d58-846b-b0e834a9634f?utm_source=github&utm_campaign=gh-new-grad-swe"
+    },
+    {
+      "id": "adba5cdd-fec0-4837-97eb-ef190bec2275",
+      "title": "Associate Consultant in Network Platforms, Automation & AI Operations",
+      "company": "Kyndryl",
+      "companyDomain": "kyndryl.com",
+      "location": "2 Locations",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-10-28T13:02:20.936Z",
+      "firstIndexedAt": "2026-10-28T20:13:12.087Z",
+      "url": "https://www.dreamworkhq.com/job/adba5cdd-fec0-4837-97eb-ef190bec2275?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "cc707140-244a-4c58-ac5e-e83317f3de65",
@@ -38296,7 +38086,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-29T02:31:57.902Z",
+      "postedAt": "2026-10-28T21:17:35.482Z",
       "firstIndexedAt": "2026-10-28T15:21:28.787Z",
       "url": "https://www.dreamworkhq.com/job/c6af1765-0aef-4e44-a57c-9440960de72c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -39421,7 +39211,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-13T18:32:29.045Z",
+      "postedAt": "2026-10-13T10:04:36.697Z",
       "firstIndexedAt": "2026-10-13T14:07:43.247Z",
       "url": "https://www.dreamworkhq.com/job/f6b50c40-d6e1-4b9e-9bd3-8829b875b12c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -39436,7 +39226,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-14T02:32:08.542Z",
+      "postedAt": "2026-10-13T21:17:54.341Z",
       "firstIndexedAt": "2026-10-13T12:23:03.744Z",
       "url": "https://www.dreamworkhq.com/job/e692614e-b925-40be-8041-85f3f355ecbe?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -39511,7 +39301,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-10-13T02:20:22.483Z",
+      "postedAt": "2026-10-12T15:49:06.984Z",
       "firstIndexedAt": "2026-10-12T16:19:26.854Z",
       "url": "https://www.dreamworkhq.com/job/03801dd7-975d-4c2d-8089-d6265b6a3bc0?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -40396,7 +40186,7 @@
       "salaryMax": 52000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-03T17:03:22.657Z",
+      "postedAt": "2026-11-03T09:45:43.834Z",
       "firstIndexedAt": "2026-09-17T15:23:01.097Z",
       "url": "https://www.dreamworkhq.com/job/778a25ba-8ca3-4f7f-8446-47e10e91afae?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -40476,21 +40266,6 @@
       "url": "https://www.dreamworkhq.com/job/c1e74552-78f6-4f2c-92c4-84edc3849f4f?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
-      "id": "55964659-2f01-49a9-8b5b-a268a1a68222",
-      "title": "Assembler Developer – SDE I",
-      "company": "CSGCareers",
-      "companyDomain": "csgi.com",
-      "location": "India Remote",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-11-04T20:16:52.806Z",
-      "firstIndexedAt": "2026-09-12T12:37:36.224Z",
-      "url": "https://www.dreamworkhq.com/job/55964659-2f01-49a9-8b5b-a268a1a68222?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
       "id": "397d2d24-bda0-43c5-9700-ba66f6dcdbb5",
       "title": "Associate Data Engineer",
       "company": "Taskus",
@@ -40504,21 +40279,6 @@
       "postedAt": "2026-09-09T15:53:09.894Z",
       "firstIndexedAt": "2026-09-09T16:23:10.961Z",
       "url": "https://www.dreamworkhq.com/job/397d2d24-bda0-43c5-9700-ba66f6dcdbb5?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "e27ed504-d0f4-4352-baf3-4637c6bfc51c",
-      "title": "Junior Full Stack Engineer – AI",
-      "company": "The Global Talent Co",
-      "companyDomain": "globaltalent.co",
-      "location": "South Africa - Gauteng (ZipRecruiter)",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-09T14:47:11.538Z",
-      "firstIndexedAt": "2026-09-07T02:45:32.227Z",
-      "url": "https://www.dreamworkhq.com/job/e27ed504-d0f4-4352-baf3-4637c6bfc51c?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "8c4b1135-8343-426e-b976-8a7ee95e74b1",
@@ -40546,7 +40306,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-11-02T11:13:37.646Z",
+      "postedAt": "2026-11-09T08:12:56.149Z",
       "firstIndexedAt": "2026-09-02T15:35:36.097Z",
       "url": "https://www.dreamworkhq.com/job/985b4d7a-9188-463b-96ac-a791fc4084b8?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -40609,21 +40369,6 @@
       "postedAt": "2026-08-24T11:18:21.000Z",
       "firstIndexedAt": "2026-08-29T20:32:39.883Z",
       "url": "https://www.dreamworkhq.com/job/6fb52239-82c7-4074-9d22-5159452083fa?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "77c02486-4ca5-43c2-9d98-95635c66f073",
-      "title": "Software Engineer",
-      "company": "The Global Talent Co",
-      "companyDomain": "globaltalent.co",
-      "location": "South Africa - Gauteng (ZipRecruiter)",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-09-09T14:46:20.409Z",
-      "firstIndexedAt": "2026-08-29T09:30:43.695Z",
-      "url": "https://www.dreamworkhq.com/job/77c02486-4ca5-43c2-9d98-95635c66f073?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "010c80f5-b38d-42c6-a034-b9f0b876517f",
@@ -40801,7 +40546,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-11-02T11:13:40.640Z",
+      "postedAt": "2026-11-09T08:12:58.888Z",
       "firstIndexedAt": "2026-08-15T08:42:10.108Z",
       "url": "https://www.dreamworkhq.com/job/cf7efe7d-34e8-44ba-be90-479796843ee6?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
@@ -41134,21 +40879,6 @@
       "postedAt": "2026-10-06T06:10:53.286Z",
       "firstIndexedAt": "2026-07-10T04:24:08.321Z",
       "url": "https://www.dreamworkhq.com/job/d3f5baea-b098-406d-8a58-981b4b23656c?utm_source=github&utm_campaign=gh-new-grad-swe"
-    },
-    {
-      "id": "12599106-e1d7-4962-9a19-683664095034",
-      "title": "Junior SOC Security Engineer",
-      "company": "Rtbhouse",
-      "companyDomain": "rtbhouse.com",
-      "location": "Warsaw, Masovian Voivodeship, Poland",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T11:11:36.000Z",
-      "firstIndexedAt": "2026-07-07T06:02:22.684Z",
-      "url": "https://www.dreamworkhq.com/job/12599106-e1d7-4962-9a19-683664095034?utm_source=github&utm_campaign=gh-new-grad-swe"
     },
     {
       "id": "479b56c5-2fe2-4d3b-a9e9-a4ee75cf0227",
