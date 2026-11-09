@@ -240,6 +240,7 @@
   ],
   "usOnly": true,
   "titleInclude": "software|developer|\\bswe\\b|front[- ]?end|back[- ]?end|full[- ]?stack|mobile|\\bios\\b|android|platform|infrastructure|devops|site reliability|\\bsre\\b|data engineer|data scientist|data analyst|machine learning|ml engineer|ai engineer|security engineer|security analyst|cloud|\\bqa\\b|test engineer|embedded|firmware|systems engineer|solutions engineer|web develop",
+  "companyExclude": "^ITOL Recruit$",
   "titleExclude": "senior|\\bsr\\.?\\b|staff|principal|\\blead\\b|manager|director|vice president|\\b(?:a|s)?vp\\b|head of|president\\b|intern\\b|internship|co-?op\\b|ph\\.?d",
   "maxRows": 300,
   "minRows": 25,
